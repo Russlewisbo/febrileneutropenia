@@ -134,6 +134,14 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 [@basile2019]
 :::
 
+## Dysbiosis
+
+![](images/dysbiosis.png){fig-align="center"}
+
+::: aside
+image:www.biorender.com
+:::
+
 ## Which bacterial pathogens translocate?
 
 ![](images/mbi_pathogens.png){fig-align="center"}
@@ -143,6 +151,10 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 ### WHO toxicity scale
 
 ![](images/clipboard-4192934584.png)
+
+## Sequence of infection in febrile neutropenia
+
+![](images/sequence.png){fig-align="center"}
 
 ## References
 
