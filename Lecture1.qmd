@@ -46,6 +46,8 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 ## Chemotherapy-associated neutropenia
 
+<br>
+
 -   Virtually all antineoplastic impair proliferation of normal hematopoietic progenitor cells
 
     -   Obliteration of the mitotic pool
@@ -60,6 +62,10 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
     -   Defective intracellular killing
 
+## Chemotherapy-associated neutropenia
+
+<br>
+
 -   Glucocorticoids seem to enhance granulocytopoiesis and mobilize the marginal and marrow pool reserve, but…
 
     -   reduce accumulation of granulocytes at site of infection (reduced adherence)
@@ -68,7 +74,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
     -   decreased phagocytosis and intracellular killing
 
-## Immunity and innate immune cells
+## Immunity and innate immune cells {.smaller}
 
 +-----------------------------------------+--------------------------------------------------------+-------------------------------------------------+
 | Source                                  | Molecules                                              | Active against                                  |
@@ -128,7 +134,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 ## Model of mucosal barrier injury
 
-![](images/mucosalbarrier injury.png){fig-align="center"}
+![](images/mucosalbarrier%20injury.png){fig-align="center"}
 
 ::: aside
 [@basile2019]
