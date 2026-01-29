@@ -1,0 +1,352 @@
+---
+title: "Medbio Exam Version 3"
+format: pdf
+editor: visual
+---
+
+**Name:**
+
+**ID number (matricola):**
+
+**Instructions:** The exam consists of 30 multiple choice questions with one bonus question. Each question is worth one point. Select the single correct answer. You have 45 minutes to complete the exam.
+
+[History of antibiotic discovery]{.underline}
+
+1.  Which investigator discovered a novel antibiotic treatment for tuberculosis through screening of natural (fermentation) products from *Streptomyces griseus*?
+
+<!-- -->
+
+a.  George Lesher (Nalidixic acid)
+b.  Gerhard Domagk (Prontosil \[sulfanilamide\])
+c.  Paul Ehrlich (Salvarsan)
+d.  Selman Waksman (Streptomycin)
+
+<!-- -->
+
+2.  By the early 1990s, antibiotic development began to slow. What mechanism of resistance encoded on plasmids also began to widely disseminate in the 1990s that led to increasing rates of multidrug resistance in gram-negative bacteria?
+
+<!-- -->
+
+a.  MecA-encoded expression of altered penicillin binding protein (PBP2a)
+b.  Expression of MexAB-OprM multidrug efflux pumps
+c.  Production of aminoglycoside nucleotidyltransferase
+d.  Production of extended spectrum (Class A and D) ß-lactamases
+
+[Principles of antibiotic therapy]{.underline}
+
+3.  Which of the following is the most accurate description of the mean bactericidal concentration (MBC)?
+
+<!-- -->
+
+a.  The concentration of an antibiotic that reduces the initial inoculum by 1 million cells (1x10⁶ CFU/mL killing)
+b.  The lowest concentration of an antibiotic that prevents visible growth of a bacteria in culture medium after 24 hours of incubation
+c.  The concentration of antibiotic in time-kill studies that results in 100% killing by 24 hours
+d.  The lowest concentration of an antibiotic that prevents growth (colony forming units) when a sample from culture media is plated on antibiotic-free agar
+
+<!-- -->
+
+4.  The Gram-stain procedure provides critical information for empirically selecting empirical antibiotic therapy because:
+
+<!-- -->
+
+a.  It identifies the specific bacterial species causing the infection
+b.  It indicates the metabolic activity of the bacteria, helping to predict their growth rate
+c.  It reveals the presence of antibiotic resistance genes in the bacteria.
+d.  The spectrum of activity for antibiotics is largely defined by the type of bacterial cell wall (Gram positive or Gram-negative)
+
+<!-- -->
+
+5.  A new antibiotic in development is calculated to have a volume of distribution of 17.5 Liters (e.g., 0.25 L/kg), which is similar to the total body water volume. Which pharmacokinetic characteristic is likely for this drug?
+
+<!-- -->
+
+a.  The drug is hydrophobic and eliminated unchanged through the kidneys
+b.  The drug is hydrophilic and achieves higher concentration in the bloodstream versus tissue
+c.  The drug is hydrophilic and undergoes extensive biotransformation through cytochrome P450 enzymes
+d.  The drug is hydrophobic and achieves higher concentrations in tissues versus the bloodstream
+
+<!-- -->
+
+6.  A dosage fractionation experiment showed that a novel antibiotic's activity improved with a continuous 24-hour infusion compared to a single bolus dose, despite the same total daily exposure (AUC). Which PK/PD parameter is most likely to predict antimicrobial activity?
+
+<!-- -->
+
+a.  Area under the curve /mean inhibitory concentration (AUC/MIC)
+b.  Ratio of peak concentration/ to % time above MIC Cmax/% T\>MIC)
+c.  Peak serum concentration /mean inhibitory concentration (Cmax/MIC)
+d.  Percent time above the MIC (%T\>MIC)
+
+<!-- -->
+
+7.  Chequerboard studies with a new cephalosporin antibiotic were performed to evaluate whether the antibiotic exhibits synergy with aminoglycosides when tested against *Pseudomonas aeruginosa*. Which of the following test results would be indicative of an synergistic interaction?
+
+FICI= MIC Drug A + MIC Drug B MIC Drug A + MIC Drug B + MIC Drug A MIC Drug B
+
+a.  Fractional inhibitory concentrations index (FICI) of \< 0.5
+b.  Fractional inhibitory concentration index (FICI) of \> 4
+c.  Fractional inhibitory concentrations index (FICI) = 1.0
+d.  Fractional inhibitory concentrations index (FICI) of \< 0.25
+
+Antibiotic PK/PD
+
+8.  For an antibiotic with a low degree of serum protein binding (i.e. 25%) in a mouse infection model, which of the following is true?
+
+<!-- -->
+
+a.  The degree of protein binding is always consistent across animal species and humans
+b.  The protein bound drug is the fraction that will be eliminated through the kidney
+c.  Antimicrobial activity in serum will be predicted by peak to MIC (Cmax/MIC)
+d.  The free (non protein bound) concentration of the antibiotic in serum is the fraction of the total drug that is microbiologically active
+
+<!-- -->
+
+9.  The Monte-Carlo method is a simulation approach used in pharmacokinetic models to:
+
+<!-- -->
+
+a.  Predict the distribution of clearance rates (mL/min) across a specific patient population-e.g., dialysis patients
+b.  Predict the types of antibiotic toxicity (e.g., renal versus hepatic)
+c.  Simulate the probability of achieving target antibiotic exposures (e.g., PK/PD targets) based on the distribution of pathogen mean inhibitory concentration (MIC) and population pharmacokinetics (e.g, volume of distribution, clearance)
+d.  Provide missing data for compartmental pharmacokinetic models
+
+Antibiotic resistance
+
+10. Which resistance mechanism-pathogen is associated with the largest number of (total) attributable deaths in the European Union?
+
+<!-- -->
+
+a.  Vancomycin-resistant *Staphylococcus aureus*
+b.  Fluoroquinolone-resistant *Pseudomonas aeruginosa*
+c.  Carbapenem-resistant *Acinetobacter baumannii*
+d.  3rd generation cephalosporin-resistant (extended-spectrum beta-lactamase producing) *Escherichia coli*
+
+<!-- -->
+
+11. Which of the following mechanisms is the cause of vancomycin-resistance in *Enterococcus faecium*?
+
+<!-- -->
+
+a.  Decreased expression in outer membrane porins
+b.  *mec*A encodes an alternative penicillin binding protein (PBP2a) with lower affinity for vancomycin binding
+c.  Alterations in outer membrane porins
+d.  Alteration in cell wall peptidoglycan precursors (e.g., D-alanine-D-alanine →D-alanine-D-lactate)
+
+<!-- -->
+
+12. Difficult to treat resistance (DTR) is a category of antimicrobial resistance defined by:
+
+<!-- -->
+
+a.  Resistance that requires the clinical use of reserve antibiotics that are less-effective or more toxic
+b.  Resistance to all antibiotics in all antibiotic categories
+c.  Resistance to one agent in at least 3 antibiotic categories
+d.  Susceptibility to only 2 or fewer categories of antimicrobial agents
+
+<!-- -->
+
+13. Which of the following is NOT an advantage of developing a new β-lactamase inhibitors (βLI) as an antibiotic discovery strategy?
+
+<!-- -->
+
+a.  βLI could theoretically be developed as partner “off the shelf” independent agents to use with multiple established antibiotic therapies
+b.  βLI represent a highly potent mechanism to restore antimicrobial activity caused by β-lactamases
+c.  βLI have a clearly defined mechanism of action and specific endpoints for drug screening programs
+d.  βLI have a low risk of resistance and mutations lead to only low level resistance (e.g, two-fold change in the MIC)
+
+<!-- -->
+
+14. A new antibiotic with a siderophore-conjugated sidechain (cefiderocol) overcomes resistance in multidrug resistant gram-negative bacteria by which primary mechanism?
+
+<!-- -->
+
+a.  Combined inhibition of penicillin binding proteins and downregulation of efflux pumps
+b.  Sequestration of intracellular free iron in bacteria leading to impaired metabolism
+c.  Inhibition of the Zinc-binding site of the metallo-β-lactamases preventing antibiotic hydrolysis
+d.  Active uptake of the antibiotic by bacteria through iron transporters to enhance intracellular concentrations at the target site
+
+Antibiotic discovery
+
+15. Which of the following antibiotic discovery strategies would pose the biggest problems with dereplication?
+
+<!-- -->
+
+a.  Screening a library of antibiotic-like chemical scaffolds (10,000 compounds) for activity against the tRNA synthetase
+b.  Screening a novel antibiotic-scaffolds for activity against the cell wall of *Pseudomonas aeruginosa* using a spheroplast assay
+c.  Screening a novel boronic-acid compound library for inhibitory activity against NDM-1 carbapenemases
+d.  Screening fermentation broth of 1000 *Actinomycetes* isolates collected from rivers in Italy against whole-cell *Enterococcus faecalis* library
+
+<!-- -->
+
+16. Genomics-derived, targeted approaches for antibiotic development (e.g., by GSK in the 1990s-2000s) largely failed. Which of the following was a main problem contributing to this failure?
+
+<!-- -->
+
+a.  The genomics-based approaches had greater problems of dereplication versus conventional empiric whole-cell antibiotic screens
+b.  The screens identified antibiotics with activity only against gram-negative bacteria
+c.  The screens failed to identify compounds with non-specific activity against mammalian cell membranes
+d.  The screens identified inhibitors that targeted only one gene or gene product, but not non-homologous genes whose products catalyze the same reactions/pathways
+
+<!-- -->
+
+17. Chemical libraries used in pharmaceutical industry screenings often failed to produce viable antibiotic leads. What was a common issue with these libraries?
+
+<!-- -->
+
+a.  Libraries were too biased towards multi-protein target inhibition to reduce the risk of resistance selection
+b.  Libraries were biased to prokaryotic (bacterial) targets
+c.  Chemical libraries overrepresented physiochemical property space (chemical characteristics) of naturally-occuring antibiotics
+d.  Libraries were composed of mostly lipophilic compounds with limited structural diversity (e.g., highly flexible pharmacophores with few polar functional groups)
+
+<!-- -->
+
+18. Which statement is true regarding Lipinski's rule of 5 when applied to chemical screening libraries for new antimicrobials?
+
+<!-- -->
+
+a.  Compounds with \< 5 hydrogen bond acceptors are more likely to have gram-negative activity
+b.  Compounds with \> 10 hydrogen bond acceptors are more likely to have gram-positive activity
+c.  Compounds with molecular weights \> 5000 are more likely to have antibiotic activity in vivo
+d.  Compounds with LogP values \< 5 are more likely to be orally bioavailable
+
+Antibiotic lead development
+
+19. Which of the following is a mechanism consistent with endogenous (in contrast to exogenous) antimicrobial resistance for newly-discovered antibiotics?
+
+<!-- -->
+
+a.  Antibiotic class-specific degradation (e.g., extended-spectrum beta-lactamases)
+b.  Antibiotic class-specific porin loss
+c.  Replacement with reduced affinity target (i.e. *mecA* encoded PBP→PBP2a)
+d.  A single mutation reducing binding affinity of the antibiotic to the 30s ribosome
+
+<!-- -->
+
+20. Mutation frequency (MF) tests were performed with 4 antibiotic candidates at different multiples of the minimum inhibitory concentration (MIC) to assess the risk of endogenous resistance selection. Which of the following antibiotics exhibits the highest risk for endogenous resistance?
+
+<!-- -->
+
+a.  Antibiotic C: 2.0x10⁻⁸ MF at a test concentration of 512xMIC
+b.  Antibiotic D: 1.28x10⁻⁹ MF at a test concentrations of 2xMIC
+c.  Antibiotic B: 1.28x10⁻⁷ MF at a test concentration of 8xMIC
+d.  Antibiotic A: 1.28x10⁻⁶ MF at a test concentration of 4xMIC
+
+First in human studies- Phase I&II trials
+
+21. Which of the following best describes the concept of NOAEL (No Observed Adverse Effect Level) in toxicology studies?
+
+<!-- -->
+
+a.  The lowest dose at which no significant adverse effects are observed in animal models
+b.  The highest dose at which adverse effects are observed in animal models
+c.  The lowest dose at which adverse effects are observed in animal models
+d.  The highest dose at which no significant adverse effects are observed in animal models
+
+<!-- -->
+
+22. First in human dosage selection is often safer and more predictable for large molecules (\> 1000 daltons) compared to small molecule (\< 500 daltons) antibiotics. Which is NOT a factor that would explain the improved safety for large molecules?
+
+<!-- -->
+
+a.  Large molecules are more likely to be eliminated through renal excretion and/or proteolytic excretion to amino acids
+b.  Human volume of distribution and clearance are more predictable with large molecules through allometric scaling
+c.  Some large molecules (i.e. lipopeptide antibiotics) activate Mas-related G protein coupled receptors (MRGPRX2) on mast cells
+d.  Large molecules are less frequently substrates for drug metabolizing enzymes or transport proteins
+
+Phase III clinical trials
+
+23. In a non-inferiority trial (margin $\Delta$=10%) comparing a novel antibiotic to meropenem for hospital-acquired pneumonia, which result for clinical cure would lead to approval?
+
+<!-- -->
+
+a.  Absolute difference of 1% better clinical cure (95% CI 17% better to 17% worse)
+b.  Absolute difference of 4% worse clinical cure (95% CI 6% better to 12% worse)
+c.  Absolute difference of 5% better clinical cure (95% CI 18% better to 11% worse)
+d.  Absolute difference of 2% better clinical cure (95% CI 12% better to 6% worse)
+
+<!-- -->
+
+24. Based on Question 23, what is the effect of increasing the non-inferiority margin ($\Delta$) from 10% to 15%?
+
+<!-- -->
+
+a.  No changes would occur- the same number of trial results would lead to approval
+b.  The clinical trials would need to enroll 25% more patients because the non-inferiority margin is increased by 5%
+c.  None of the clinical trial results would meet the non-inferiority margin for approval
+d.  Three of the clinical trial results would meet the non-inferiority margin for approval
+
+<!-- -->
+
+25. “Biocreep” is an argument that has been used by regulatory agencies to recommend non-inferiority margins of only 10% or less in phase III clinical trials. What is biocreep?
+
+<!-- -->
+
+a.  Improvements in diagnostic tools make even older active control antibiotics appear more effective in clinical trials resulting in improved efficacy of the standard treatment
+b.  Increasing antibiotic resistance over time should require smaller inferiority margins for approval of new antibiotics.
+c.  Placebo control trials become less feasible as more effective antibiotics are introduced over time
+d.  Including less effective comparator regimens in subsequent clinical trials repeatedly over time leads to an inflated estimate of the treatment effect of the new antibiotic
+
+Economics of new antibiotic development
+
+26. Economic incentives for developing new antibiotics are classified as “push” versus “pull” incentives. Which of the following is an example of a “pull” incentive?
+
+<!-- -->
+
+a.  The Bill and Melinda Gates Foundation provides funding for culture and screening of novel bacteria identified from deep-sea underwater thermal vents
+b.  CARB-X provides funding for screening new antibiotic-like chemical libraries against WHO priority pathogens
+c.  The REPAIR-act fund provides funding to support chemical lead optimization and safety testing of lead antibiotic hits identified for WHO priority pathogens
+d.  The German health authority chooses two recently approved antimicrobials that are effective against carbapenemase-producing gram-negative bacteria. They enter into a commercial agreement to pay 25 million euros per year for each product, regardless of the actual clinical usage.
+
+Antibiotic availability and resistance in low-middle income countries (LMICs)
+
+27. Which statement best describes how the Medicine Patent Pool (MPP) operates to improve affordability of medications in low-middle income countries (LMICs)?
+
+<!-- -->
+
+a.  The MPP negotiates patent extensions for other medication classes in a pharmaceutical company's portfolio in exchange for a license to manufacture patented antimicrobials
+b.  The MPP identifies essential medications exempt from patent restrictions, which can be manufactured as generics in LMICs with the innovator’s approval
+c.  The MPP helps investigators in LMICs patent new antibiotics, exchanging patent rights for low-cost access to existing antibiotics
+d.  The MPP negotiates licenses for patented medicines from pharmaceutical companies, allowing generic manufacturers to produce and distribute affordable versions of the medicines in certain countries or regions
+
+<!-- -->
+
+28. Which of the following is an example of antibiotic metaphylaxis?
+
+<!-- -->
+
+a.  Oral colistin is administered to a pig with an infection of the digestive tract
+b.  0.5% ofloxacin eye drops are administered to cat with an eye infection
+c.  An antistaphylococcal penicillin is injected into a cow after a surgical procedure
+d.  Ceftiofur (3rd generation cephalosporin) is injected into developing chick embryos to prevent bacterial infections in chicks after hatching at a poultry farm
+
+Alternative antimicrobial therapeutics
+
+29. Which of the following is a major advantage of exploring antimicrobial peptides (AMPs) as novel antimicrobial agents?
+
+<!-- -->
+
+a.  AMPs have limited potential for resistance selection
+b.  AMPs have low risk for toxicity (e.g., nephrotoxicity)
+c.  No AMPs have been used clinically in humans, therefore cross-resistance is not expected.
+d.  A large number of AMPs from unconventional sources (e.g., uncultured bacteria in soil or from the sea) have not been tested or used as the bases for chemical derivatives for synthetic antibiotics
+
+<!-- -->
+
+30. Recent Phase III clinical trials such as the PhagoBurn study failed to demonstrate substantial efficacy with bacteriophage therapy. Reasons for the lack of efficacy included all of the following EXCEPT:
+
+<!-- -->
+
+a.  Stability (shelf-life) of the purified bacteriophage cocktail
+b.  Emergence of resistance to the bacteriophage cocktail
+c.  Difficulty in standardizing the dosage
+d.  Type I (histamine-related) infusion reactions
+
+Antimicrobial and diagnostic stewardship (bonus question)
+
+31. A rapid diagnostic test for ESBLs has 98% sensitivity but 50% specificity. If used as a screen in an ICU with 10% ESBL prevalence, what is the main problem?
+
+<!-- -->
+
+a.  The test would have a unacceptably low rate of true positive results
+b.  The test would only be useful if the prevalence of ESBLs in the test population was less than 5%
+c.  The test would have an unacceptably high rate of false negative results
+d.  The test would have an unacceptably high rate of false positive results
