@@ -128,7 +128,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 ## Model of mucosal barrier injury
 
-![](images/mucosalbarrier injury.png){fig-align="center"}
+![](images/mucosalbarrier%20injury.png){fig-align="center"}
 
 ::: aside
 [@basile2019]
