@@ -84,6 +84,8 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 ## Corticosteroids
 
+<br>
+
 **Paradoxical effects:**
 
 -   ↑ Granulocytopoiesis (apparent benefit)
@@ -272,6 +274,8 @@ image:www.biorender.com
 
 ## Risk of infection vs. duration of neutropenia {.smaller}
 
+<br> <br>
+
 :::::: columns
 ::: {.column width="33%"}
 **Phase I (1-10 days)** <br>
@@ -321,6 +325,8 @@ image:www.biorender.com
 
 ## Invasive pulmonary aspergillosis risk vs. neutropenia
 
+<br>
+
 ![](images/gerson.png){fig-align="center"}
 
 ::: aside
@@ -329,30 +335,26 @@ image:www.biorender.com
 
 ## Non-Neutropenic Risk Factors
 
--   **Mucositis** - Barrier disruption, translocation
--   **Central venous catheters** - Entry point for pathogens
--   **Microbiome alterations** - Chemotherapy-induced dysbiosis
--   **Immunosuppressive drugs** - T-cell depletion
--   **Biologic agents** - Targeted immune effects
-
+<br> - **Mucositis** - Barrier disruption, translocation - **Central venous catheters** - Entry point for pathogens - **Microbiome alterations** - Chemotherapy-induced dysbiosis - **Immunosuppressive drugs** - T-cell depletion - **Biologic agents** - Targeted immune effects
 
 ## CVC-Related Infection Rates {.smaller}
 
-+--------------------------------------+----------------------------------------------+-----------------+------------------------+
-| Catheter Type                        |                                              | Per 100 devices | Per 1000 catheter-days |
-+======================================+==============================================+=================+========================+
-| Hickman/Broviac                      | ![](images/Screenshot 2026-02-06 174909.png) | 22.5            | 1.6                    |
-+--------------------------------------+----------------------------------------------+-----------------+------------------------+
-| Port-a-cath                          | ![](images/broviac.png)                      | 3.5-4           | 0.1                    |
-+--------------------------------------+----------------------------------------------+-----------------+------------------------+
-| PICC                                 | ![](images/PICC.png)                         | 3.1             | 1.1                    |
-+--------------------------------------+----------------------------------------------+-----------------+------------------------+
++-----------------+--------------------------------------------------------------+-----------------+------------------------+
+| Catheter Type   |                                                              | Per 100 devices | Per 1000 catheter-days |
++=================+==============================================================+=================+========================+
+| Hickman/Broviac | ![](images/Screenshot%202026-02-06%20174909.png){width="60"} | 22.5            | 1.6                    |
++-----------------+--------------------------------------------------------------+-----------------+------------------------+
+| Port-a-cath     | ![](images/broviac.png){width="60" height="39"}              | 3.5-4           | 0.1                    |
++-----------------+--------------------------------------------------------------+-----------------+------------------------+
+| PICC            | ![](images/PICC.png){width="60"}                             | 3.1             | 1.1                    |
++-----------------+--------------------------------------------------------------+-----------------+------------------------+
 
 ::: notes
 Patients with hematologic malignancies, especially acute leukemia, have higher CVC infection rates than those with solid tumors.
 :::
 
 ## Biologic Agents and Infection Risk
+
 <br>
 
 | Agent       | Key Infections        |
@@ -365,6 +367,7 @@ Patients with hematologic malignancies, especially acute leukemia, have higher C
 | Ibrutinib   | IFD (with steroids)   |
 
 ## Impaired cell-mediated immunity increases the spectrum of possible pathogens {.smaller}
+
 <br>
 
 ![](images/cmi_pathogens.png){fig-align="center"} :
@@ -373,8 +376,535 @@ Patients with hematologic malignancies, especially acute leukemia, have higher C
 *These pathogens are not covered by typical empiric regimens used for febrile neutropenia!*
 :::
 
-# Antimicrobial prophylaxis
+## Changing Bacterial Epidemiology
+
+<br>
+
+**Historical trend:**
+
+-   1980s-2000s: Gram-positive predominance
+-   Recent: Gram-negative resurgence
+
+**Current ratio (ECIL-4 surveillance):**
+
+-   Gram-positive: 55%
+-   Gram-negative: 45%
+
+::: notes
+This shift is accompanied by increasing antimicrobial resistance, making empirical therapy selection more challenging.
+:::
+
+------------------------------------------------------------------------
+
+## Resistant Pathogens of Concern
+
+<br>
+
+**Gram-negative:**
+
+-   ESBL-producing Enterobacterales
+-   Carbapenem-resistant Enterobacterales (CRE)
+-   MDR *Pseudomonas aeruginosa*
+
+**Gram-positive:**
+
+-   MRSA
+-   Vancomycin-resistant enterococci (VRE)
+
+------------------------------------------------------------------------
+
+## Risk Factors for Resistant Infections
+
+<br>
+
+1.  Previous infection/colonization with MDR organism
+2.  Prior broad-spectrum antibiotic exposure
+3.  Healthcare-associated infection
+4.  Prolonged hospitalization
+5.  Urinary catheter
+6.  Older age
+7.  ICU admission
+
+------------------------------------------------------------------------
+
+## Fungal Pathogens
+
+<br>
+
+**Most Common:**
+
+-   *Aspergillus* species (now \> *Candida* in hematology)
+-   *Candida* species (increasing non-albicans)
+
+**Emerging concerns:**
+
+-   *Candida auris* - MDR, biofilm-forming
+-   Azole-resistant *Aspergillus fumigatus*
+-   *Mucorales* (increasing in some centers)
+
+------------------------------------------------------------------------
+
+## Invasive Aspergillosis Risk
+
+<br> <br>
+
+| Population             | Incidence |
+|------------------------|-----------|
+| AML (induction)        | 7.9%      |
+| ALL (adults)           | 4.3-11.7% |
+| CML                    | 2.3%      |
+| CLL, lymphoma, myeloma | \<1%      |
+| Autologous HSCT        | 0.3-2%    |
+
+------------------------------------------------------------------------
+
+## Viral Infections
+
+**Herpes viruses:**
+
+-   HSV reactivation: 60% of seropositive with acute leukemia
+-   VZV: Increased with bortezomib, ruxolitinib
+-   CMV: T-cell suppressing regimens
+
+**Respiratory viruses:**
+
+-   Influenza, RSV, parainfluenza
+-   SARS-CoV-2: High morbidity/mortality in cancer patients
+
+
+
+# Prophylaxis Strategies
+
+
+
+## Antibacterial Prophylaxis
+
+<br>
+
+**Fluoroquinolone prophylaxis:**
+
+| Pros | Cons |
+|----|----|
+| Reduces febrile episodes | Increasing resistance, <br> especially selection of ESBL |
+| Reduces BSI | No mortality benefit (recent data) |
+| Oral administration | Drug interactions |
+|  | QT prolongation, tendinopathy |
+
+<br> **Current status:** Controversial; some guidelines no longer recommend
+
+::: notes
+The benefit of FQ prophylaxis may no longer translate to mortality reduction because most prevented infections can be effectively treated with empirical therapy.
+:::
+
+
+
+## Antifungal Prophylaxis - Key Points
+
+<br>
+
+**When to use mold-active prophylaxis:**
+
+-   Anticipated IFD incidence \>8%
+-   AML/MDS induction chemotherapy
+-   High-risk ALL
+-   Relapsing leukemia
+
+**Posaconazole:**
+
+-   NNT to prevent 1 IFD: 16
+-   NNT to prevent 1 death: 27
+
+
+
+## Antifungal Prophylaxis
+<br>
+
+| Agent | Dose | Indication |
+|----|----|----|
+| Posaconazole tablets | 300 mg BID day 1, then 300 mg daily | AML/MDS |
+| Fluconazole | 400 mg daily | Candidiasis risk only |
+| Voriconazole | 200 mg BID | Alternative (TDM needed) |
+| Isavuconazole | 200 mg daily (after loading) | Alternative |
+
+<br>
+
+Problem: *Drug interactions with agents metabolized through CYP3A4*
+
+
+## Pneumocystis Prophylaxis
+<br>
+
+**Indications:**
+
+-   ALL (all ages)
+-   Fludarabine, alemtuzumab, idelalisib therapy
+-   Corticosteroids ≥20 mg/day × 4 weeks
+-   CD4 \<200/µL
+
+**First-line:** TMP-SMX 160/800 mg 3×/week
+
+**Alternatives:** Dapsone, atovaquone, aerosolized pentamidine
+
+
+
+## Antiviral Prophylaxis
+<br>
+
+**HSV/VZV:**
+
+-   Acyclovir 800 mg BID or valacyclovir 500 mg BID
+-   For seropositive patients with acute leukemia
+-   Required with bortezomib, alemtuzumab, idelalisib
+
+**HBV:**
+
+-   Screen all patients before chemotherapy
+-   Entecavir or tenofovir for HBsAg-positive
+-   Continue 6-18 months post-chemotherapy
+
+
+
+## G-CSF Prophylaxis
+<br>
+
+**Primary prophylaxis:**
+
+-   When febrile neutropenia risk \>20%
+-   Based on age, comorbidities, regimen
+
+**Secondary prophylaxis:**
+
+-   After prior neutropenic complication
+-   When dose reduction would compromise outcomes
+
+::: notes
+G-CSF vs FQ studies show antibiotics may be equally or more effective for preventing febrile neutropenia.
+:::
+
+
+
+## Vaccination Recommendations
+<br>
+
++---------------------+---------------------------+------------------------------+
+| Vaccine             | Timing                    | Notes                        |
++=====================+===========================+==============================+
+| Influenza           | Annual                    | Avoid during intensive chemo |
++---------------------+---------------------------+------------------------------+
+| Pneumococcal (PCV)  | Before chemo if possible  | Better response than PPSV23  |
++---------------------+---------------------------+------------------------------+
+| SARS-CoV-2          | 3-dose primary + boosters | All patients and contacts    |
++---------------------+---------------------------+------------------------------+
+| Herpes zoster (RZV) | VZV seropositive          | Inactivated vaccine          |
++---------------------+---------------------------+------------------------------+
+
+
+# Management of Febrile Neutropenia
+
+
+
+## Definition of Fever
+
+For starting empirical antibiotics:
+
+-   **Single temperature** ≥38.5°C (oral/axillary), OR
+-   **Two measurements** ≥38.0°C separated by ≥1 hour
+
+**Also treat infection suspected with:**
+
+-   Hypothermia (\<35.5°C)
+-   Altered mental status
+-   Hypotension
+-   Skin/mucosal lesions
+
+::: notes
+Fever during neutropenia is a medical emergency. Any delay in antibiotic administration increases mortality.
+:::
+
+
+## Classification of Episodes
+
+1.  **Microbiologically documented with bacteremia** - Positive blood culture
+2.  **Microbiologically documented without bacteremia** - Other site culture positive
+3.  **Clinically documented** - Signs/symptoms without microbiologic proof
+4.  **Fever of unknown origin (FUO)** - No clinical or microbiologic documentation
+
+
+
+## Risk Stratification: MASCC Score
+
+| Variable                              | Points |
+|---------------------------------------|--------|
+| Burden of illness: none/mild          | 5      |
+| Burden of illness: moderate           | 3      |
+| No hypotension                        | 5      |
+| No COPD                               | 4      |
+| Solid tumor/no prior fungal infection | 4      |
+| Outpatient status                     | 3      |
+| No dehydration                        | 3      |
+| Age \<60 years                        | 2      |
+
+**Score \>21: Low risk**
+
+
+
+## Risk Stratification: CISNE Score
+
+| Variable               | Points |
+|------------------------|--------|
+| ECOG PS ≥2             | 2      |
+| Hyperglycemia stress   | 2      |
+| COPD                   | 1      |
+| Cardiovascular disease | 1      |
+| Mucositis grade ≥2     | 1      |
+| Monocytes \<200/µL     | 1      |
+
+**Score ≥3: High risk** (for solid tumor patients)
+
+
+
+## Treatment Strategies
+
+Two main approaches:
+
+**Escalation:**
+
+-   Start narrow, broaden if needed
+-   For stable patients without MDR risk
+
+**De-escalation:**
+
+-   Start broad, narrow when results available
+-   For unstable patients or MDR colonization
+
+
+
+## Escalation Strategy
+
+**Day 0:**
+
+-   Anti-*Pseudomonas* β-lactam monotherapy
+-   Piperacillin-tazobactam, cefepime, or ceftazidime
+
+**Day 2-4 (if needed):**
+
+-   Add vancomycin if skin/catheter infection
+-   Add aminoglycoside or change to anti-pseudomonal carbapenem if septic
+-   Add antifungal if persistent fever
+
+
+
+## De-escalation Strategy
+
+**Day 0:**
+
+-   Carbapenem (meropenem) ± aminoglycoside
+-   Or targeted therapy based on colonization
+
+**Day 2-4:**
+
+-   De-escalate based on cultures
+-   Stop aminoglycoside if not needed
+-   Narrow spectrum if pathogen identified
+
+
+## Table 311.5: Key Antibiotics
+
+| Drug                    | Adult Dose  | Administration               |
+|-------------------------|-------------|------------------------------|
+| Piperacillin-tazobactam | 4.5 g q6-8h | Extended/continuous infusion |
+| Cefepime                | 2 g q8h     | Extended infusion            |
+| Meropenem               | 1-2 g q8h   | Extended infusion (3-6h)     |
+| Ceftazidime-avibactam   | 2.5 g q8h   | 2-hour infusion              |
+| Ceftolozane-tazobactam  | 1.5-3 g q8h | 1-hour infusion              |
+
+::: notes
+Extended/continuous infusion of beta-lactams improves pharmacodynamic target attainment and may improve outcomes.
+:::
+
+
+
+## Glycopeptide Use
+
+**Add vancomycin or alternative for:**
+
+-   Suspected catheter-related infection
+-   Skin/soft tissue infection
+-   Known MRSA colonization
+-   Severe sepsis with hypotension
+-   Pneumonia
+-   Prior MRSA infection
+
+**Stop after 48-72h** if no gram-positive pathogen identified
+
+
+
+## Duration of Therapy
+
+**For FUO:**
+
+-   If afebrile 48-72h + clinically stable: consider stopping
+-   Short courses (72h) shown safe in selected patients
+
+**For documented infection:**
+
+-   Guided by pathogen, site, and response
+-   Generally until neutrophil recovery and clinical cure
+
+
+# Antifungal Therapy
+
+
+
+## Empirical vs Diagnostic-Driven Approach
+
+**Empirical:**
+
+-   Start antifungal after 4-7 days persistent fever
+-   Traditional approach; high antifungal exposure
+
+**Diagnostic-driven:**
+
+-   Use biomarkers (GM, BDG) + CT imaging
+-   Reduces unnecessary antifungal use
+-   Requires good diagnostic infrastructure
+
+------------------------------------------------------------------------
+
+## Diagnostic Tools
+
+| Test               | Target                      | Specimen      |
+|--------------------|-----------------------------|---------------|
+| Galactomannan (GM) | *Aspergillus*               | Serum, BAL    |
+| β-D-glucan (BDG)   | Broad fungi (not Mucorales) | Serum         |
+| PCR                | Species-specific            | Blood, BAL    |
+| CT imaging         | Structural changes          | Chest/sinuses |
+
+------------------------------------------------------------------------
+
+## Antifungal Selection
+
+| Indication             | First-line                              |
+|------------------------|-----------------------------------------|
+| Invasive aspergillosis | Voriconazole or isavuconazole           |
+| Mucormycosis           | Liposomal amphotericin B                |
+| Candidemia             | Echinocandin                            |
+| Empirical therapy      | Liposomal amphotericin B or caspofungin |
+
+------------------------------------------------------------------------
+
+# Special Situations
+
+------------------------------------------------------------------------
+
+## CVC Infections
+
+**Management depends on:**
+
+-   Organism (CoNS vs *S. aureus* vs gram-negatives)
+-   Presence of tunnel/pocket infection
+-   Clinical stability
+
+**Catheter removal indicated for:**
+
+-   *S. aureus*, *Candida*, *Pseudomonas* bacteremia
+-   Tunnel infection
+-   Persistent bacteremia despite therapy
+
+------------------------------------------------------------------------
+
+## Neutropenic Enterocolitis (Typhlitis)
+
+**Key features:**
+
+-   Fever, abdominal pain, diarrhea
+-   RLQ tenderness
+-   CT: Bowel wall thickening
+
+**Management:**
+
+-   Broad-spectrum antibiotics including anaerobes
+-   Bowel rest, NG suction if obstruction
+-   Surgery only for perforation/hemorrhage
+
+------------------------------------------------------------------------
+
+## Pulmonary Infiltrates
+
+**Diagnostic approach:**
+
+1.  CT imaging (HRCT with angiography)
+2.  Bronchoscopy with BAL if feasible
+3.  GM and PCR on BAL fluid
+4.  Consider biopsy if accessible
+
+**Common etiologies:**
+
+-   Bacterial pneumonia
+-   *Pneumocystis* (if no prophylaxis)
+-   Invasive aspergillosis
+-   Respiratory viruses
+
+------------------------------------------------------------------------
+
+# Antimicrobial Stewardship
+
+------------------------------------------------------------------------
+
+## Core Components
+
+1.  **Surveillance** - Resistance patterns, consumption, outcomes
+2.  **Protocols** - Local guidelines for prevention and treatment
+3.  **Rapid diagnostics** - Enable early de-escalation
+4.  **Dose optimization** - TDM for azoles, PK/PD-guided dosing
+
+**Requires multidisciplinary collaboration**
+
+------------------------------------------------------------------------
+
+## Key Stewardship Interventions
+
+-   Timely de-escalation based on culture results
+-   Duration optimization (avoid excessive courses)
+-   IV to PO conversion when appropriate
+-   Prospective audit and feedback
+-   Restricted antibiotic authorization
+-   Education for prescribers
+
+::: notes
+Stewardship is especially important in oncology where prolonged antibiotics and prophylaxis are common.
+:::
+
+------------------------------------------------------------------------
+
+## Summary: Key Takeaways
+
+1.  **Neutropenia** is the primary risk factor, but many others contribute
+2.  **Epidemiology** is shifting toward gram-negatives and resistance
+3.  **Prophylaxis** must be tailored to risk and local epidemiology
+4.  **Febrile neutropenia** requires prompt empirical therapy
+5.  **Escalation vs de-escalation** strategies depend on patient risk
+6.  **Antifungal therapy** can be empirical or diagnostic-driven
+7.  **Stewardship** is essential to preserve antimicrobial efficacy
+
+------------------------------------------------------------------------
+
+## Questions?
+
+::: notes
+Open for discussion and clarification of any topics covered.
+:::
+
+------------------------------------------------------------------------
 
 ## References
 
-<br>
+-   Bodey GP, et al. Ann Intern Med. 1966;64:328-340.
+-   Averbuch D, et al. Haematologica. 2013;98:1826-1835.
+-   Cornely OA, et al. N Engl J Med. 2007;356:348-359.
+-   Freifeld AG, et al. Clin Infect Dis. 2011;52:e56-e93.
+-   ECIL Guidelines (Various years)
+-   NCCN Guidelines: Prevention and Treatment of Cancer-Related Infections
+
+::: {#refs}
+:::
