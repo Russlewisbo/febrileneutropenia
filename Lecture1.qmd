@@ -24,6 +24,8 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 ## Febrile neutropenia
 
+<br> <br> <br>
+
 **Russell E. Lewis** <br> Associate Professor of Infectious Diseases <br> Department of Molecular Medicine <br> University of Padua
 
 ![](unipd.png){.absolute top="550" left="950" width="100" height="100"}
@@ -62,7 +64,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 :::
 :::::
 
-## Chemotherapy-associated neutropenia
+## Chemotherapy-associated neutropenia {.smaller}
 
 <br>
 
@@ -85,39 +87,41 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 **Paradoxical effects:**
 
 -   ↑ Granulocytopoiesis (apparent benefit)
-    -   BUT: ↓ Accumulation at infection site
+    -   ↓ Accumulation at infection site
 -   ↓ Adherent capacity
 -   ↓ Chemotaxis
 -   ↓ Phagocytosis
--   ↓ Intracellular killing
+-   ↓ Intracellular killing <br>
+
+*Therefore, corticosteroids increase net infection risk*
 
 ## Immunity and innate immune cells {.smaller}
 
-+-----------------------------------------+--------------------------------------------------------+-------------------------------------------------+
-| Source                                  | Molecules                                              | Active against                                  |
-+=========================================+========================================================+=================================================+
-| **Polymorphonuclear leukocytes (PMNs)** | Lysozyme, myeloperoxidase, defensins, BPI, lactoferrin | Bacteria, fungi <br> (with H~2~O~2)~            |
-|                                         |                                                        |                                                 |
-| -   1 granules                          |                                                        | Bacteria, fungi                                 |
-|                                         |                                                        |                                                 |
-| -   Specific granules                   |                                                        |                                                 |
-+-----------------------------------------+--------------------------------------------------------+-------------------------------------------------+
-| **Macrophages**                         | Similar to PMN but no myeloperoxidase                  | Intracellular pathogens <br>(depletes arginine) |
-|                                         |                                                        |                                                 |
-|                                         | Nitric oxide                                           |                                                 |
-|                                         |                                                        |                                                 |
-|                                         | Arginase                                               |                                                 |
-+-----------------------------------------+--------------------------------------------------------+-------------------------------------------------+
-| **Eosinophil**                          | Cationic proteins                                      | Worms (extracellular)                           |
-|                                         |                                                        |                                                 |
-|                                         | Major basic protein                                    |                                                 |
-|                                         |                                                        |                                                 |
-|                                         | Peroxidase                                             |                                                 |
-+-----------------------------------------+--------------------------------------------------------+-------------------------------------------------+
-| **Natural killing cells**               | Perforins                                              | Viral or bacterial infected cells               |
-|                                         |                                                        |                                                 |
-|                                         | Granzymes                                              |                                                 |
-+-----------------------------------------+--------------------------------------------------------+-------------------------------------------------+
++-----------------------------------------+---------------------------------------+-------------------------------------------------+
+| Source                                  | Molecules                             | Active against                                  |
++=========================================+=======================================+=================================================+
+| **Polymorphonuclear leukocytes (PMNs)** | Lysozyme, myeloperoxidase,            | Bacteria, fung                                  |
+|                                         |                                       |                                                 |
+| -   1° granules                         | with (with H~2~O~2)~                  |                                                 |
+|                                         |                                       |                                                 |
+| -   Specific granules                   | defensins, BPI, lactoferrin           |                                                 |
++-----------------------------------------+---------------------------------------+-------------------------------------------------+
+| **Macrophages**                         | Similar to PMN but no myeloperoxidase | Intracellular pathogens <br>(depletes arginine) |
+|                                         |                                       |                                                 |
+|                                         | Nitric oxide                          |                                                 |
+|                                         |                                       |                                                 |
+|                                         | Arginase                              |                                                 |
++-----------------------------------------+---------------------------------------+-------------------------------------------------+
+| **Eosinophil**                          | Cationic proteins                     | Worms (extracellular)                           |
+|                                         |                                       |                                                 |
+|                                         | Major basic protein                   |                                                 |
+|                                         |                                       |                                                 |
+|                                         | Peroxidase                            |                                                 |
++-----------------------------------------+---------------------------------------+-------------------------------------------------+
+| **Natural killing cells**               | Perforins                             | Viral or bacterial infected cells               |
+|                                         |                                       |                                                 |
+|                                         | Granzymes                             |                                                 |
++-----------------------------------------+---------------------------------------+-------------------------------------------------+
 
 ## Quantitative relationship of neutropenia with infection risk
 
@@ -132,8 +136,8 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 <br>
 
 -   Chemotherapy & radiation → **neutropenia**
--   Duration: 3-4 weeks or longer
--   **Primary risk factor** for infection
+-   Duration: Nadir 10-14 days, duration 3-4 weeks or longer
+-   **Primary risk factor for infection**
 -   Risk increases with:
     -   Depth of neutropenia
     -   Duration of neutropenia
@@ -161,13 +165,11 @@ ALL- aculte lymphoblastic leukemia, <br> CLL- chonic lymphoblastic leukemia
 Risk correlates with intensity of antineoplastic therapy. Children generally have lower infection risk than adults.
 :::
 
-## Clinical signs if infection are muted in neutropenic patients
+## Clinical signs if infection are muted in neutropenic patients {.smaller}
 
 <br>
 
 \% of patients who have a neutrophil count/mm^3^ of:
-
-<br>
 
 |                           |           |              |            |
 |---------------------------|-----------|--------------|------------|
@@ -224,7 +226,7 @@ image:www.biorender.com
 [@basile2019]
 :::
 
-## Which bacterial pathogens translocate?
+## Which pathogens translocate?
 
 ![](images/mbi_pathogens.png){fig-align="center"}
 
@@ -234,11 +236,13 @@ image:www.biorender.com
 
 ![](images/clipboard-4192934584.png)
 
-## Sequence of infection in febrile neutropenia
+## Sequence of infection
 
-![](images/sequence.png){fig-align="center"}
+![](images/sequence.png){fig-align="center" width="800"}
 
 ## Febrile neutropenia: Definition
+
+<br>
 
 -   **Single oral temperature ≥ 38.3° or temperature ≥ 38.0 sustained over 1-hour**
 
@@ -266,7 +270,110 @@ image:www.biorender.com
 -   Bacteremia documented in 10-25% of patients with fever
 -   Aerobic Gram-positive and Gram-negative
 
-## Risk of infection vs. duration of neutropenia
+## Risk of infection vs. duration of neutropenia {.smaller}
+
+:::::: columns
+::: {.column width="33%"}
+**Phase I (1-10 days)** <br>
+
+-   CONS - Staphylococcus spp.
+
+-   Enterobacterales
+
+-   Viridans streptococci
+
+-   Anaerobes
+
+-   Enterococcus
+
+-   Clostroides diffile <br>
+
+-   Herpes simplex
+
+-   +/- Candida spp.
+:::
+
+::: {.column width="33%"}
+**Phase II** **(10-27 days)**
+
+-   Phase I pathogens *plus*
+
+-   Methicillin-resistant S. aures (MRSA)
+
+-   Vancomycin-resistant Enterococcus (VRE)
+
+-   Resistant gram-negative bacteria
+
+-   *Stenotrophomonas maltophilia*
+
+<br>
+
+-   Herpes simplex
+-   +/- Candida spp.
+:::
+
+::: {.column width="33%"}
+**Phase III (\> 27 days)**
+
+-   Phase I&II pathogens, *plus* + Invasive molds
+:::
+::::::
+
+## Invasive pulmonary aspergillosis risk vs. neutropenia
+
+![](images/gerson.png){fig-align="center"}
+
+::: aside
+[@gerson1984]
+:::
+
+## Non-Neutropenic Risk Factors
+
+-   **Mucositis** - Barrier disruption, translocation
+-   **Central venous catheters** - Entry point for pathogens
+-   **Microbiome alterations** - Chemotherapy-induced dysbiosis
+-   **Immunosuppressive drugs** - T-cell depletion
+-   **Biologic agents** - Targeted immune effects
+
+
+## CVC-Related Infection Rates {.smaller}
+
++--------------------------------------+----------------------------------------------+-----------------+------------------------+
+| Catheter Type                        |                                              | Per 100 devices | Per 1000 catheter-days |
++======================================+==============================================+=================+========================+
+| Hickman/Broviac                      | ![](images/Screenshot 2026-02-06 174909.png) | 22.5            | 1.6                    |
++--------------------------------------+----------------------------------------------+-----------------+------------------------+
+| Port-a-cath                          | ![](images/broviac.png)                      | 3.5-4           | 0.1                    |
++--------------------------------------+----------------------------------------------+-----------------+------------------------+
+| PICC                                 | ![](images/PICC.png)                         | 3.1             | 1.1                    |
++--------------------------------------+----------------------------------------------+-----------------+------------------------+
+
+::: notes
+Patients with hematologic malignancies, especially acute leukemia, have higher CVC infection rates than those with solid tumors.
+:::
+
+## Biologic Agents and Infection Risk
+<br>
+
+| Agent       | Key Infections        |
+|-------------|-----------------------|
+| Rituximab   | HBV reactivation, PML |
+| Brentuximab | PCP, PML              |
+| Bortezomib  | VZV reactivation      |
+| Ruxolitinib | VZV, TB               |
+| Idelalisib  | HSV, CMV, PCP         |
+| Ibrutinib   | IFD (with steroids)   |
+
+## Impaired cell-mediated immunity increases the spectrum of possible pathogens {.smaller}
+<br>
+
+![](images/cmi_pathogens.png){fig-align="center"} :
+
+::: aside
+*These pathogens are not covered by typical empiric regimens used for febrile neutropenia!*
+:::
+
+# Antimicrobial prophylaxis
 
 ## References
 
