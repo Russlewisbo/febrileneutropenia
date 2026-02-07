@@ -24,8 +24,6 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 # Febrile Neutropenia {background-color="#9B0014"}
 
-
-
 <br> <br>
 
 **Russell E. Lewis** <br> Associate Professor of Infectious Diseases <br> Department of Molecular Medicine <br> University of Padua
@@ -72,7 +70,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 <br>
 
--   **Virtually all antineoplastic chemotherapy agents impair proliferation of normal hematopoietic progenitor cells**
+-   **Antineoplastic chemotherapy impairs proliferation of normal hematopoietic progenitor cells**
 
     -   Obliteration of the mitotic pool
 
