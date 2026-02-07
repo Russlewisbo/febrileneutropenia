@@ -42,7 +42,7 @@ $presentation-heading-text-transform: none !default;
 $presentation-heading-text-shadow: none !default;
 $presentation-h1-text-shadow: none !default;
 $presentation-heading-font-weight: 600 !default;
-$presentation-h1-font-size: 2.6em !default;
+$presentation-h1-font-size: 2.0em !default;
 $presentation-h2-font-size: 1.6em !default;
 $presentation-h3-font-size: 1.2em !default;
 $presentation-h4-font-size: 1em !default;
@@ -53,7 +53,7 @@ $presentation-block-margin: 12px !default;
 // text alignment
 $presentation-slide-text-align: left !default;
  h2, h3 {
-  text-align: center;
+  text-align: center
 }
 $presentation-slide-text-align: left !default;
  h3 {
