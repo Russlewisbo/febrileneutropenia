@@ -24,11 +24,9 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 ## Febrile neutropenia
 
-
 <br>
 
 <br> <br> <br>
-
 
 **Russell E. Lewis** <br> Associate Professor of Infectious Diseases <br> Department of Molecular Medicine <br> University of Padua
 
@@ -88,11 +86,6 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 ## Corticosteroids
 
-
-**Paradoxical effects:** :::: {.columns} ::: {.column width="50%"}
-
-::: ::: {.column width="50%"} - ↑ Granulocytopoiesis (apparent benefit) - BUT: ↓ Accumulation at infection site - ↓ Adherent capacity - ↓ Chemotaxis - ↓ Phagocytosis - ↓ Intracellular killing ::: ::::
-=======
 <br>
 
 **Paradoxical effects:**
@@ -105,7 +98,6 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 -   ↓ Intracellular killing <br>
 
 *Therefore, corticosteroids increase net infection risk*
-
 
 ## Immunity and innate immune cells {.smaller}
 
@@ -481,11 +473,7 @@ This shift is accompanied by increasing antimicrobial resistance, making empiric
 -   Influenza, RSV, parainfluenza
 -   SARS-CoV-2: High morbidity/mortality in cancer patients
 
-
-
 # Prophylaxis Strategies
-
-
 
 ## Antibacterial Prophylaxis
 
@@ -493,20 +481,23 @@ This shift is accompanied by increasing antimicrobial resistance, making empiric
 
 **Fluoroquinolone prophylaxis:**
 
-| Pros | Cons |
-|----|----|
++--------------------------+----------------------------------------------------------+
+| Pros                     | Cons                                                     |
++==========================+==========================================================+
 | Reduces febrile episodes | Increasing resistance, <br> especially selection of ESBL |
-| Reduces BSI | No mortality benefit (recent data) |
-| Oral administration | Drug interactions |
-|  | QT prolongation, tendinopathy |
++--------------------------+----------------------------------------------------------+
+| Reduces BSI              | No mortality benefit (recent data)                       |
++--------------------------+----------------------------------------------------------+
+| Oral administration      | Drug interactions                                        |
++--------------------------+----------------------------------------------------------+
+|                          | QT prolongation, tendinopathy                            |
++--------------------------+----------------------------------------------------------+
 
 <br> **Current status:** Controversial; some guidelines no longer recommend
 
 ::: notes
 The benefit of FQ prophylaxis may no longer translate to mortality reduction because most prevented infections can be effectively treated with empirical therapy.
 :::
-
-
 
 ## Antifungal Prophylaxis - Key Points
 
@@ -524,9 +515,8 @@ The benefit of FQ prophylaxis may no longer translate to mortality reduction bec
 -   NNT to prevent 1 IFD: 16
 -   NNT to prevent 1 death: 27
 
-
-
 ## Antifungal Prophylaxis
+
 <br>
 
 | Agent | Dose | Indication |
@@ -540,8 +530,8 @@ The benefit of FQ prophylaxis may no longer translate to mortality reduction bec
 
 Problem: *Drug interactions with agents metabolized through CYP3A4*
 
-
 ## Pneumocystis Prophylaxis
+
 <br>
 
 **Indications:**
@@ -555,9 +545,8 @@ Problem: *Drug interactions with agents metabolized through CYP3A4*
 
 **Alternatives:** Dapsone, atovaquone, aerosolized pentamidine
 
-
-
 ## Antiviral Prophylaxis
+
 <br>
 
 **HSV/VZV:**
@@ -572,9 +561,8 @@ Problem: *Drug interactions with agents metabolized through CYP3A4*
 -   Entecavir or tenofovir for HBsAg-positive
 -   Continue 6-18 months post-chemotherapy
 
-
-
 ## G-CSF Prophylaxis
+
 <br>
 
 **Primary prophylaxis:**
@@ -591,9 +579,8 @@ Problem: *Drug interactions with agents metabolized through CYP3A4*
 G-CSF vs FQ studies show antibiotics may be equally or more effective for preventing febrile neutropenia.
 :::
 
-
-
 ## Vaccination Recommendations
+
 <br>
 
 +---------------------+---------------------------+------------------------------+
@@ -608,10 +595,7 @@ G-CSF vs FQ studies show antibiotics may be equally or more effective for preven
 | Herpes zoster (RZV) | VZV seropositive          | Inactivated vaccine          |
 +---------------------+---------------------------+------------------------------+
 
-
 # Management of Febrile Neutropenia
-
-
 
 ## Definition of Fever
 
@@ -631,15 +615,12 @@ For starting empirical antibiotics:
 Fever during neutropenia is a medical emergency. Any delay in antibiotic administration increases mortality.
 :::
 
-
 ## Classification of Episodes
 
 1.  **Microbiologically documented with bacteremia** - Positive blood culture
 2.  **Microbiologically documented without bacteremia** - Other site culture positive
 3.  **Clinically documented** - Signs/symptoms without microbiologic proof
 4.  **Fever of unknown origin (FUO)** - No clinical or microbiologic documentation
-
-
 
 ## Risk Stratification: MASCC Score
 
@@ -656,8 +637,6 @@ Fever during neutropenia is a medical emergency. Any delay in antibiotic adminis
 
 **Score \>21: Low risk**
 
-
-
 ## Risk Stratification: CISNE Score
 
 | Variable               | Points |
@@ -670,8 +649,6 @@ Fever during neutropenia is a medical emergency. Any delay in antibiotic adminis
 | Monocytes \<200/µL     | 1      |
 
 **Score ≥3: High risk** (for solid tumor patients)
-
-
 
 ## Treatment Strategies
 
@@ -687,8 +664,6 @@ Two main approaches:
 -   Start broad, narrow when results available
 -   For unstable patients or MDR colonization
 
-
-
 ## Escalation Strategy
 
 **Day 0:**
@@ -702,8 +677,6 @@ Two main approaches:
 -   Add aminoglycoside or change to anti-pseudomonal carbapenem if septic
 -   Add antifungal if persistent fever
 
-
-
 ## De-escalation Strategy
 
 **Day 0:**
@@ -716,7 +689,6 @@ Two main approaches:
 -   De-escalate based on cultures
 -   Stop aminoglycoside if not needed
 -   Narrow spectrum if pathogen identified
-
 
 ## Table 311.5: Key Antibiotics
 
@@ -732,8 +704,6 @@ Two main approaches:
 Extended/continuous infusion of beta-lactams improves pharmacodynamic target attainment and may improve outcomes.
 :::
 
-
-
 ## Glycopeptide Use
 
 **Add vancomycin or alternative for:**
@@ -747,8 +717,6 @@ Extended/continuous infusion of beta-lactams improves pharmacodynamic target att
 
 **Stop after 48-72h** if no gram-positive pathogen identified
 
-
-
 ## Duration of Therapy
 
 **For FUO:**
@@ -761,10 +729,7 @@ Extended/continuous infusion of beta-lactams improves pharmacodynamic target att
 -   Guided by pathogen, site, and response
 -   Generally until neutrophil recovery and clinical cure
 
-
 # Antifungal Therapy
-
-
 
 ## Empirical vs Diagnostic-Driven Approach
 
@@ -909,9 +874,8 @@ Open for discussion and clarification of any topics covered.
 
 ## References
 
+# <br>
 
-<br>
-=======
 -   Bodey GP, et al. Ann Intern Med. 1966;64:328-340.
 -   Averbuch D, et al. Haematologica. 2013;98:1826-1835.
 -   Cornely OA, et al. N Engl J Med. 2007;356:348-359.
@@ -921,4 +885,3 @@ Open for discussion and clarification of any topics covered.
 
 ::: {#refs}
 :::
-
