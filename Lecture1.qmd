@@ -24,6 +24,8 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 ## Febrile neutropenia
 
+<br>
+
 **Russell E. Lewis** <br> Associate Professor of Infectious Diseases <br> Department of Molecular Medicine <br> University of Padua
 
 ![](unipd.png){.absolute top="550" left="950" width="100" height="100"}
@@ -82,14 +84,9 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 ## Corticosteroids
 
-**Paradoxical effects:**
+**Paradoxical effects:** :::: {.columns} ::: {.column width="50%"}
 
--   ↑ Granulocytopoiesis (apparent benefit)
-    -   BUT: ↓ Accumulation at infection site
--   ↓ Adherent capacity
--   ↓ Chemotaxis
--   ↓ Phagocytosis
--   ↓ Intracellular killing
+::: ::: {.column width="50%"} - ↑ Granulocytopoiesis (apparent benefit) - BUT: ↓ Accumulation at infection site - ↓ Adherent capacity - ↓ Chemotaxis - ↓ Phagocytosis - ↓ Intracellular killing ::: ::::
 
 ## Immunity and innate immune cells {.smaller}
 
