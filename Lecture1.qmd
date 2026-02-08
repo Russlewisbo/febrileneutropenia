@@ -177,11 +177,13 @@ ALL- aculte lymphoblastic leukemia, <br> CLL- chonic lymphoblastic leukemia
 Risk correlates with intensity of antineoplastic therapy. Children generally have lower infection risk than adults.
 :::
 
-## Clinical signs if infection are muted in neutropenic patients {.smaller}
+## Clinical signs if infection are muted in neutropenic patients
 
 <br>
 
-\% of patients who have a neutrophil count/mm^3^ of:
+<center>% of patients who have a neutrophil count/mm^3^ :</center>
+
+<br>
 
 |                           |           |              |            |
 |---------------------------|-----------|--------------|------------|
@@ -240,7 +242,7 @@ image:www.biorender.com
 
 ## Mucositis
 
-WHO oral toxicity scale
+<center>WHO oral toxicity scale</center>
 
 ![](images/mucositis.png){fig-align="center"}
 
@@ -274,13 +276,22 @@ WHO oral toxicity scale
 
     -   Acute leukemia patients: 85-95%
 
-## Most common bacterial pathogens
+## Most common bacterial pathogens {.smaller}
 
-![](images/pathogens.png)
+::::: columns
+::: {.column width="50%"}
+
+![](images/pathogens.png){width="600"}
+:::
+
+::: {.column width="50%"}
+<br> <br> <br>
 
 -   Infectious source documented in only 20-30% of episodes
 -   Bacteremia documented in 10-25% of patients with fever
 -   Aerobic Gram-positive and Gram-negative
+:::
+:::::
 
 ::: aside
 [@mikulskaAetiologyResistanceBacteraemias2014]
@@ -363,15 +374,15 @@ WHO oral toxicity scale
 
 ## CVC-Related Infection Rates {.smaller}
 
-+-----------------+--------------------------------------------------------------+-----------------+------------------------+
-| Catheter Type   |                                                              | Per 100 devices | Per 1000 catheter-days |
-+=================+==============================================================+=================+========================+
-| Hickman/Broviac | ![](images/Screenshot%202026-02-06%20174909.png){width="60"} | 22.5            | 1.6                    |
-+-----------------+--------------------------------------------------------------+-----------------+------------------------+
-| Port-a-cath     | ![](images/broviac.png){width="60" height="39"}              | 3.5-4           | 0.1                    |
-+-----------------+--------------------------------------------------------------+-----------------+------------------------+
-| PICC            | ![](images/PICC.png){width="60"}                             | 3.1             | 1.1                    |
-+-----------------+--------------------------------------------------------------+-----------------+------------------------+
++---------------------+--------------------------------------------------------------+------------------------+
+| Catheter Type       |                                                              | Per 1000 catheter-days |
++=====================+==============================================================+========================+
+| Hickman/Broviac     | ![](images/Screenshot%202026-02-06%20174909.png){width="83"} | 1.6                    |
++---------------------+--------------------------------------------------------------+------------------------+
+| Port-a-cath         | ![](images/broviac.png){width="100" height="100"}            | 0.1                    |
++---------------------+--------------------------------------------------------------+------------------------+
+| PICC                | ![](images/PICC.png){width="154"}                            | 1.1                    |
++---------------------+--------------------------------------------------------------+------------------------+
 
 ::: notes
 Patients with hematologic malignancies, especially acute leukemia, have higher CVC infection rates than those with solid tumors.
