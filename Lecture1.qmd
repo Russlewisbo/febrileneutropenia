@@ -66,7 +66,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 :::
 :::::
 
-## Chemotherapy-associated neutropenia {.smaller}
+## Chemotherapy-associated neutropenia
 
 <br>
 
@@ -85,6 +85,8 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
     -   Defective intracellular killing
 
 ## Corticosteroids
+
+<br> <br>
 
 ::::: columns
 ::: {.column width="50%"}
@@ -109,31 +111,31 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 ## Immunity and innate immune cells {.smaller}
 
-+-----------------------------------------+----------------------------------------------------+-------------------------------------------------+
-| Source                                  | Molecules                                          | Active against                                  |
-+=========================================+====================================================+=================================================+
-| **Polymorphonuclear leukocytes (PMNs)** | -   Lysozyme, myeloperoxidase with (with H~2~O~2)~ | Bacteria, fung                                  |
-|                                         |                                                    |                                                 |
-| -   1° granules                         | -   Defensins, BPI, lactoferrin                    |                                                 |
-|                                         |                                                    |                                                 |
-| -   Specific granules                   |                                                    |                                                 |
-+-----------------------------------------+----------------------------------------------------+-------------------------------------------------+
-| **Macrophages**                         | -   Similar to PMN but no myeloperoxidase          | Intracellular pathogens <br>(depletes arginine) |
-|                                         |                                                    |                                                 |
-|                                         | -   Nitric oxide                                   |                                                 |
-|                                         |                                                    |                                                 |
-|                                         | -   Arginase                                       |                                                 |
-+-----------------------------------------+----------------------------------------------------+-------------------------------------------------+
-| **Eosinophil**                          | -   Cationic proteins                              | Worms (extracellular)                           |
-|                                         |                                                    |                                                 |
-|                                         | -   Major basic protein                            |                                                 |
-|                                         |                                                    |                                                 |
-|                                         | -   Peroxidase                                     |                                                 |
-+-----------------------------------------+----------------------------------------------------+-------------------------------------------------+
-| **Natural killing (NK) cells**          | -   Perforins                                      | Viral or bacterial infected cells               |
-|                                         |                                                    |                                                 |
-|                                         | -   Granzymes                                      |                                                 |
-+-----------------------------------------+----------------------------------------------------+-------------------------------------------------+
++--------------------------------+----------------------------------------------------+-------------------------------------------------+
+| Cells                          | Molecules                                          | Active against                                  |
++================================+====================================================+=================================================+
+| **PMNs**                       | <br>                                               | Bacteria, fungi                                 |
+|                                |                                                    |                                                 |
+| -   1° granules                | -   Lysozyme, myeloperoxidase with (with H~2~O~2)~ |                                                 |
+|                                |                                                    |                                                 |
+| -   Specific granules          | -   Defensins, BPI, lactoferrin                    |                                                 |
++--------------------------------+----------------------------------------------------+-------------------------------------------------+
+| **Macrophages**                | -   Similar to PMN but no myeloperoxidase          | Intracellular pathogens <br>(depletes arginine) |
+|                                |                                                    |                                                 |
+|                                | -   Nitric oxide                                   |                                                 |
+|                                |                                                    |                                                 |
+|                                | -   Arginase                                       |                                                 |
++--------------------------------+----------------------------------------------------+-------------------------------------------------+
+| **Eosinophils**                | -   Cationic proteins                              | Worms (extracellular)                           |
+|                                |                                                    |                                                 |
+|                                | -   Major basic protein                            |                                                 |
+|                                |                                                    |                                                 |
+|                                | -   Peroxidase                                     |                                                 |
++--------------------------------+----------------------------------------------------+-------------------------------------------------+
+| **Natural killing (NK) cells** | -   Perforins                                      | Viral or bacterial infected cells               |
+|                                |                                                    |                                                 |
+|                                | -   Granzymes                                      |                                                 |
++--------------------------------+----------------------------------------------------+-------------------------------------------------+
 
 ## Quantitative relationship of neutropenia with infection risk
 
@@ -149,8 +151,8 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 -   Chemotherapy & radiation → **neutropenia**
 -   Duration: Nadir 10-14 days, duration 3-4 weeks or longer
--   **Primary risk factor for infection**
--   Risk increases with:
+-   **Primary risk factor for bacterial and fungal infections**
+-   Risk of infection increases with:
     -   Depth of neutropenia
     -   Duration of neutropenia
     -   Concurrent organ dysfunction
@@ -199,7 +201,9 @@ Risk correlates with intensity of antineoplastic therapy. Children generally hav
 
 ## The Integument
 
-<br> **Skin:**
+::::: columns
+::: {.column width="50%"}
+**Skin:**
 
 -   Chemotherapy → hair loss, dryness
 -   Catheters → direct microbial access
@@ -208,6 +212,16 @@ Risk correlates with intensity of antineoplastic therapy. Children generally hav
 **Oropharynx:**
 
 -   Xerostomia + antibiotics → thrush, bacterial overgrowth
+:::
+
+::: {.column width="50%"}
+![](images/MDR%20pseudomonas.png){width="459"}
+:::
+:::::
+
+::: aside
+[@Coppola20201]
+:::
 
 ------------------------------------------------------------------------
 
@@ -240,7 +254,7 @@ image:www.biorender.com
 
 ## Mucositis
 
-WHO oral toxicity scale
+### WHO oral toxicity scale
 
 ![](images/mucositis.png){fig-align="center"}
 
@@ -251,28 +265,6 @@ WHO oral toxicity scale
 ## Sequence of infection
 
 ![](images/sequence.png){fig-align="center" width="800"}
-
-## Febrile neutropenia: Definition
-
-<br>
-
--   **Single oral temperature ≥ 38.3° or temperature ≥ 38.0 sustained over 1-hour**
-
-    -   Absolute neutrophils count (ANC) = Total WBC x (% PMN + % banded neutrophils)
-
--   **Neutropenia: Absolute neutrophil count \< 1500 cells/μL**
-
-    -   Severe neutropenia: 500 cells/μL, or an ANC expected to decrease to \< 500 cells/μL in the next 48h
-
--   **Profound neutropenia: ANC \< 100 cells/μL**
-
--   **Frequency of febrile fever episodes during hospital admission:**
-
-    -   Solid tumor patients: 5-10%
-
-    -   Non-leukemic, hematological malignancy 20-25%
-
-    -   Acute leukemia patients: 85-95%
 
 ## Most common bacterial pathogens
 
@@ -363,15 +355,11 @@ WHO oral toxicity scale
 
 ## CVC-Related Infection Rates {.smaller}
 
-+-----------------+--------------------------------------------------------------+-----------------+------------------------+
-| Catheter Type   |                                                              | Per 100 devices | Per 1000 catheter-days |
-+=================+==============================================================+=================+========================+
-| Hickman/Broviac | ![](images/Screenshot%202026-02-06%20174909.png){width="60"} | 22.5            | 1.6                    |
-+-----------------+--------------------------------------------------------------+-----------------+------------------------+
-| Port-a-cath     | ![](images/broviac.png){width="60" height="39"}              | 3.5-4           | 0.1                    |
-+-----------------+--------------------------------------------------------------+-----------------+------------------------+
-| PICC            | ![](images/PICC.png){width="60"}                             | 3.1             | 1.1                    |
-+-----------------+--------------------------------------------------------------+-----------------+------------------------+
+| Catheter Type |   | Per 100 devices | Per 1000 catheter-days |
+|----|----|----|----|
+| Hickman/Broviac | ![](images/Screenshot%202026-02-06%20174909.png){width="100"} | 22.5 | 1.6 |
+| Port-a-cath | ![](images/clipboard-47554115.png) | 3.5-4 | 0.1 |
+| PICC | ![](images/PICC.png){width="153"} | 3.1 | 1.1 |
 
 ::: notes
 Patients with hematologic malignancies, especially acute leukemia, have higher CVC infection rates than those with solid tumors.
@@ -506,17 +494,12 @@ This shift is accompanied by increasing antimicrobial resistance, making empiric
 
 **Fluoroquinolone prophylaxis:**
 
-+--------------------------+----------------------------------------------------------+
-| Pros                     | Cons                                                     |
-+==========================+==========================================================+
+| Pros | Cons |
+|----|----|
 | Reduces febrile episodes | Increasing resistance, <br> especially selection of ESBL |
-+--------------------------+----------------------------------------------------------+
-| Reduces BSI              | No mortality benefit (recent data)                       |
-+--------------------------+----------------------------------------------------------+
-| Oral administration      | Drug interactions                                        |
-+--------------------------+----------------------------------------------------------+
-|                          | QT prolongation, tendinopathy                            |
-+--------------------------+----------------------------------------------------------+
+| Reduces BSI | No mortality benefit (recent data) |
+| Oral administration | Drug interactions |
+|  | QT prolongation, tendinopathy |
 
 <br> **Current status:** Controversial; some guidelines no longer recommend
 
@@ -608,17 +591,12 @@ G-CSF vs FQ studies show antibiotics may be equally or more effective for preven
 
 <br>
 
-+---------------------+---------------------------+------------------------------+
 | Vaccine             | Timing                    | Notes                        |
-+=====================+===========================+==============================+
+|---------------------|---------------------------|------------------------------|
 | Influenza           | Annual                    | Avoid during intensive chemo |
-+---------------------+---------------------------+------------------------------+
 | Pneumococcal (PCV)  | Before chemo if possible  | Better response than PPSV23  |
-+---------------------+---------------------------+------------------------------+
 | SARS-CoV-2          | 3-dose primary + boosters | All patients and contacts    |
-+---------------------+---------------------------+------------------------------+
 | Herpes zoster (RZV) | VZV seropositive          | Inactivated vaccine          |
-+---------------------+---------------------------+------------------------------+
 
 # Management of Febrile Neutropenia
 
@@ -888,25 +866,6 @@ Stewardship is especially important in oncology where prolonged antibiotics and 
 7.  **Stewardship** is essential to preserve antimicrobial efficacy
 
 ------------------------------------------------------------------------
-
-## Questions?
-
-::: notes
-Open for discussion and clarification of any topics covered.
-:::
-
-------------------------------------------------------------------------
-
-## References
-
-# <br>
-
--   Bodey GP, et al. Ann Intern Med. 1966;64:328-340.
--   Averbuch D, et al. Haematologica. 2013;98:1826-1835.
--   Cornely OA, et al. N Engl J Med. 2007;356:348-359.
--   Freifeld AG, et al. Clin Infect Dis. 2011;52:e56-e93.
--   ECIL Guidelines (Various years)
--   NCCN Guidelines: Prevention and Treatment of Cancer-Related Infections
 
 ::: {#refs}
 :::
