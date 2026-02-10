@@ -15,11 +15,11 @@ $heading-color: #9B0014 !default;
 $text-muted: lighten($body-color, 30%) !default;
 
 // link colors
-<<<<<<< HEAD
-$link-color: #000000!default;
-=======
+
+$link-color: #000000 !default;
+
 $link-color: #222 !default;
->>>>>>> 47f57cf6aad711f72aa81e453e30788c8649947f
+
 $link-color-hover: lighten($link-color, 10%) !default;
 
 // selection colors
