@@ -367,15 +367,11 @@ WHO oral toxicity scale
 
 ## CVC-Related Infection Rates {.smaller}
 
-+-----------------+---------------------------------------------------------------+-----------------+------------------------+
-| Catheter Type   |                                                               | Per 100 devices | Per 1000 catheter-days |
-+=================+===============================================================+=================+========================+
-| Hickman/Broviac | ![](images/Screenshot%202026-02-06%20174909.png){width="100"} | 22.5            | 1.6                    |
-+-----------------+---------------------------------------------------------------+-----------------+------------------------+
-| Port-a-cath     | ![](images/clipboard-47554115.png)                            | 3.5-4           | 0.1                    |
-+-----------------+---------------------------------------------------------------+-----------------+------------------------+
-| PICC            | ![](images/PICC.png){width="153"}                             | 3.1             | 1.1                    |
-+-----------------+---------------------------------------------------------------+-----------------+------------------------+
+| Catheter Type |   | Per 100 devices | Per 1000 catheter-days |
+|----|----|----|----|
+| Hickman/Broviac | ![](images/Screenshot%202026-02-06%20174909.png){width="100"} | 22.5 | 1.6 |
+| Port-a-cath | ![](images/clipboard-47554115.png) | 3.5-4 | 0.1 |
+| PICC | ![](images/PICC.png){width="153"} | 3.1 | 1.1 |
 
 ::: notes
 Patients with hematologic malignancies, especially acute leukemia, have higher CVC infection rates than those with solid tumors.
@@ -508,17 +504,12 @@ This shift is accompanied by increasing antimicrobial resistance, making empiric
 
 **Fluoroquinolone prophylaxis:**
 
-+--------------------------+----------------------------------------------------------+
-| Pros                     | Cons                                                     |
-+==========================+==========================================================+
+| Pros | Cons |
+|----|----|
 | Reduces febrile episodes | Increasing resistance, <br> especially selection of ESBL |
-+--------------------------+----------------------------------------------------------+
-| Reduces BSI              | No mortality benefit (recent data)                       |
-+--------------------------+----------------------------------------------------------+
-| Oral administration      | Drug interactions                                        |
-+--------------------------+----------------------------------------------------------+
-|                          | QT prolongation, tendinopathy                            |
-+--------------------------+----------------------------------------------------------+
+| Reduces BSI | No mortality benefit (recent data) |
+| Oral administration | Drug interactions |
+|  | QT prolongation, tendinopathy |
 
 <br> **Current status:** Controversial; some guidelines no longer recommend
 
@@ -610,17 +601,12 @@ G-CSF vs FQ studies show antibiotics may be equally or more effective for preven
 
 <br>
 
-+---------------------+---------------------------+------------------------------+
 | Vaccine             | Timing                    | Notes                        |
-+=====================+===========================+==============================+
+|---------------------|---------------------------|------------------------------|
 | Influenza           | Annual                    | Avoid during intensive chemo |
-+---------------------+---------------------------+------------------------------+
 | Pneumococcal (PCV)  | Before chemo if possible  | Better response than PPSV23  |
-+---------------------+---------------------------+------------------------------+
 | SARS-CoV-2          | 3-dose primary + boosters | All patients and contacts    |
-+---------------------+---------------------------+------------------------------+
 | Herpes zoster (RZV) | VZV seropositive          | Inactivated vaccine          |
-+---------------------+---------------------------+------------------------------+
 
 # Management of Febrile Neutropenia
 
@@ -810,7 +796,7 @@ Extended/continuous infusion of beta-lactams improves pharmacodynamic target att
 
 ::::: columns
 ::: {.column width="50%"}
-![](images/Biofilm Formation Cycle.png){fig-align="center"}
+![](images/Biofilm%20Formation%20Cycle.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
