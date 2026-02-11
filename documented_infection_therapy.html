@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Segoe UI', Arial, Helvetica, sans-serif;
+    background: #fff;
+    padding: 24px;
+    color: #1a1a1a;
+  }
+  .container {
+    display: flex;
+    gap: 0;
+    align-items: stretch;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+
+  /* Left panel */
+  .left-panel {
+    flex: 0 0 280px;
+    display: flex;
+    align-items: center;
+    gap: 0;
+  }
+  .doc-label {
+    background: #1a5276;
+    color: #fff;
+    font-weight: 700;
+    font-size: 14px;
+    padding: 10px 14px;
+    border-radius: 6px;
+    writing-mode: horizontal-tb;
+    text-align: center;
+    white-space: nowrap;
+  }
+  .arrow-connector {
+    display: flex;
+    align-items: center;
+    padding: 0 4px;
+    color: #1a5276;
+    font-size: 22px;
+  }
+  .principles-box {
+    background: #eaf2f8;
+    border: 2px solid #1a5276;
+    border-radius: 8px;
+    padding: 14px 16px;
+    font-size: 11.5px;
+    line-height: 1.55;
+    flex: 1;
+  }
+  .principles-box .title {
+    font-weight: 700;
+    font-size: 12px;
+    margin-bottom: 6px;
+    color: #1a5276;
+  }
+  .principles-box ul {
+    list-style: none;
+    padding: 0;
+  }
+  .principles-box li {
+    padding-left: 12px;
+    position: relative;
+    margin-bottom: 3px;
+  }
+  .principles-box li::before {
+    content: "▸";
+    position: absolute;
+    left: 0;
+    color: #1a5276;
+    font-size: 10px;
+  }
+  .sub-list {
+    padding-left: 10px;
+    margin-top: 2px;
+  }
+  .sub-list li {
+    font-size: 10.5px;
+    color: #444;
+  }
+  .sub-list li::before {
+    content: "–";
+    color: #888;
+  }
+
+  /* Arrow bridge */
+  .arrow-bridge {
+    flex: 0 0 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+    color: #1a5276;
+  }
+
+  /* Right panel - durations */
+  .right-panel {
+    flex: 1;
+    border: 2px solid #1a5276;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .right-header {
+    background: #1a5276;
+    color: #fff;
+    font-weight: 700;
+    font-size: 13px;
+    padding: 8px 14px;
+    text-align: center;
+  }
+  .duration-body {
+    padding: 10px 14px;
+    font-size: 11.5px;
+    line-height: 1.6;
+  }
+
+  .category {
+    margin-bottom: 8px;
+  }
+  .cat-title {
+    font-weight: 700;
+    color: #1a5276;
+    font-size: 12px;
+    margin-bottom: 2px;
+  }
+  .cat-items {
+    padding-left: 14px;
+  }
+  .cat-items .item {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 1px 0;
+    border-bottom: 1px dotted #ddd;
+  }
+  .cat-items .item:last-child {
+    border-bottom: none;
+  }
+  .item-label {
+    color: #333;
+  }
+  .item-duration {
+    font-weight: 600;
+    color: #1a5276;
+    white-space: nowrap;
+    margin-left: 12px;
+    text-align: right;
+  }
+  .item-note {
+    font-size: 10px;
+    color: #666;
+    font-style: italic;
+    padding-left: 14px;
+    margin-top: -1px;
+    margin-bottom: 2px;
+  }
+
+  .catheter-note {
+    font-size: 10px;
+    color: #555;
+    background: #f8f0e0;
+    border-left: 3px solid #d4a017;
+    padding: 5px 8px;
+    margin: 6px 0;
+    border-radius: 0 4px 4px 0;
+    line-height: 1.45;
+  }
+
+  .divider {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 6px 0;
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+
+  <!-- LEFT: Documented infection box -->
+  <div class="left-panel">
+    <div class="doc-label">Documented<br>Infection</div>
+    <div class="arrow-connector">→</div>
+    <div class="principles-box">
+      <div class="title">Follow-up Therapy Principles</div>
+      <ul>
+        <li>Targeted treatment of documented infections</li>
+        <li>Reassess empiric broad-spectrum therapy</li>
+        <li>De-escalation and duration individualized based on:
+          <ul class="sub-list">
+            <li>Neutrophil recovery</li>
+            <li>Rapidity of defervescence</li>
+            <li>Specific site of infection</li>
+            <li>Infecting pathogen</li>
+            <li>Patient's underlying illness</li>
+          </ul>
+        </li>
+        <li>Catheter removal for septic phlebitis, tunnel infection, or port pocket infection</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Arrow bridge -->
+  <div class="arrow-bridge">→</div>
+
+  <!-- RIGHT: Duration table -->
+  <div class="right-panel">
+    <div class="right-header">Suggested Minimum Duration of Therapy</div>
+    <div class="duration-body">
+
+      <div class="category">
+        <div class="cat-title">Skin / Soft Tissue</div>
+        <div class="cat-items">
+          <div class="item"><span class="item-label">Standard</span><span class="item-duration">5–14 days</span></div>
+        </div>
+      </div>
+
+      <hr class="divider">
+
+      <div class="category">
+        <div class="cat-title">Bloodstream Infection</div>
+        <div class="cat-items">
+          <div class="item"><span class="item-label">Gram-negative</span><span class="item-duration">7–14 days</span></div>
+          <div class="item"><span class="item-label">Gram-positive</span><span class="item-duration">7–14 days</span></div>
+          <div class="item"><span class="item-label"><i>S. aureus</i></span><span class="item-duration">4 weeks after 1st negative BC</span></div>
+        </div>
+        <div class="item-note">ID consult advised for <i>S. aureus</i> bacteremia</div>
+        <div class="cat-items">
+          <div class="item"><span class="item-label">Yeast</span><span class="item-duration">≥2 weeks after 1st negative BC</span></div>
+        </div>
+        <div class="catheter-note">
+          <strong>Catheter removal favored</strong> for BSI with <i>Candida</i>, other yeasts, <i>S. aureus</i>, <i>P. aeruginosa</i>, <i>C. jeikeium</i>, <i>Acinetobacter</i> spp., <i>Bacillus</i> spp., atypical mycobacteria, molds, VRE, <i>S. maltophilia</i>, and other MDROs
+        </div>
+      </div>
+
+      <hr class="divider">
+
+      <div class="category">
+        <div class="cat-title">Respiratory</div>
+        <div class="cat-items">
+          <div class="item"><span class="item-label">Bacterial sinusitis</span><span class="item-duration">7–14 days</span></div>
+          <div class="item"><span class="item-label">Bacterial pneumonia</span><span class="item-duration">5–14 days</span></div>
+        </div>
+      </div>
+
+      <hr class="divider">
+
+      <div class="category">
+        <div class="cat-title">Fungal (Mold and Yeast)</div>
+        <div class="cat-items">
+          <div class="item"><span class="item-label"><i>Candida</i></span><span class="item-duration">≥2 weeks after 1st negative BC</span></div>
+          <div class="item"><span class="item-label">Mold (e.g. <i>Aspergillus</i>)</span><span class="item-duration">Minimum 12 weeks</span></div>
+        </div>
+      </div>
+
+      <hr class="divider">
+
+      <div class="category">
+        <div class="cat-title">Viral</div>
+        <div class="cat-items">
+          <div class="item"><span class="item-label">HSV / VZV</span><span class="item-duration">7–10 days</span></div>
+        </div>
+        <div class="item-note">Acyclovir, valacyclovir, or famciclovir (uncomplicated, localized skin)</div>
+        <div class="cat-items">
+          <div class="item"><span class="item-label">Influenza</span><span class="item-duration">Minimum 5 days oseltamivir</span></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+</body>
+</html>

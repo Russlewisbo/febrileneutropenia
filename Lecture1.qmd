@@ -256,19 +256,13 @@ image:www.biorender.com
 
 ## Mucositis
 
-WHO oral toxicity scale
-
 <center>WHO oral toxicity scale</center>
 
 ![](images/mucositis.png){fig-align="center"}
 
 ## Which pathogens translocate?
 
-![](images/mbi_pathogens.png){fig-align="center"}
-
-## Sequence of infection
-
-![](images/sequence.png){fig-align="center" width="800"}
+![](images/GI%20sourse.png){fig-align="center"}
 
 ## Most common bacterial pathogens {.smaller}
 
@@ -289,6 +283,10 @@ WHO oral toxicity scale
 ::: aside
 [@mikulskaAetiologyResistanceBacteraemias2014]
 :::
+
+## Sequence of infection
+
+![](images/sequence.png){fig-align="center" width="800"}
 
 ## Risk of infection vs. duration of neutropenia {.smaller}
 
@@ -489,6 +487,8 @@ This shift is accompanied by increasing antimicrobial resistance, making empiric
 
 ## Viral Infections
 
+<br>
+
 **Herpes viruses:**
 
 -   HSV reactivation: 60% of seropositive with acute leukemia
@@ -520,7 +520,7 @@ This shift is accompanied by increasing antimicrobial resistance, making empiric
 |                          | QT prolongation, tendinopathy                            |
 +--------------------------+----------------------------------------------------------+
 
-<br> **Current status:** Controversial; some guidelines no longer recommend
+<br> **Current status:** Controversial; some guidelines no longer recommend especially in centeres with high levels of resistance
 
 ::: notes
 The benefit of FQ prophylaxis may no longer translate to mortality reduction because most prevented infections can be effectively treated with empirical therapy.
@@ -539,19 +539,24 @@ The benefit of FQ prophylaxis may no longer translate to mortality reduction bec
 
 **Posaconazole:**
 
--   NNT to prevent 1 IFD: 16
--   NNT to prevent 1 death: 27
+-   Number needed to treat (NNT) to prevent 1 IFD: 16
+-   Number needed to treat (NNT) to prevent 1 death: 27
 
 ## Antifungal Prophylaxis
 
 <br>
 
-| Agent | Dose | Indication |
-|----|----|----|
-| Posaconazole tablets | 300 mg BID day 1, then 300 mg daily | AML/MDS |
-| Fluconazole | 400 mg daily | Candidiasis risk only |
-| Voriconazole | 200 mg BID | Alternative (TDM needed) |
-| Isavuconazole | 200 mg daily (after loading) | Alternative |
++----------------------+-------------------------------------+--------------------------+
+| Agent                | Dose                                | Indication               |
++======================+=====================================+==========================+
+| Fluconazole          | 400 mg daily                        | Candidiasis risk only    |
++----------------------+-------------------------------------+--------------------------+
+| Posaconazole tablets | 300 mg BID day 1, then 300 mg daily | AML/MDS/ BMT             |
++----------------------+-------------------------------------+--------------------------+
+| Voriconazole         | 200 mg BID                          | Alternative (TDM needed) |
++----------------------+-------------------------------------+--------------------------+
+| Isavuconazole        | 200 mg daily (after loading)        | Alternative              |
++----------------------+-------------------------------------+--------------------------+
 
 <br>
 
@@ -564,7 +569,7 @@ Problem: *Drug interactions with agents metabolized through CYP3A4*
 **Indications:**
 
 -   ALL (all ages)
--   Fludarabine, alemtuzumab, idelalisib therapy
+-   Fludarabine, alemtuzumab, idelalisib therapy (T-cell suppressing chemotherapy)
 -   Corticosteroids ≥20 mg/day × 4 weeks
 -   CD4 \<200/µL
 
@@ -588,10 +593,10 @@ Problem: *Drug interactions with agents metabolized through CYP3A4*
 -   Entecavir or tenofovir for HBsAg-positive
 -   Continue 6-18 months post-chemotherapy
 
-## G-CSF Prophylaxis
+## Granulocyte-Colony Stimulating Factor (G-CSF)
 
-<br>
-
+::::: columns
+::: {.column width="50%"}
 **Primary prophylaxis:**
 
 -   When febrile neutropenia risk \>20%
@@ -601,8 +606,16 @@ Problem: *Drug interactions with agents metabolized through CYP3A4*
 
 -   After prior neutropenic complication
 -   When dose reduction would compromise outcomes
+:::
+
+::: {.column width="50%"}
+![](images/hematopoesis.png)
+:::
+:::::
 
 ::: notes
+G-CSF acts at multiple levels of neutrophil production: it promotes proliferation and differentiation of myeloid progenitor cells committed to the granulocytic lineage, accelerates maturation through the promyelocyte → myelocyte → metamyelocyte → band → mature neutrophil stages, and shortens the transit time through the bone marrow.
+
 G-CSF vs FQ studies show antibiotics may be equally or more effective for preventing febrile neutropenia.
 :::
 
@@ -610,21 +623,23 @@ G-CSF vs FQ studies show antibiotics may be equally or more effective for preven
 
 <br>
 
-+---------------------+---------------------------+------------------------------+
-| Vaccine             | Timing                    | Notes                        |
-+=====================+===========================+==============================+
-| Influenza           | Annual                    | Avoid during intensive chemo |
-+---------------------+---------------------------+------------------------------+
-| Pneumococcal (PCV)  | Before chemo if possible  | Better response than PPSV23  |
-+---------------------+---------------------------+------------------------------+
-| SARS-CoV-2          | 3-dose primary + boosters | All patients and contacts    |
-+---------------------+---------------------------+------------------------------+
-| Herpes zoster (RZV) | VZV seropositive          | Inactivated vaccine          |
-+---------------------+---------------------------+------------------------------+
++---------------------+---------------------------+-------------------------------------+
+| Vaccine             | Timing                    | Notes                               |
++=====================+===========================+=====================================+
+| Influenza           | Annual                    | Avoid during intensive chemotherapy |
++---------------------+---------------------------+-------------------------------------+
+| Pneumococcal (PCV)  | Before chemo if possible  | Better response than PPSV23         |
++---------------------+---------------------------+-------------------------------------+
+| SARS-CoV-2          | 3-dose primary + boosters | All patients and contacts           |
++---------------------+---------------------------+-------------------------------------+
+| Herpes zoster (RZV) | VZV seropositive          | Inactivated vaccine                 |
++---------------------+---------------------------+-------------------------------------+
 
-# Management of Febrile Neutropenia
+# <br> <br> <br> <br> Management of Febrile Neutropenia {background-color="#9B0014"}
 
 ## Definition of Fever
+
+<br>
 
 For starting empirical antibiotics:
 
@@ -643,6 +658,8 @@ Fever during neutropenia is a medical emergency. Any delay in antibiotic adminis
 :::
 
 ## Classification of Episodes
+
+<br>
 
 1.  **Microbiologically documented with bacteremia** - Positive blood culture
 2.  **Microbiologically documented without bacteremia** - Other site culture positive
@@ -684,11 +701,11 @@ Two main approaches:
 **Escalation:**
 
 -   Start narrow, broaden if needed
--   For stable patients without MDR risk
+-   For stable patients without risk of MDR pathogens
 
 **De-escalation:**
 
--   Start broad, narrow when results available
+-   Start broad, narrow when microbiology results available
 -   For unstable patients or MDR colonization
 
 ## Escalation Strategy
@@ -701,7 +718,7 @@ Two main approaches:
 **Day 2-4 (if needed):**
 
 -   Add vancomycin if skin/catheter infection
--   Add aminoglycoside or change to anti-pseudomonal carbapenem if septic
+-   Add aminoglycoside and/or change to anti-pseudomonal carbapenem if septic
 -   Add antifungal if persistent fever
 
 ## De-escalation Strategy
@@ -717,7 +734,7 @@ Two main approaches:
 -   Stop aminoglycoside if not needed
 -   Narrow spectrum if pathogen identified
 
-Key Antibiotics for empiric treatment
+## Key Antibiotics for empiric treatment
 
 <br>
 
@@ -762,7 +779,7 @@ Extended/continuous infusion of beta-lactams improves pharmacodynamic target att
 -   Guided by pathogen, site, and response
 -   Generally until neutrophil recovery and clinical cure
 
-# Antifungal Therapy
+# <br> <br> <br> <br> Antifungal Therapy {background-color="#9B0014"}
 
 ## Empirical vs Diagnostic-Driven Approach
 
@@ -777,7 +794,7 @@ Extended/continuous infusion of beta-lactams improves pharmacodynamic target att
 -   Reduces unnecessary antifungal use
 -   Requires good diagnostic infrastructure
 
-------------------------------------------------------------------------
+
 
 ## Diagnostic Tools
 
@@ -788,7 +805,11 @@ Extended/continuous infusion of beta-lactams improves pharmacodynamic target att
 | PCR                | Species-specific            | Blood, BAL    |
 | CT imaging         | Structural changes          | Chest/sinuses |
 
-------------------------------------------------------------------------
+
+
+## Mucormycosis
+
+![](images/mucor.png){fig-align="center"}
 
 ## Antifungal Selection
 
@@ -799,18 +820,18 @@ Extended/continuous infusion of beta-lactams improves pharmacodynamic target att
 | Candidemia             | Echinocandin                            |
 | Empirical therapy      | Liposomal amphotericin B or caspofungin |
 
-------------------------------------------------------------------------
+
 
 <br> <br> <br> <br> \# Special Situations\
 {background-color="#9B0014"}
 
-------------------------------------------------------------------------
+
 
 ## Central venous catheter (CVC) infections
 
 ::::: columns
 ::: {.column width="50%"}
-![](images/Biofilm Formation Cycle.png){fig-align="center"}
+![](images/Biofilm%20Formation%20Cycle.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -834,9 +855,50 @@ Extended/continuous infusion of beta-lactams improves pharmacodynamic target att
 -   Tunnel infection
 -   Persistent bacteremia despite antibiotic therapy
 
-------------------------------------------------------------------------
+
+## Skin lesions
+
+Evidence of disseminated infection (hematogenous spread)
+
+![](images/skin.png)
+
+## Oral- Upper GI infection
+
+Candida- Thrush, esophagitis (odynophagia, retrosternal pain)
+
+Vesicular lesions- painful grouped lesions→ulceration
+
+![](images/oral.png)
+
+Disseminated HSV- widespread vesicular rash , hepatitis (↑ AST/ALT, sometimes severe), pneumonitis
+
+## Pneumonia
+
+Among febrile neutropenic patients with a "normal" chest x-ray, <br> up to 60% of patients may have findings of pneumonia on CT
+
+::::: columns
+::: {.column width="50%"}
+![](images/clipboard-4243987732.png){width="350"}
+:::
+
+::: {.column width="50%"}
+![](images/CT%20image.png){width="350"}
+:::
+:::::
+
+## Common CT findings
+
+![](images/ct_imaging.png){fig-align="center" width="1000"}
+
+## Bronchoscopy
+
+![](images/BAL.png){fig-align="center"}
 
 ## Neutropenic Enterocolitis (Typhlitis)
+
+![](images/typhlitis.png){fig-align="center"}
+
+## Neutropenic enterocolitis (Typhlitis)
 
 **Key features:**
 
@@ -850,42 +912,65 @@ Extended/continuous infusion of beta-lactams improves pharmacodynamic target att
 -   Bowel rest, NG suction if obstruction
 -   Surgery only for perforation/hemorrhage
 
-------------------------------------------------------------------------
 
-## Pulmonary Infiltrates
+## *Clostridioides difficile* *colitis*
 
-**Diagnostic approach:**
+<br>
 
-1.  CT imaging (HRCT with angiography)
-2.  Bronchoscopy with BAL if feasible
-3.  GM and PCR on BAL fluid
-4.  Consider biopsy if accessible
+-   **First-line treatment:** Reduce unnecessary antibiotics →oral vancomycin 125 mg QID for 10 days or fidaxomicin 200 mg BID for 10 days
 
-**Common etiologies:**
+-   **Fulminant disease:** Oral vancomycin 500 mg QID (or via NG tube) combined with IV metronidazole 500 mg TID; →consider rectal vancomycin instillation if ileus is present.
 
--   Bacterial pneumonia
--   *Pneumocystis* (if no prophylaxis)
--   Invasive aspergillosis
--   Respiratory viruses
+-   **Ongoing/worsening CDI:** Fidaxomicin if initially treated with vancomycin→ fecal microbiota transplant (if not neutropenic.
 
-------------------------------------------------------------------------
+-   **CDI resolved but at risk of recurrence:** Consider continuing vancomycin or fidaxomicin if diarrhea recurs, and prophylactic vancomycin during subsequent antibiotic courses → taper regimens fecal transplant (not neutropenic) or bezlotoxumab
 
-# Antimicrobial Stewardship
+## How to assess clinical response?
 
-------------------------------------------------------------------------
+<br>
+
+-   **Documented infection:** Treat for the appropriate duration based on the specific pathogen and site (see relevant guidelines).
+
+-   **Fever resolved, unknown origin, ANC ≥500**: Discontinue empiric antibiotics.
+
+-   **Fever resolved, unknown origin, ANC \<500:** Options include discontinuing therapy, de-escalating to prophylaxis, or continuing the current regimen until neutropenia resolves.
+
+-   **Not responding/clinically worsening:** Broaden antimicrobial coverage based on clinical and microbiologic data, obtain imaging, consider adding G-CSF, and obtain ID consultation.
+
+-   **Persistent fever ≥4 days on empiric antibiotics:** Consider adding antifungal therapy with anti-mold activity; duration guided by clinical course, neutrophil recovery, and ID input.
+
+## Typical treatment duration (NCCN 2025 Guidelines){.smaller}
+
+<iframe src="documented_infection_therapy.html" width="100%" height="600px" style="border:none;">
+
+</iframe>
+
+## Causes of treatment failure
+
+<iframe src="fail.html" width="100%" height="600px" style="border:none;">
+
+</iframe>
+
+
+# <br> <br> <br> <br> Antimicrobial Stewardship {background-color="#9B0014"}
+
 
 ## Core Components
+
+<br>
 
 1.  **Surveillance** - Resistance patterns, consumption, outcomes
 2.  **Protocols** - Local guidelines for prevention and treatment
 3.  **Rapid diagnostics** - Enable early de-escalation
-4.  **Dose optimization** - TDM for azoles, PK/PD-guided dosing
+4.  **Dose optimization** - TDM for azoles, drug interaction screening, PK/PD-guided dosing
 
 **Requires multidisciplinary collaboration**
 
 ------------------------------------------------------------------------
 
 ## Key Stewardship Interventions
+
+<br> <br>
 
 -   Timely de-escalation based on culture results
 -   Duration optimization (avoid excessive courses)
@@ -902,8 +987,10 @@ Stewardship is especially important in oncology where prolonged antibiotics and 
 
 ## Summary: Key Takeaways
 
+<br>
+
 1.  **Neutropenia** is the primary risk factor, but many others contribute
-2.  **Epidemiology** is shifting toward gram-negatives and resistance
+2.  **Epidemiology** is shifting toward gram-negatives and MDR
 3.  **Prophylaxis** must be tailored to risk and local epidemiology
 4.  **Febrile neutropenia** requires prompt empirical therapy
 5.  **Escalation vs de-escalation** strategies depend on patient risk
