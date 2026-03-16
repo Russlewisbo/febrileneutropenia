@@ -28,7 +28,9 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 **Russell E. Lewis** <br> Associate Professor of Infectious Diseases <br> Department of Molecular Medicine <br> University of Padua
 
-![](images/unipd_seal_white.svg){width="150"}
++---------------------------------------------+----------------------------------------------------------------+
+| ![](images/dmmunipd_logo.jpeg){width="100"} | ![](images/unipd_seal_white.svg){fig-align="left" width="100"} |
++---------------------------------------------+----------------------------------------------------------------+
 
 <br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} [https://github.com/Russlewisbo](https://github.com/Russlewisbo/ESCMID_2022_talk) <br> Slides and course materials: [www.padovaid.com](https://padovaid.com/)
 
@@ -753,19 +755,19 @@ Two main approaches:
 
 <br>
 
-+-------------------------+----------------+------------------------------+--------------------------------------------+
-| Drug                    | Adult Dose     | Administration               | When                                       |
-+=========================+================+==============================+============================================+
-| Piperacillin-tazobactam | 4.5 g q6-8h    | Extended/continuous infusion | Low risk of ESBL                           |
-+-------------------------+----------------+------------------------------+--------------------------------------------+
-| Cefepime                | 2 g q8h        | Extended infusion            | Low risk of ESBL- active at lower inoculum |
-+-------------------------+----------------+------------------------------+--------------------------------------------+
-| Meropenem               | 1-2 g q8h      | Extended infusion (3-6h)     | Higher risk of ESBL                        |
-+-------------------------+----------------+------------------------------+--------------------------------------------+
-| Ceftazidime-avibactam   | 2.5 g q8h      | 2-hour infusion              | Higher risk of KPC carbapenemase           |
-+-------------------------+----------------+------------------------------+--------------------------------------------+
-| Ceftolozane-tazobactam  | 1.5-3 g q8h    | 1-hour infusion              | Higher risk of MDR *P. aeruginosa*         |
-+-------------------------+----------------+------------------------------+--------------------------------------------+
++-------------------------+--------------+------------------------------+--------------------------------------------+
+| Drug                    | Adult Dose   | Administration               | When                                       |
++=========================+==============+==============================+============================================+
+| Piperacillin-tazobactam | 4.5 g q6-8h  | Extended/continuous infusion | Low risk of ESBL                           |
++-------------------------+--------------+------------------------------+--------------------------------------------+
+| Cefepime                | 2 g q8h      | Extended infusion            | Low risk of ESBL- active at lower inoculum |
++-------------------------+--------------+------------------------------+--------------------------------------------+
+| Meropenem               | 1-2 g q8h    | Extended infusion (3-6h)     | Higher risk of ESBL                        |
++-------------------------+--------------+------------------------------+--------------------------------------------+
+| Ceftazidime-avibactam   | 2.5 g q8h    | 2-hour infusion              | Higher risk of KPC carbapenemase           |
++-------------------------+--------------+------------------------------+--------------------------------------------+
+| Ceftolozane-tazobactam  | 1.5-3 g q8h  | 1-hour infusion              | Higher risk of MDR *P. aeruginosa*         |
++-------------------------+--------------+------------------------------+--------------------------------------------+
 
 ::: notes
 Extended/continuous infusion of beta-lactams improves pharmacodynamic target attainment and may improve outcomes.
