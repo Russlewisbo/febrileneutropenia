@@ -511,17 +511,17 @@ This shift is accompanied by increasing antimicrobial resistance, making empiric
 
 **Fluoroquinolone prophylaxis:**
 
-+----------------------------------+----------------------------------------------------------+
-| Pros                             | Cons                                                     |
-+==================================+==========================================================+
-| Reduces febrile episodes         | Increasing resistance, <br> especially selection of ESBL |
-+----------------------------------+----------------------------------------------------------+
-| Reduces BSI                      | No mortality benefit (recent data)                       |
-+----------------------------------+----------------------------------------------------------+
-| Oral administration              | Drug interactions                                        |
-+----------------------------------+----------------------------------------------------------+
-|                                  | QT prolongation, tendinopathy                            |
-+----------------------------------+----------------------------------------------------------+
++--------------------------+----------------------------------------------------------+
+| Pros                     | Cons                                                     |
++==========================+==========================================================+
+| Reduces febrile episodes | Increasing resistance, <br> especially selection of ESBL |
++--------------------------+----------------------------------------------------------+
+| Reduces BSI              | No mortality benefit (recent data)                       |
++--------------------------+----------------------------------------------------------+
+| Oral administration      | Drug interactions                                        |
++--------------------------+----------------------------------------------------------+
+|                          | QT prolongation, tendinopathy                            |
++--------------------------+----------------------------------------------------------+
 
 <br> **Current status:** Controversial; some guidelines no longer recommend especially in centeres with high levels of resistance
 
@@ -622,7 +622,7 @@ G-CSF acts at multiple levels of neutrophil production: it promotes proliferatio
 G-CSF vs FQ studies show antibiotics may be equally or more effective for preventing febrile neutropenia.
 :::
 
-## Vaccination recommendations {.smaller}
+## Vaccination recommendations
 
 <br>
 
@@ -638,17 +638,9 @@ G-CSF vs FQ studies show antibiotics may be equally or more effective for preven
 | Herpes zoster (RZV) | VZV seropositive          | Inactivated vaccine          |
 +---------------------+---------------------------+------------------------------+
 
-+---------------------+---------------------------+-------------------------------------+
-| Vaccine             | Timing                    | Notes                               |
-+=====================+===========================+=====================================+
-| Influenza           | Annual                    | Avoid during intensive chemotherapy |
-+---------------------+---------------------------+-------------------------------------+
-| Pneumococcal (PCV)  | Before chemo if possible  | Better response than PPSV23         |
-+---------------------+---------------------------+-------------------------------------+
-| SARS-CoV-2          | 3-dose primary + boosters | All patients and contacts           |
-+---------------------+---------------------------+-------------------------------------+
-| Herpes zoster (RZV) | VZV seropositive          | Inactivated vaccine                 |
-+---------------------+---------------------------+-------------------------------------+
+::: aside
+PPSV23- 23-valent pneumococcal polysaccharide vaccin
+:::
 
 # <br> <br> <br> <br> Management of Febrile Neutropenia {background-color="#9B0014"}
 
@@ -683,6 +675,8 @@ Fever during neutropenia is a medical emergency. Any delay in antibiotic adminis
 
 ## Risk Stratification: MASCC Score
 
+<br>
+
 | Variable                              | Points |
 |---------------------------------------|--------|
 | Burden of illness: none/mild          | 5      |
@@ -694,9 +688,11 @@ Fever during neutropenia is a medical emergency. Any delay in antibiotic adminis
 | No dehydration                        | 3      |
 | Age \<60 years                        | 2      |
 
-**Score \>21: Low risk**
+<center>**Score \>21: Low risk**</center>
 
 ## Risk Stratification: CISNE Score
+
+<br>
 
 | Variable               | Points |
 |------------------------|--------|
@@ -707,9 +703,11 @@ Fever during neutropenia is a medical emergency. Any delay in antibiotic adminis
 | Mucositis grade ≥2     | 1      |
 | Monocytes \<200/µL     | 1      |
 
-**Score ≥3: High risk** (for solid tumor patients)
+<center>**Score ≥3: High risk** (for solid tumor patients)</center>
 
 ## Treatment strategies
+
+<br>
 
 Two main approaches:
 
@@ -724,6 +722,8 @@ Two main approaches:
 -   For unstable patients or MDR colonization
 
 ## Escalation Strategy
+
+<br>
 
 **Day 0:**
 
@@ -749,23 +749,29 @@ Two main approaches:
 -   Stop aminoglycoside if not needed
 -   Narrow spectrum if pathogen identified
 
-## Key Antibiotics for empiric treatment
+## Key antibiotics for empiric treatment
 
 <br>
 
-| Drug                    | Adult Dose  | Administration               |
-|-------------------------|-------------|------------------------------|
-| Piperacillin-tazobactam | 4.5 g q6-8h | Extended/continuous infusion |
-| Cefepime                | 2 g q8h     | Extended infusion            |
-| Meropenem               | 1-2 g q8h   | Extended infusion (3-6h)     |
-| Ceftazidime-avibactam   | 2.5 g q8h   | 2-hour infusion              |
-| Ceftolozane-tazobactam  | 1.5-3 g q8h | 1-hour infusion              |
++-------------------------+----------------+------------------------------+--------------------------------------------+
+| Drug                    | Adult Dose     | Administration               | When                                       |
++=========================+================+==============================+============================================+
+| Piperacillin-tazobactam | 4.5 g q6-8h    | Extended/continuous infusion | Low risk of ESBL                           |
++-------------------------+----------------+------------------------------+--------------------------------------------+
+| Cefepime                | 2 g q8h        | Extended infusion            | Low risk of ESBL- active at lower inoculum |
++-------------------------+----------------+------------------------------+--------------------------------------------+
+| Meropenem               | 1-2 g q8h      | Extended infusion (3-6h)     | Higher risk of ESBL                        |
++-------------------------+----------------+------------------------------+--------------------------------------------+
+| Ceftazidime-avibactam   | 2.5 g q8h      | 2-hour infusion              | Higher risk of KPC carbapenemase           |
++-------------------------+----------------+------------------------------+--------------------------------------------+
+| Ceftolozane-tazobactam  | 1.5-3 g q8h    | 1-hour infusion              | Higher risk of MDR *P. aeruginosa*         |
++-------------------------+----------------+------------------------------+--------------------------------------------+
 
 ::: notes
 Extended/continuous infusion of beta-lactams improves pharmacodynamic target attainment and may improve outcomes.
 :::
 
-## Glycopeptide Use
+## Glycopeptide use (to cover MRSA)
 
 <br>
 
@@ -798,6 +804,8 @@ Extended/continuous infusion of beta-lactams improves pharmacodynamic target att
 
 ## Empirical vs Diagnostic-Driven Approach
 
+<br>
+
 **Empirical:**
 
 -   Start antifungal after 4-7 days persistent fever
@@ -809,7 +817,15 @@ Extended/continuous infusion of beta-lactams improves pharmacodynamic target att
 -   Reduces unnecessary antifungal use
 -   Requires good diagnostic infrastructure
 
+<div>
+
+GM -galactomannan ELISA test, BDG- β-D-glucan
+
+</div>
+
 ## Diagnostic Tools
+
+<br>
 
 | Test               | Target                      | Specimen      |
 |--------------------|-----------------------------|---------------|
@@ -824,6 +840,8 @@ Extended/continuous infusion of beta-lactams improves pharmacodynamic target att
 
 ## Antifungal Selection
 
+<br>
+
 | Indication             | First-line                              |
 |------------------------|-----------------------------------------|
 | Invasive aspergillosis | Voriconazole or isavuconazole           |
@@ -831,8 +849,7 @@ Extended/continuous infusion of beta-lactams improves pharmacodynamic target att
 | Candidemia             | Echinocandin                            |
 | Empirical therapy      | Liposomal amphotericin B or caspofungin |
 
-<br> <br> <br> <br> \# Special Situations\
-{background-color="#9B0014"}
+# <br> <br> <br> <br> Specific infections {background-color="#9B0014"}
 
 ## Central venous catheter (CVC) infections
 
@@ -864,31 +881,31 @@ Extended/continuous infusion of beta-lactams improves pharmacodynamic target att
 
 ## Skin lesions
 
-Evidence of disseminated infection (hematogenous spread)
+<center>Evidence of disseminated infection (hematogenous spread)</center>
 
 ![](images/skin.png)
 
 ## Oral- Upper GI infection
 
-Candida- Thrush, esophagitis (odynophagia, retrosternal pain)
+**Candida**- Thrush, esophagitis (odynophagia, retrosternal pain)
 
-Vesicular lesions- painful grouped lesions→ulceration
+**Vesicular lesions**- painful grouped lesions→ulceration
 
 ![](images/oral.png)
 
-Disseminated HSV- widespread vesicular rash , hepatitis (↑ AST/ALT, sometimes severe), pneumonitis
+**Disseminated HSV**- widespread vesicular rash , hepatitis (↑ AST/ALT, sometimes severe), pneumonitis
 
 ## Pneumonia
 
-Among febrile neutropenic patients with a "normal" chest x-ray, <br> up to 60% of patients may have findings of pneumonia on CT
+<center>Among febrile neutropenic patients with a "normal" chest x-ray, <br> up to 60% of patients may have findings of pneumonia on CT</center>
 
 ::::: columns
 ::: {.column width="50%"}
-![](images/clipboard-4243987732.png){width="350"}
+![](images/clipboard-4243987732.png){fig-align="center" width="350"}
 :::
 
 ::: {.column width="50%"}
-![](images/CT%20image.png){width="350"}
+![](images/CT%20image.png){fig-align="center" width="350"}
 :::
 :::::
 
@@ -896,13 +913,17 @@ Among febrile neutropenic patients with a "normal" chest x-ray, <br> up to 60% o
 
 ![](images/ct_imaging.png){fig-align="center" width="1000"}
 
+::: aside
+PCP- pneumocystic (carinii) jirovecii pneumonia, BOOP- bronchiolitis obliterans organizing pneumonia, DAH- disseminated alveolar hemorrhage
+:::
+
 ## Bronchoscopy
 
-![](images/BAL.png){fig-align="center"}
+![](images/BAL.png){fig-align="center" width="800"}
 
 ## Neutropenic Enterocolitis (Typhlitis)
 
-![](images/typhlitis.png){fig-align="center"}
+![](images/typhlitis.png){fig-align="center" width="800"}
 
 ## Neutropenic enterocolitis (Typhlitis)
 
@@ -924,17 +945,19 @@ Among febrile neutropenic patients with a "normal" chest x-ray, <br> up to 60% o
 
 -   **First-line treatment:** Reduce unnecessary antibiotics →oral vancomycin 125 mg QID for 10 days or fidaxomicin 200 mg BID for 10 days
 
--   **Fulminant disease:** Oral vancomycin 500 mg QID (or via NG tube) combined with IV metronidazole 500 mg TID; →consider rectal vancomycin instillation if ileus is present.
+-   **Fulminant disease:** Oral vancomycin 500 mg QID (or via NG tube) combined with IV metronidazole 500 mg TID; →consider rectal vancomycin instillation if ileus is present
 
--   **Ongoing/worsening CDI:** Fidaxomicin if initially treated with vancomycin→ fecal microbiota transplant (if not neutropenic.
+-   **Ongoing/worsening CDI:** Fidaxomicin if initially treated with vancomycin→ fecal microbiota transplant (if not neutropenic)
 
 -   **CDI resolved but at risk of recurrence:** Consider continuing vancomycin or fidaxomicin if diarrhea recurs, and prophylactic vancomycin during subsequent antibiotic courses → taper regimens fecal transplant (not neutropenic) or bezlotoxumab
 
-## How to assess clinical response?
+## How to assess clinical response <br> in febrile neutropenic patient?
 
 <br>
 
--   **Documented infection:** Treat for the appropriate duration based on the specific pathogen and site (see relevant guidelines).
+-   **Documented infection:** Treat for the appropriate duration based on the specific pathogen and site (see relevant guidelines)
+
+    -   Duration of treatment is not necessarily longer in neutropenia
 
 -   **Fever resolved, unknown origin, ANC ≥500**: Discontinue empiric antibiotics.
 
@@ -942,7 +965,7 @@ Among febrile neutropenic patients with a "normal" chest x-ray, <br> up to 60% o
 
 -   **Not responding/clinically worsening:** Broaden antimicrobial coverage based on clinical and microbiologic data, obtain imaging, consider adding G-CSF, and obtain ID consultation.
 
--   **Persistent fever ≥4 days on empiric antibiotics:** Consider adding antifungal therapy with anti-mold activity; duration guided by clinical course, neutrophil recovery, and ID input.
+-   **Persistent fever ≥4 days on empiric antibiotics:** Consider adding antifungal therapy with anti-mold activity; duration guided by clinical course, neutrophil recovery
 
 ## Typical treatment duration (NCCN 2025 Guidelines) {.smaller}
 
@@ -956,9 +979,9 @@ Among febrile neutropenic patients with a "normal" chest x-ray, <br> up to 60% o
 
 </iframe>
 
-# <br> <br> <br> <br> Antimicrobial Stewardship {background-color="#9B0014"}
+# <br> <br> <br> <br> Antimicrobial stewardship {background-color="#9B0014"}
 
-## Core Components
+## Core components
 
 <br>
 
@@ -971,7 +994,7 @@ Among febrile neutropenic patients with a "normal" chest x-ray, <br> up to 60% o
 
 ------------------------------------------------------------------------
 
-## Key Stewardship Interventions
+## Key stewardship interventions
 
 <br> <br>
 
@@ -988,7 +1011,7 @@ Stewardship is especially important in oncology where prolonged antibiotics and 
 
 ------------------------------------------------------------------------
 
-## Summary: Key Takeaways
+## Summary: Key takeaways
 
 <br>
 
