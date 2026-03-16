@@ -596,7 +596,7 @@ Problem: *Drug interactions with agents metabolized through CYP3A4. Interactions
 -   Entecavir or tenofovir for HBsAg-positive
 -   Continue 6-18 months post-chemotherapy
 
-## Granulocyte-Colony Stimulating Factor (G-CSF)
+## Granulocyte-colony stimulating factor (G-CSF)
 
 ::::: columns
 ::: {.column width="50%"}
@@ -622,7 +622,7 @@ G-CSF acts at multiple levels of neutrophil production: it promotes proliferatio
 G-CSF vs FQ studies show antibiotics may be equally or more effective for preventing febrile neutropenia.
 :::
 
-## Vaccination Recommendations
+## Vaccination recommendations {.smaller}
 
 <br>
 
