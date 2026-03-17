@@ -24,15 +24,15 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 # Febrile Neutropenia {background-color="#9B0014"}
 
-<br> <br> <center>
+<br> <br>
 
-**Russell E. Lewis** <br> Associate Professor of Infectious Diseases <br> Department of Molecular Medicine <br> University of Padua </center>
+<center>**Russell E. Lewis** <br> Associate Professor of Infectious Diseases <br> Department of Molecular Medicine <br> University of Padua</center>
 
-+---------------------------------------------+----------------------------------------------------------------+
+|  |  |
+|----|----|
 | ![](images/dmmunipd_logo.jpeg){width="100"} | ![](images/unipd_seal_white.svg){fig-align="left" width="100"} |
-+---------------------------------------------+----------------------------------------------------------------+
 
-<center> <br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} [https://github.com/Russlewisbo](https://github.com/Russlewisbo/ESCMID_2022_talk) <br> Slides and course materials: [www.padovaid.com](https://padovaid.com/) </center>
+<center><br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} [https://github.com/Russlewisbo](https://github.com/Russlewisbo/ESCMID_2022_talk) <br> Slides and course materials: [www.padovaid.com](https://padovaid.com/)</center>
 
 ## Objectives
 
@@ -363,15 +363,11 @@ image:www.biorender.com
 
 ## CVC-related infection rates {.smaller}
 
-+---------------------+---------------------------------------------------------------+-----------------+------------------------+
-| Catheter Type       |                                                               | Per 100 devices | Per 1000 catheter-days |
-+=====================+===============================================================+=================+========================+
-| **Hickman/Broviac** | ![](images/Screenshot%202026-02-06%20174909.png){width="100"} | 22.5            | 1.6                    |
-+---------------------+---------------------------------------------------------------+-----------------+------------------------+
-| **Port-a-cath**     | ![](images/clipboard-47554115.png)                            | 3.5-4           | 0.1                    |
-+---------------------+---------------------------------------------------------------+-----------------+------------------------+
-| **PICC**            | ![](images/PICC.png){width="153"}                             | 3.1             | 1.1                    |
-+---------------------+---------------------------------------------------------------+-----------------+------------------------+
+| Catheter Type |   | Per 100 devices | Per 1000 catheter-days |
+|----|----|----|----|
+| **Hickman/Broviac** | ![](images/Screenshot%202026-02-06%20174909.png){width="100"} | 22.5 | 1.6 |
+| **Port-a-cath** | ![](images/clipboard-47554115.png) | 3.5-4 | 0.1 |
+| **PICC** | ![](images/PICC.png){width="153"} | 3.1 | 1.1 |
 
 ::: notes
 Patients with hematologic malignancies, especially acute leukemia, have higher CVC infection rates than those with solid tumors.
@@ -513,17 +509,12 @@ This shift is accompanied by increasing antimicrobial resistance, making empiric
 
 **Fluoroquinolone prophylaxis:**
 
-+--------------------------+----------------------------------------------------------+
-| Pros                     | Cons                                                     |
-+==========================+==========================================================+
+| Pros | Cons |
+|----|----|
 | Reduces febrile episodes | Increasing resistance, <br> especially selection of ESBL |
-+--------------------------+----------------------------------------------------------+
-| Reduces BSI              | No mortality benefit (recent data)                       |
-+--------------------------+----------------------------------------------------------+
-| Oral administration      | Drug interactions                                        |
-+--------------------------+----------------------------------------------------------+
-|                          | QT prolongation, tendinopathy                            |
-+--------------------------+----------------------------------------------------------+
+| Reduces BSI | No mortality benefit (recent data) |
+| Oral administration | Drug interactions |
+|  | QT prolongation, tendinopathy |
 
 <br> **Current status:** Controversial; some guidelines no longer recommend especially in centeres with high levels of resistance
 
@@ -551,17 +542,12 @@ The benefit of FQ prophylaxis may no longer translate to mortality reduction bec
 
 <br>
 
-+----------------------+-------------------------------------+--------------------------------------------------------+
-| Agent                | Dose                                | Indication                                             |
-+======================+=====================================+========================================================+
-| Fluconazole          | 400 mg daily                        | Candidiasis risk only                                  |
-+----------------------+-------------------------------------+--------------------------------------------------------+
-| Posaconazole tablets | 300 mg BID day 1, then 300 mg daily | AML/MDS/ BMT                                           |
-+----------------------+-------------------------------------+--------------------------------------------------------+
-| Voriconazole         | 200 mg BID                          | Alternative <br> (TDM needed)                          |
-+----------------------+-------------------------------------+--------------------------------------------------------+
-| Isavuconazole        | 200 mg daily (after loading)        | Alternative, not "approved" for prophylaxis indication |
-+----------------------+-------------------------------------+--------------------------------------------------------+
+| Agent | Dose | Indication |
+|----|----|----|
+| Fluconazole | 400 mg daily | Candidiasis risk only |
+| Posaconazole tablets | 300 mg BID day 1, then 300 mg daily | AML/MDS/ BMT |
+| Voriconazole | 200 mg BID | Alternative <br> (TDM needed) |
+| Isavuconazole | 200 mg daily (after loading) | Alternative, not "approved" for prophylaxis indication |
 
 <br>
 
@@ -628,17 +614,12 @@ G-CSF vs FQ studies show antibiotics may be equally or more effective for preven
 
 <br>
 
-+---------------------+---------------------------+------------------------------+
 | Vaccine             | Timing                    | Notes                        |
-+=====================+===========================+==============================+
+|---------------------|---------------------------|------------------------------|
 | Influenza           | Annual                    | Avoid during intensive chemo |
-+---------------------+---------------------------+------------------------------+
 | Pneumococcal (PCV)  | Before chemo if possible  | Better response than PPSV23  |
-+---------------------+---------------------------+------------------------------+
 | SARS-CoV-2          | 3-dose primary + boosters | All patients and contacts    |
-+---------------------+---------------------------+------------------------------+
 | Herpes zoster (RZV) | VZV seropositive          | Inactivated vaccine          |
-+---------------------+---------------------------+------------------------------+
 
 ::: aside
 PPSV23- 23-valent pneumococcal polysaccharide vaccin
@@ -755,19 +736,13 @@ Two main approaches:
 
 <br>
 
-+-------------------------+--------------+------------------------------+--------------------------------------------+
-| Drug                    | Adult Dose   | Administration               | When                                       |
-+=========================+==============+==============================+============================================+
-| Piperacillin-tazobactam | 4.5 g q6-8h  | Extended/continuous infusion | Low risk of ESBL                           |
-+-------------------------+--------------+------------------------------+--------------------------------------------+
-| Cefepime                | 2 g q8h      | Extended infusion            | Low risk of ESBL- active at lower inoculum |
-+-------------------------+--------------+------------------------------+--------------------------------------------+
-| Meropenem               | 1-2 g q8h    | Extended infusion (3-6h)     | Higher risk of ESBL                        |
-+-------------------------+--------------+------------------------------+--------------------------------------------+
-| Ceftazidime-avibactam   | 2.5 g q8h    | 2-hour infusion              | Higher risk of KPC carbapenemase           |
-+-------------------------+--------------+------------------------------+--------------------------------------------+
-| Ceftolozane-tazobactam  | 1.5-3 g q8h  | 1-hour infusion              | Higher risk of MDR *P. aeruginosa*         |
-+-------------------------+--------------+------------------------------+--------------------------------------------+
+| Drug | Adult Dose | Administration | When |
+|----|----|----|----|
+| Piperacillin-tazobactam | 4.5 g q6-8h | Extended/continuous infusion | Low risk of ESBL |
+| Cefepime | 2 g q8h | Extended infusion | Low risk of ESBL- active at lower inoculum |
+| Meropenem | 1-2 g q8h | Extended infusion (3-6h) | Higher risk of ESBL |
+| Ceftazidime-avibactam | 2.5 g q8h | 2-hour infusion | Higher risk of KPC carbapenemase |
+| Ceftolozane-tazobactam | 1.5-3 g q8h | 1-hour infusion | Higher risk of MDR *P. aeruginosa* |
 
 ::: notes
 Extended/continuous infusion of beta-lactams improves pharmacodynamic target attainment and may improve outcomes.
