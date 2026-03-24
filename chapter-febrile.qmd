@@ -6,7 +6,7 @@ author:
     affiliation: "Department of Molecular Medicine, University of Padua"
     email: russelledward.lewis@unipd.it
 date: last-modified
-bibliography: references-febrile.bib
+bibliography: references.bib
 csl: diagnostic-microbiology-and-infectious-disease.csl
 format:
   html:
@@ -657,69 +657,9 @@ Extended/continuous infusion of β-lactams improves pharmacodynamic target attai
 
 ### Skin Lesions
 
-Skin lesions in neutropenic patients may represent evidence of disseminated infection via hematogenous spread and should prompt urgent evaluation. The absence of the typical inflammatory response means that even small or atypical skin findings can herald life-threatening bacteremia or fungemia.
+Skin lesions in neutropenic patients may represent evidence of disseminated infection via hematogenous spread and should prompt urgent evaluation.
 
-![Cutaneous manifestations of infection in neutropenic patients. Clockwise from top left: early maculopapular lesions; hemorrhagic nodules; ecthyma gangrenosum (necrotic ulcer with black eschar — most commonly caused by *P. aeruginosa* or invasive molds); *Clostridium perfringens* septicemia with intravascular hemolysis; skin lesions of disseminated candidiasis; disseminated *Fusarium* papules](images/skin.png){#fig-skin-lesions}
-
-#### Ecthyma Gangrenosum
-
-Ecthyma gangrenosum (EG) is a distinctive cutaneous lesion that represents hematogenous seeding of the dermis and subcutaneous tissue. Recognition is clinically important because it signals systemic infection and mandates targeted investigation and therapy.
-
-**Pathogenesis and clinical progression:**
-
-The lesion begins as an erythematous or purpuric macule and progresses rapidly through a hemorrhagic bullous stage to produce a **necrotic ulcer with a black eschar** surrounded by an erythematous halo. This appearance results from perivascular bacterial or fungal invasion of blood vessel walls, leading to ischemia and tissue infarction. Histopathology shows vascular invasion, necrosis, and organisms in the absence of a significant inflammatory infiltrate — a direct consequence of profound neutropenia.
-
-Lesions typically appear on the **buttocks, perineum, axillae**, and extremities, but can occur at any body site. Importantly, EG may occur in the absence of documented bacteremia (5–15% of cases), representing direct inoculation rather than hematogenous spread.
-
-::: {.callout-important}
-## Key Differential
-Ecthyma gangrenosum must be distinguished from leukemia cutis (infiltration by malignant blasts), which requires biopsy; and from necrotizing fasciitis, which requires urgent surgical exploration.
-:::
-
-**Causative pathogens:**
-
-| Pathogen | Frequency | Notes |
-|---|---|---|
-| *Pseudomonas aeruginosa* | Most common | Bacteremia or local invasion; associated with high mortality |
-| *Aspergillus* spp. | Common in prolonged neutropenia | Angioinvasive; blood cultures often negative |
-| *Fusarium* spp. | Common in prolonged neutropenia | Positive blood cultures in ~50% of cases |
-| Other gram-negatives | Less common | *Stenotrophomonas*, *Acinetobacter*, *E. coli* |
-| *Candida* spp. | Uncommon for classic EG | More often papulonodular or macronodular |
-
-: Pathogens associated with ecthyma gangrenosum in neutropenic patients {#tbl-eg-pathogens}
-
-**Urgent evaluation:**
-
-- Blood cultures (×2 sets) before initiating any changes in therapy
-- **Skin biopsy** — mandatory; send for histopathology AND bacterial, fungal, and mycobacterial cultures
-- CT imaging of affected region and chest to assess for disseminated disease
-- Dermatology or infectious diseases consultation
-
-**Management:**
-
-- Confirm adequate anti-*Pseudomonas* β-lactam coverage; escalate to carbapenem if not already included
-- Add mold-active antifungal therapy (liposomal amphotericin B or voriconazole) pending biopsy results in high-risk patients (prolonged neutropenia, prior antifungal exposure)
-- Definitive treatment guided by biopsy and culture results
-
-#### Other Cutaneous Patterns
-
-**Disseminated candidiasis:** Presents as scattered, 0.5–1.0 cm erythematous papulonodular lesions, often with central necrosis. Most common in prolonged neutropenia; blood cultures may be negative. Echinocandin therapy is first-line.
-
-**Disseminated *Fusarium*:** Multiple painful erythematous papules progressing to necrotic lesions, often indistinguishable from EG. Positive blood cultures are found in approximately 50% of cases — a feature that helps distinguish fusariosis from aspergillosis. Liposomal amphotericin B or voriconazole are treatment options.
-
-**Intravascular hemolysis (*Clostridium perfringens*):** Rapidly expanding ecchymotic, crepitant skin necrosis with systemic intravascular hemolysis (hemoglobinuria, bronze skin discoloration, rapidly falling hemoglobin). A fulminant emergency; requires immediate surgical debridement and high-dose penicillin plus clindamycin.
-
-#### Treatment Algorithm for Skin Presentations
-
-The NCCN guidelines provide a structured approach to cutaneous presentations based on initial clinical finding:
-
-![NCCN treatment modification algorithm for skin, soft tissue, and vascular access device infections in febrile neutropenic patients](images/pptx_slide51.png){#fig-skin-algorithm}
-
-Key principles:
-- **Cellulitis/soft tissue infections:** Aspirate or biopsy for culture; add Gram-positive active agents (vancomycin)
-- **Vesicular lesions:** Swab/scraping for HSV/VZV PCR; start acyclovir or valacyclovir empirically
-- **Disseminated papules or other lesions:** Biopsy for bacterial, fungal, and mycobacterial cultures + histopathology; consider mold-active antifungal therapy in high-risk patients
-- **Vascular access device inflammation:** Culture catheter and peripheral blood; vancomycin; remove catheter for tunnel infection or septic phlebitis
+![Skin lesions as evidence of disseminated infection in neutropenic patients](images/skin.png){#fig-skin-lesions}
 
 ### Oral and Upper GI Infections
 

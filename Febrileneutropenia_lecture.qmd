@@ -17,7 +17,7 @@ format:
     theme: [custom.scss, default]
     filters:
      - highlight-text
-bibliography: references.bib
+bibliography: references-febrile.bib
 lightbox: true
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
@@ -856,11 +856,61 @@ GM -galactomannan ELISA test, BDG- β-D-glucan
 -   Tunnel infection
 -   Persistent bacteremia despite antibiotic therapy
 
-## Skin lesions
+## Skin lesions {.smaller}
 
 <center>Evidence of disseminated infection (hematogenous spread)</center>
 
+::::: columns
+::: {.column width="55%"}
 ![](images/skin.png)
+:::
+
+::: {.column width="45%"}
+**Common presentations:**
+
+-   **Ecthyma gangrenosum** — necrotic ulcer with black eschar; classic for *P. aeruginosa* or invasive molds (*Aspergillus*, *Fusarium*)
+-   **Disseminated papules/nodules** — *Candida*, *Fusarium*, or *Aspergillus* septate emboli
+-   **Leukemia cutis** — infiltration by circulating blasts
+-   **Intravascular hemolysis** — rapidly spreading crepitant necrosis from *Clostridium perfringens* septicemia
+:::
+:::::
+
+## Ecthyma gangrenosum {.smaller}
+
+<br>
+
+::::: columns
+::: {.column width="55%"}
+**Clinical features:**
+
+-   Begins as erythematous macule → hemorrhagic bullae → **necrotic ulcer** with black eschar and erythematous halo
+-   Usually found on buttocks, perineum, axillae, and extremities
+-   May appear **without** bacteremia (direct skin inoculation)
+
+**Most common pathogens:**
+
+-   *Pseudomonas aeruginosa* (bacteremia or local invasion)
+-   Invasive molds: *Aspergillus* spp., *Fusarium* spp.
+-   Less common: other gram-negative rods, *Stenotrophomonas*, *Candida*
+:::
+
+::: {.column width="45%"}
+**Urgent evaluation:**
+
+-   **Blood cultures** × 2
+-   **Skin biopsy** for histopathology + bacterial, fungal, and mycobacterial cultures
+-   CT imaging to assess for dissemination
+
+**Empiric management:**
+
+-   Add or broaden anti-*Pseudomonas* coverage
+-   Add mold-active antifungal therapy (liposomal amphotericin B or voriconazole) in high-risk patients pending biopsy results
+:::
+:::::
+
+## Skin and soft tissue: treatment approach
+
+![](images/pptx_slide51.png){fig-align="center"}
 
 ## Oral- Upper GI infection
 
