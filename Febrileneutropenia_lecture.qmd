@@ -14,7 +14,7 @@ format:
     incremental: false
     multiplex: false
     chalkboard: false
-    theme: [custom.scss, default]
+    theme: [custom.scss]
     filters:
      - highlight-text
 bibliography: references-febrile.bib
@@ -28,11 +28,11 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 <center>**Russell E. Lewis** <br> Associate Professor of Infectious Diseases <br> Department of Molecular Medicine <br> University of Padua</center>
 
-|  |  |
-|----|----|
++---------------------------------------------+----------------------------------------------------------------+
 | ![](images/dmmunipd_logo.jpeg){width="100"} | ![](images/unipd_seal_white.svg){fig-align="left" width="100"} |
++---------------------------------------------+----------------------------------------------------------------+
 
-<center><br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} [https://github.com/Russlewisbo](https://github.com/Russlewisbo/ESCMID_2022_talk) <br> Slides and course materials: [www.padovaid.com](https://padovaid.com/)</center>
+<center>{{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} [https://github.com/Russlewisbo](https://github.com/Russlewisbo/ESCMID_2022_talk) <br> Slides and course materials: [www.padovaid.com](https://padovaid.com/)</center>
 
 ## Objectives
 
@@ -44,7 +44,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 -   What are common empiric antimicrobial regimens used to treat patients while awaiting diagnostic results?
 
-## Normal hematopoiesis {.smaller}
+## Normal hematopoiesis
 
 <br>
 
@@ -59,7 +59,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
     -   Homogeneous, terminally differentiated effector cells
     -   Short-lived, post-mitotic
     -   Continuous high-throughput production
-    -   Rapid quantitative recovery after chemotherapy <br> (≈2–3 weeks)
+    -   Rapid quantitative recovery after chemotherapy (≈2–3 weeks)
 
 -   **Lymphoid lineage (T, B, NK cells)**
 
@@ -88,7 +88,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 ## Corticosteroids
 
-<br> <br>
+<br>
 
 ::::: columns
 ::: {.column width="50%"}
@@ -111,7 +111,9 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 [@chastainUnintendedConsequencesRisk2023]
 :::
 
-## Immunity and innate immune cells {.smaller}
+## Immunity and innate immune cells
+
+<br>
 
 +--------------------------------+----------------------------------------------------+-------------------------------------------------+
 | Cells                          | Molecules                                          | Active against                                  |
@@ -161,7 +163,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 ## Risk by disease type
 
-<br>
+<br> <br>
 
 | Disease                           | Risk Level |
 |-----------------------------------|------------|
@@ -181,7 +183,7 @@ ALL- aculte lymphoblastic leukemia, <br> CLL- chonic lymphoblastic leukemia
 Risk correlates with intensity of antineoplastic therapy. Children generally have lower infection risk than adults.
 :::
 
-## Clinical signs if infection are muted in neutropenic patients
+## Clinical signs of infection are muted in neutropenic patients
 
 <br>
 
@@ -262,7 +264,7 @@ image:www.biorender.com
 
 ![](images/GI%20sourse.png){fig-align="center"}
 
-## Most common bacterial pathogens {.smaller}
+## Most common bacterial pathogens
 
 ::::: columns
 ::: {.column width="50%"}
@@ -273,7 +275,7 @@ image:www.biorender.com
 <br> <br> <br>
 
 -   Infectious source documented in only 20-30% of episodes
--   Bacteremia documented in 10-25% of patients with fever
+-   Bacteremia documented in 10-25% of patients *with fever*
 -   Aerobic Gram-positive and Gram-negative
 :::
 :::::
@@ -286,7 +288,7 @@ image:www.biorender.com
 
 ![](images/sequence.png){fig-align="center" width="800"}
 
-## Risk of infection vs. duration of neutropenia {.smaller}
+## Risk of infection vs. duration of neutropenia
 
 <br> <br>
 
@@ -304,7 +306,9 @@ image:www.biorender.com
 
 -   Enterococcus
 
--   Clostroides diffile <br>
+-   Clostroides diffile
+
+<br>
 
 -   Herpes simplex
 
@@ -361,13 +365,17 @@ image:www.biorender.com
 
 -   **Biologic agents** - Targeted immune effects
 
-## CVC-related infection rates {.smaller}
+## CVC-related infection rates
 
-| Catheter Type |   | Per 100 devices | Per 1000 catheter-days |
-|----|----|----|----|
-| **Hickman/Broviac** | ![](images/Screenshot%202026-02-06%20174909.png){width="100"} | 22.5 | 1.6 |
-| **Port-a-cath** | ![](images/clipboard-47554115.png) | 3.5-4 | 0.1 |
-| **PICC** | ![](images/PICC.png){width="153"} | 3.1 | 1.1 |
++---------------------+---------------------------------------------------------------+-----------------+------------------------+
+| Catheter Type       |                                                               | Per 100 devices | Per 1000 catheter-days |
++=====================+===============================================================+=================+========================+
+| **Hickman/Broviac** | ![](images/Screenshot%202026-02-06%20174909.png){width="100"} | 22.5            | 1.6                    |
++---------------------+---------------------------------------------------------------+-----------------+------------------------+
+| **Port-a-cath**     | ![](images/clipboard-47554115.png)                            | 3.5-4           | 0.1                    |
++---------------------+---------------------------------------------------------------+-----------------+------------------------+
+| **PICC**            | ![](images/PICC.png){width="153"}                             | 3.1             | 1.1                    |
++---------------------+---------------------------------------------------------------+-----------------+------------------------+
 
 ::: notes
 Patients with hematologic malignancies, especially acute leukemia, have higher CVC infection rates than those with solid tumors.
@@ -375,7 +383,7 @@ Patients with hematologic malignancies, especially acute leukemia, have higher C
 
 ## Biologic agents and infection risk
 
-<br>
+<br> <br>
 
 | Agent       | Key Infections        |
 |-------------|-----------------------|
@@ -456,7 +464,7 @@ This shift is accompanied by increasing antimicrobial resistance, making empiric
 ::: {.column width="50%"}
 **Most Common:**
 
--   *Aspergillus* species (now \> *Candida* in hematology)
+-   *Aspergillus* species (now \> *Candida* in hematology due to fluconazole prophylaxis)
 -   *Candida* species (increasing non-albicans)
 :::
 
@@ -468,6 +476,16 @@ This shift is accompanied by increasing antimicrobial resistance, making empiric
 -   *Mucorales* (increasing in some centers)
 :::
 :::::
+
+::: aside
+Antifungal prophylaxis impacts which pathogens are encountered. Most common presentation is nodular infiltrate on chest CT
+:::
+
+![](images/halo_sign.png){fig-align="center"}
+
+## Breakthrough fungal infections on antifungal prophylaxis
+
+![](images/img-230.jpg){fig-align="center"}
 
 ------------------------------------------------------------------------
 
@@ -486,35 +504,46 @@ This shift is accompanied by increasing antimicrobial resistance, making empiric
 
 ------------------------------------------------------------------------
 
-## Viral Infections
+## Viral infections
 
 <br>
 
 **Herpes viruses:**
 
--   HSV reactivation: 60% of seropositive with acute leukemia
--   VZV: Increased with bortezomib, ruxolitinib
--   CMV: T-cell suppressing regimens
+-   Herpes simplex 1&2 (HHV 1&2) reactivation: 60% of seropositive with acute leukemia
+-   Varicella zoster (HHV3) : Increased with bortezomib, ruxolitinib
+-   Epsein-barr virus (HHV4): Increased with T-cell suppression, post-transplant lymphoproliferative disorder (PTLD)
+-   Cytomegalovirus (HHV5): T-cell suppressing regimens- pneumonitis, colitis, hepatitis
+-   HHV-6: Encephalitis in transplant patients
+-   HHV-7:Roseola-like illness
+-   HHV8: Kaposi's sarcoma
 
 **Respiratory viruses:**
 
 -   Influenza, RSV, parainfluenza
 -   SARS-CoV-2: High morbidity/mortality in cancer patients
 
-# <br> <br> <br> <br> Prophylaxis Strategies {background-color="#9B0014"}
+# Prophylaxis strategies {background-color="#9B0014"}
 
-## Antibacterial Prophylaxis
+## Antibacterial prophylaxis
 
 <br>
 
 **Fluoroquinolone prophylaxis:**
 
-| Pros | Cons |
-|----|----|
++--------------------------+----------------------------------------------------------+
+| Pros                     | Cons                                                     |
++==========================+==========================================================+
 | Reduces febrile episodes | Increasing resistance, <br> especially selection of ESBL |
-| Reduces BSI | No mortality benefit (recent data) |
-| Oral administration | Drug interactions |
-|  | QT prolongation, tendinopathy |
++--------------------------+----------------------------------------------------------+
+| Reduces BSI              | No consistent mortality benefit (recent data) <br>       |
+|                          |                                                          |
+|                          | reduction in febrile episodes                            |
++--------------------------+----------------------------------------------------------+
+| Oral administration      | Drug interactions                                        |
++--------------------------+----------------------------------------------------------+
+|                          | QT prolongation, tendinopathy                            |
++--------------------------+----------------------------------------------------------+
 
 <br> **Current status:** Controversial; some guidelines no longer recommend especially in centeres with high levels of resistance
 
@@ -542,24 +571,29 @@ The benefit of FQ prophylaxis may no longer translate to mortality reduction bec
 
 <br>
 
-| Agent | Dose | Indication |
-|----|----|----|
-| Fluconazole | 400 mg daily | Candidiasis risk only |
-| Posaconazole tablets | 300 mg BID day 1, then 300 mg daily | AML/MDS/ BMT |
-| Voriconazole | 200 mg BID | Alternative <br> (TDM needed) |
-| Isavuconazole | 200 mg daily (after loading) | Alternative, not "approved" for prophylaxis indication |
++----------------------+-------------------------------------+--------------------------------------------------------+
+| Agent                | Dose                                | Indication                                             |
++======================+=====================================+========================================================+
+| Fluconazole          | 400 mg daily                        | Candidiasis risk only                                  |
++----------------------+-------------------------------------+--------------------------------------------------------+
+| Posaconazole tablets | 300 mg BID day 1, then 300 mg daily | AML/MDS/ BMT                                           |
++----------------------+-------------------------------------+--------------------------------------------------------+
+| Voriconazole         | 200 mg BID                          | Alternative <br> (TDM needed)                          |
++----------------------+-------------------------------------+--------------------------------------------------------+
+| Isavuconazole        | 200 mg daily (after loading)        | Alternative, not "approved" for prophylaxis indication |
++----------------------+-------------------------------------+--------------------------------------------------------+
 
 <br>
 
-Problem: *Drug interactions with agents metabolized through CYP3A4. Interactions are less severe with fluconazole and isavuconazole (weak CYP3A4 inhibitors) vs. posaconazole and voriconazole (strong CYP3A4 inhibitors)*
+Problem: Drug interactions with agents metabolized through CYP3A4. Interactions are less severe with fluconazole and isavuconazole (weak CYP3A4 inhibitors) vs. posaconazole and voriconazole (strong CYP3A4 inhibitors)
 
 ## Pneumocystis prophylaxis
 
 <br>
 
-**Indications:**
+**Patients at risk- Indications:**
 
--   ALL (all ages)
+-   Acute lymphocytic leukemia (all ages)
 -   Fludarabine, alemtuzumab, idelalisib therapy (T-cell suppressing chemotherapy)
 -   Corticosteroids ≥10-20 mg/day × 4 weeks
 -   CD4 \<200/µL
@@ -575,7 +609,7 @@ Problem: *Drug interactions with agents metabolized through CYP3A4. Interactions
 **HSV/VZV:**
 
 -   Acyclovir 800 mg BID or valacyclovir 500 mg BID
--   For seropositive patients with acute leukemia
+-   For all seropositive patients with acute leukemia
 -   Required with bortezomib, alemtuzumab, idelalisib
 
 **HBV:**
@@ -585,6 +619,8 @@ Problem: *Drug interactions with agents metabolized through CYP3A4. Interactions
 -   Continue 6-18 months post-chemotherapy
 
 ## Granulocyte-colony stimulating factor (G-CSF)
+
+<br>
 
 ::::: columns
 ::: {.column width="50%"}
@@ -612,22 +648,27 @@ G-CSF vs FQ studies show antibiotics may be equally or more effective for preven
 
 ## Vaccination recommendations
 
-<br>
+<br> <br>
 
++---------------------+---------------------------+------------------------------+
 | Vaccine             | Timing                    | Notes                        |
-|---------------------|---------------------------|------------------------------|
++=====================+===========================+==============================+
 | Influenza           | Annual                    | Avoid during intensive chemo |
++---------------------+---------------------------+------------------------------+
 | Pneumococcal (PCV)  | Before chemo if possible  | Better response than PPSV23  |
++---------------------+---------------------------+------------------------------+
 | SARS-CoV-2          | 3-dose primary + boosters | All patients and contacts    |
++---------------------+---------------------------+------------------------------+
 | Herpes zoster (RZV) | VZV seropositive          | Inactivated vaccine          |
++---------------------+---------------------------+------------------------------+
 
 ::: aside
 PPSV23- 23-valent pneumococcal polysaccharide vaccin
 :::
 
-# <br> <br> <br> <br> Management of Febrile Neutropenia {background-color="#9B0014"}
+# Management of febrile neutropenia {background-color="#9B0014"}
 
-## Definition of Fever
+## Definition of fever
 
 <br>
 
@@ -647,7 +688,7 @@ For starting empirical antibiotics:
 Fever during neutropenia is a medical emergency. Any delay in antibiotic administration increases mortality.
 :::
 
-## Classification of Episodes
+## Classification of episodes
 
 <br>
 
@@ -656,7 +697,7 @@ Fever during neutropenia is a medical emergency. Any delay in antibiotic adminis
 3.  **Clinically documented** - Signs/symptoms without microbiologic proof
 4.  **Fever of unknown origin (FUO)** - No clinical or microbiologic documentation
 
-## Risk Stratification: MASCC Score
+## Risk stratification: MASCC score
 
 <br>
 
@@ -671,9 +712,11 @@ Fever during neutropenia is a medical emergency. Any delay in antibiotic adminis
 | No dehydration                        | 3      |
 | Age \<60 years                        | 2      |
 
+<br> <br>
+
 <center>**Score \>21: Low risk**</center>
 
-## Risk Stratification: CISNE Score
+## Risk stratification: CISNE score
 
 <br>
 
@@ -686,13 +729,15 @@ Fever during neutropenia is a medical emergency. Any delay in antibiotic adminis
 | Mucositis grade ≥2     | 1      |
 | Monocytes \<200/µL     | 1      |
 
+<br> <br>
+
 <center>**Score ≥3: High risk** (for solid tumor patients)</center>
 
 ## Treatment strategies
 
 <br>
 
-Two main approaches:
+**Two main approaches:**
 
 **Escalation:**
 
@@ -704,7 +749,7 @@ Two main approaches:
 -   Start broad, narrow when microbiology results available
 -   For unstable patients or MDR colonization
 
-## Escalation Strategy
+## Escalation strategy
 
 <br>
 
@@ -719,7 +764,7 @@ Two main approaches:
 -   Add aminoglycoside and/or change to anti-pseudomonal carbapenem if septic
 -   Add antifungal if persistent fever
 
-## De-escalation Strategy
+## De-escalation strategy
 
 **Day 0:**
 
@@ -736,13 +781,19 @@ Two main approaches:
 
 <br>
 
-| Drug | Adult Dose | Administration | When |
-|----|----|----|----|
-| Piperacillin-tazobactam | 4.5 g q6-8h | Extended/continuous infusion | Low risk of ESBL |
-| Cefepime | 2 g q8h | Extended infusion | Low risk of ESBL- active at lower inoculum |
-| Meropenem | 1-2 g q8h | Extended infusion (3-6h) | Higher risk of ESBL |
-| Ceftazidime-avibactam | 2.5 g q8h | 2-hour infusion | Higher risk of KPC carbapenemase |
-| Ceftolozane-tazobactam | 1.5-3 g q8h | 1-hour infusion | Higher risk of MDR *P. aeruginosa* |
++-------------------------+--------------+------------------------------+--------------------------------------------+
+| Drug                    | Adult Dose   | Administration               | When                                       |
++=========================+==============+==============================+============================================+
+| Piperacillin-tazobactam | 4.5 g q6-8h  | Extended/continuous infusion | Low risk of ESBL                           |
++-------------------------+--------------+------------------------------+--------------------------------------------+
+| Cefepime                | 2 g q8h      | Extended infusion            | Low risk of ESBL- active at lower inoculum |
++-------------------------+--------------+------------------------------+--------------------------------------------+
+| Meropenem               | 1-2 g q8h    | Extended infusion (3-6h)     | Higher risk of ESBL                        |
++-------------------------+--------------+------------------------------+--------------------------------------------+
+| Ceftazidime-avibactam   | 2.5 g q8h    | 2-hour infusion              | Higher risk of KPC carbapenemase           |
++-------------------------+--------------+------------------------------+--------------------------------------------+
+| Ceftolozane-tazobactam  | 1.5-3 g q8h  | 1-hour infusion              | Higher risk of MDR *P. aeruginosa*         |
++-------------------------+--------------+------------------------------+--------------------------------------------+
 
 ::: notes
 Extended/continuous infusion of beta-lactams improves pharmacodynamic target attainment and may improve outcomes.
@@ -752,6 +803,12 @@ Extended/continuous infusion of beta-lactams improves pharmacodynamic target att
 
 <br>
 
+::::: columns
+::: {.column width="50%"}
+![](images/Screenshot%202026-02-06%20174909.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
 **Add vancomycin or alternative for:**
 
 -   Suspected catheter-related infection
@@ -762,8 +819,10 @@ Extended/continuous infusion of beta-lactams improves pharmacodynamic target att
 -   Prior MRSA infection
 
 **Stop after 48-72h** if no gram-positive pathogen identified
+:::
+:::::
 
-## Duration of Therapy
+## Duration of therapy
 
 <br>
 
@@ -777,9 +836,9 @@ Extended/continuous infusion of beta-lactams improves pharmacodynamic target att
 -   Guided by pathogen, site, and response
 -   Generally until neutrophil recovery and clinical cure
 
-# <br> <br> <br> <br> Antifungal Therapy {background-color="#9B0014"}
+# Antifungal therapy {background-color="#9B0014"}
 
-## Empirical vs Diagnostic-Driven Approach
+## Empirical vs diagnostic-driven approach
 
 <br>
 
@@ -800,7 +859,7 @@ GM -galactomannan ELISA test, BDG- β-D-glucan
 
 </div>
 
-## Diagnostic Tools
+## Diagnostic tools
 
 <br>
 
@@ -813,7 +872,9 @@ GM -galactomannan ELISA test, BDG- β-D-glucan
 
 ## Mucormycosis
 
-![](images/mucor.png){fig-align="center"}
+<br> <br>
+
+![](images/mucor.jpg){fig-align="center"}
 
 ## Antifungal Selection
 
@@ -826,9 +887,11 @@ GM -galactomannan ELISA test, BDG- β-D-glucan
 | Candidemia             | Echinocandin                            |
 | Empirical therapy      | Liposomal amphotericin B or caspofungin |
 
-# <br> <br> <br> <br> Specific infections {background-color="#9B0014"}
+# Specific infections {background-color="#9B0014"}
 
 ## Central venous catheter (CVC) infections
+
+<br> <br>
 
 ::::: columns
 ::: {.column width="50%"}
@@ -856,9 +919,11 @@ GM -galactomannan ELISA test, BDG- β-D-glucan
 -   Tunnel infection
 -   Persistent bacteremia despite antibiotic therapy
 
-## Skin lesions {.smaller}
+## Skin lesions
 
-<center>Evidence of disseminated infection (hematogenous spread)</center>
+<br>
+
+<center>**Evidence of disseminated infection (hematogenous spread)**</center>
 
 ::::: columns
 ::: {.column width="55%"}
@@ -875,7 +940,7 @@ GM -galactomannan ELISA test, BDG- β-D-glucan
 :::
 :::::
 
-## Ecthyma gangrenosum {.smaller}
+## Ecthyma gangrenosum
 
 <br>
 
@@ -912,7 +977,7 @@ GM -galactomannan ELISA test, BDG- β-D-glucan
 
 ![](images/pptx_slide51.png){fig-align="center"}
 
-## Oral- Upper GI infection
+## Oral- Upper GI infections
 
 **Candida**- Thrush, esophagitis (odynophagia, retrosternal pain)
 
@@ -923,6 +988,8 @@ GM -galactomannan ELISA test, BDG- β-D-glucan
 **Disseminated HSV**- widespread vesicular rash , hepatitis (↑ AST/ALT, sometimes severe), pneumonitis
 
 ## Pneumonia
+
+<br> <br>
 
 <center>Among febrile neutropenic patients with a "normal" chest x-ray, <br> up to 60% of patients may have findings of pneumonia on CT</center>
 
@@ -948,7 +1015,9 @@ PCP- pneumocystic (carinii) jirovecii pneumonia, BOOP- bronchiolitis obliterans 
 
 ![](images/BAL.png){fig-align="center" width="800"}
 
-## Neutropenic Enterocolitis (Typhlitis)
+## Neutropenic enterocolitis (Typhlitis)
+
+<br>
 
 ![](images/typhlitis.png){fig-align="center" width="800"}
 
@@ -970,13 +1039,21 @@ PCP- pneumocystic (carinii) jirovecii pneumonia, BOOP- bronchiolitis obliterans 
 
 <br>
 
--   **First-line treatment:** Reduce unnecessary antibiotics →oral vancomycin 125 mg QID for 10 days or fidaxomicin 200 mg BID for 10 days
+::::: columns
+::: {.column width="50%"}
+-   **First-line treatment:** Stop unnecessary antibiotics →oral vancomycin 125 mg QID for 10 days or fidaxomicin 200 mg BID for 10 days
 
 -   **Fulminant disease:** Oral vancomycin 500 mg QID (or via NG tube) combined with IV metronidazole 500 mg TID; →consider rectal vancomycin instillation if ileus is present
 
 -   **Ongoing/worsening CDI:** Fidaxomicin if initially treated with vancomycin→ fecal microbiota transplant (if not neutropenic)
 
--   **CDI resolved but at risk of recurrence:** Consider continuing vancomycin or fidaxomicin if diarrhea recurs, and prophylactic vancomycin during subsequent antibiotic courses → taper regimens fecal transplant (not neutropenic) or bezlotoxumab
+-   **CDI resolved but at risk of recurrence:** Consider continuing vancomycin or fidaxomicin if diarrhea recurs, and prophylactic vancomycin during subsequent antibiotic courses → taper regimens, fecal transplant (if patient not neutropenic) or bezlotoxumab
+:::
+
+::: {.column width="50%"}
+![](images/cdifficile.png){fig-align="center"}
+:::
+:::::
 
 ## How to assess clinical response <br> in febrile neutropenic patient?
 
@@ -1006,7 +1083,7 @@ PCP- pneumocystic (carinii) jirovecii pneumonia, BOOP- bronchiolitis obliterans 
 
 </iframe>
 
-# <br> <br> <br> <br> Antimicrobial stewardship {background-color="#9B0014"}
+# Antimicrobial stewardship {background-color="#9B0014"}
 
 ## Core components
 
@@ -1019,7 +1096,7 @@ PCP- pneumocystic (carinii) jirovecii pneumonia, BOOP- bronchiolitis obliterans 
 
 **Requires multidisciplinary collaboration**
 
-------------------------------------------------------------------------
+
 
 ## Key stewardship interventions
 
@@ -1036,7 +1113,7 @@ PCP- pneumocystic (carinii) jirovecii pneumonia, BOOP- bronchiolitis obliterans 
 Stewardship is especially important in oncology where prolonged antibiotics and prophylaxis are common.
 :::
 
-------------------------------------------------------------------------
+
 
 ## Summary: Key takeaways
 
@@ -1050,7 +1127,5 @@ Stewardship is especially important in oncology where prolonged antibiotics and 
 6.  **Antifungal therapy** can be empirical or diagnostic-driven
 7.  **Stewardship** is essential to preserve antimicrobial efficacy
 
-------------------------------------------------------------------------
 
-::: {#refs}
-:::
+## References
