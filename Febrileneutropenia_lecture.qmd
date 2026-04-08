@@ -795,7 +795,7 @@ Fever during neutropenia is a medical emergency. Any delay in antibiotic adminis
 | Ceftolozane-tazobactam  | 1.5-3 g q8h  | 1-hour infusion              | Higher risk of MDR *P. aeruginosa*         |
 +-------------------------+--------------+------------------------------+--------------------------------------------+
 
-::: notes
+::: aside
 Extended/continuous infusion of beta-lactams improves pharmacodynamic target attainment and may improve outcomes.
 :::
 
@@ -977,7 +977,7 @@ GM -galactomannan ELISA test, BDG- β-D-glucan
 
 ![](images/pptx_slide51.png){fig-align="center"}
 
-## Oral- Upper GI infections
+## Oral-Upper GI infections
 
 **Candida**- Thrush, esophagitis (odynophagia, retrosternal pain)
 
@@ -1015,13 +1015,13 @@ PCP- pneumocystic (carinii) jirovecii pneumonia, BOOP- bronchiolitis obliterans 
 
 ![](images/BAL.png){fig-align="center" width="800"}
 
-## Neutropenic enterocolitis (Typhlitis)
+## Neutropenic enterocolitis (typhlitis)
 
 <br>
 
 ![](images/typhlitis.png){fig-align="center" width="800"}
 
-## Neutropenic enterocolitis (Typhlitis)
+## Neutropenic enterocolitis (typhlitis)
 
 **Key features:**
 
@@ -1035,7 +1035,7 @@ PCP- pneumocystic (carinii) jirovecii pneumonia, BOOP- bronchiolitis obliterans 
 -   Bowel rest, NG suction if obstruction
 -   Surgery only for perforation/hemorrhage
 
-## *Clostridioides difficile* *colitis*
+## *Clostridioides difficile* colitis
 
 <br>
 
