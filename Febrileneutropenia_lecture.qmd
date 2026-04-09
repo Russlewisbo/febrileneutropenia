@@ -381,23 +381,21 @@ image:www.biorender.com
 Patients with hematologic malignancies, especially acute leukemia, have higher CVC infection rates than those with solid tumors.
 :::
 
-## Biologic agents and infection risk
+## Example Biologic agents and infection risk
 
 <br> <br>
 
-| Agent       | Key Infections        |
-|-------------|-----------------------|
-| Rituximab   | HBV reactivation, PML |
-| Brentuximab | PCP, PML              |
-| Bortezomib  | VZV reactivation      |
-| Ruxolitinib | VZV, TB               |
-| Idelalisib  | HSV, CMV, PCP         |
-| Ibrutinib   | IFD (with steroids)   |
+| Agent | Key Infections |
+|----|----|
+| Rituximab (anti-CD20- Bcell depletion) | HBV reactivation, PML |
+| Brentuximab (anti-CD30 +lymphoma cells) | PCP, PML |
+| Bortezomib (26s proteasome inhibitor-Mantel cell lymphoma, myeloma) | VZV reactivation |
+| Ruxolitinib (JAK1/2 kinase inhibitor) | VZV, TB |
+| Idelalisib (P13K-delta-Bcell receptor inhibitor) | HSV, CMV, PCP |
+| Ibrutinib (Bruton's tyrosine kinase-B cell receptor) | IFD (with steroids) |
 
 ::: aside
-Pneumocystis (carinii) jirovecii pneumonia (PCP); VZV varicella zooster; TB tuberculosis; HSV-herpes simplex virus; CMV- cytomegalovirus; IFD- invasive fungal disease
-
-Progressive multifocal leukoencephalopathy (PML);
+Pneumocystis (carinii) jirovecii pneumonia (PCP); VZV varicella zooster; TB tuberculosis; HSV-herpes simplex virus; CMV- cytomegalovirus; IFD- invasive fungal disease; PML-Progressive multifocal leukoencephalopathy (PML)
 :::
 
 ## Impaired cell-mediated immunity increases the spectrum of possible pathogens {.smaller}
@@ -409,6 +407,8 @@ Progressive multifocal leukoencephalopathy (PML);
 ::: aside
 *These pathogens are not covered by typical empiric regimens used for febrile neutropenia!*
 :::
+
+# Summary-Key pathogens{background-color="#9B0014"}
 
 ## Changing bacterial epidemiology
 
