@@ -26,7 +26,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 <br>
 
-<center>**Russell E. Lewis** <br> Associate Professor of Infectious Diseases <br> Department of Molecular Medicine <br> University of Padua</center>
+<center>**Russell E. Lewis** <br> Associate Professor of Infectious Diseases <br> Department of Molecular Medicine, University of Padua</center>
 
 +---------------------------------------------+----------------------------------------------------------------+
 | ![](images/dmmunipd_logo.jpeg){width="100"} | ![](images/unipd_seal_white.svg){fig-align="left" width="100"} |
@@ -221,7 +221,7 @@ Risk correlates with intensity of antineoplastic therapy. Children generally hav
 :::
 
 ::: {.column width="50%"}
-![](images/MDR%20pseudomonas.png){width="459"}
+![](images/MDR%20pseudomonas.png){width="1200"}
 :::
 :::::
 
@@ -571,17 +571,17 @@ The benefit of FQ prophylaxis may no longer translate to mortality reduction bec
 
 <br>
 
-+----------------------+-------------------------------------+--------------------------------------------------------+
-| Agent                | Dose                                | Indication                                             |
-+======================+=====================================+========================================================+
-| Fluconazole          | 400 mg daily                        | Candidiasis risk only                                  |
-+----------------------+-------------------------------------+--------------------------------------------------------+
-| Posaconazole tablets | 300 mg BID day 1, then 300 mg daily | AML/MDS/ BMT                                           |
-+----------------------+-------------------------------------+--------------------------------------------------------+
-| Voriconazole         | 200 mg BID                          | Alternative <br> (TDM needed)                          |
-+----------------------+-------------------------------------+--------------------------------------------------------+
-| Isavuconazole        | 200 mg daily (after loading)        | Alternative, not "approved" for prophylaxis indication |
-+----------------------+-------------------------------------+--------------------------------------------------------+
++-----------------------+-------------------------------------+--------------------------------------------------------+
+| Agent                 | Dose                                | Indication                                             |
++=======================+=====================================+========================================================+
+| Fluconazole           | 400 mg daily                        | Candidiasis risk only                                  |
++-----------------------+-------------------------------------+--------------------------------------------------------+
+| Posaconazole tablets  | 300 mg BID day 1, then 300 mg daily | AML/MDS/ BMT                                           |
++-----------------------+-------------------------------------+--------------------------------------------------------+
+| Voriconazole          | 200 mg BID                          | Alternative <br> (TDM needed)                          |
++-----------------------+-------------------------------------+--------------------------------------------------------+
+| Isavuconazole         | 200 mg daily (after loading)        | Alternative, not "approved" for prophylaxis indication |
++-----------------------+-------------------------------------+--------------------------------------------------------+
 
 <br>
 
@@ -781,19 +781,19 @@ Fever during neutropenia is a medical emergency. Any delay in antibiotic adminis
 
 <br>
 
-+-------------------------+--------------+------------------------------+--------------------------------------------+
-| Drug                    | Adult Dose   | Administration               | When                                       |
-+=========================+==============+==============================+============================================+
-| Piperacillin-tazobactam | 4.5 g q6-8h  | Extended/continuous infusion | Low risk of ESBL                           |
-+-------------------------+--------------+------------------------------+--------------------------------------------+
-| Cefepime                | 2 g q8h      | Extended infusion            | Low risk of ESBL- active at lower inoculum |
-+-------------------------+--------------+------------------------------+--------------------------------------------+
-| Meropenem               | 1-2 g q8h    | Extended infusion (3-6h)     | Higher risk of ESBL                        |
-+-------------------------+--------------+------------------------------+--------------------------------------------+
-| Ceftazidime-avibactam   | 2.5 g q8h    | 2-hour infusion              | Higher risk of KPC carbapenemase           |
-+-------------------------+--------------+------------------------------+--------------------------------------------+
-| Ceftolozane-tazobactam  | 1.5-3 g q8h  | 1-hour infusion              | Higher risk of MDR *P. aeruginosa*         |
-+-------------------------+--------------+------------------------------+--------------------------------------------+
++-------------------------+----------------+------------------------------+--------------------------------------------+
+| Drug                    | Adult Dose     | Administration               | When                                       |
++=========================+================+==============================+============================================+
+| Piperacillin-tazobactam | 4.5 g q6-8h    | Extended/continuous infusion | Low risk of ESBL                           |
++-------------------------+----------------+------------------------------+--------------------------------------------+
+| Cefepime                | 2 g q8h        | Extended infusion            | Low risk of ESBL- active at lower inoculum |
++-------------------------+----------------+------------------------------+--------------------------------------------+
+| Meropenem               | 1-2 g q8h      | Extended infusion (3-6h)     | Higher risk of ESBL                        |
++-------------------------+----------------+------------------------------+--------------------------------------------+
+| Ceftazidime-avibactam   | 2.5 g q8h      | 2-hour infusion              | Higher risk of KPC carbapenemase           |
++-------------------------+----------------+------------------------------+--------------------------------------------+
+| Ceftolozane-tazobactam  | 1.5-3 g q8h    | 1-hour infusion              | Higher risk of MDR *P. aeruginosa*         |
++-------------------------+----------------+------------------------------+--------------------------------------------+
 
 ::: aside
 Extended/continuous infusion of beta-lactams improves pharmacodynamic target attainment and may improve outcomes.
