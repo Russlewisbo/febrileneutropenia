@@ -24,7 +24,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 # Febrile Neutropenia {background-color="#9B0014"}
 
-<br> <br>
+<br>
 
 <center>**Russell E. Lewis** <br> Associate Professor of Infectious Diseases <br> Department of Molecular Medicine <br> University of Padua</center>
 
@@ -1096,8 +1096,6 @@ PCP- pneumocystic (carinii) jirovecii pneumonia, BOOP- bronchiolitis obliterans 
 
 **Requires multidisciplinary collaboration**
 
-
-
 ## Key stewardship interventions
 
 <br> <br>
@@ -1113,8 +1111,6 @@ PCP- pneumocystic (carinii) jirovecii pneumonia, BOOP- bronchiolitis obliterans 
 Stewardship is especially important in oncology where prolonged antibiotics and prophylaxis are common.
 :::
 
-
-
 ## Summary: Key takeaways
 
 <br>
@@ -1127,6 +1123,6 @@ Stewardship is especially important in oncology where prolonged antibiotics and 
 6.  **Antifungal therapy** can be empirical or diagnostic-driven
 7.  **Stewardship** is essential to preserve antimicrobial efficacy
 
-
 ## References
+
 <br>
