@@ -17,7 +17,7 @@ format:
     theme: [custom.scss, default]
     filters:
      - highlight-text
-bibliography: references.bib
+bibliography: references-febrile.bib
 lightbox: true
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
