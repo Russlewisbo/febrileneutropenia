@@ -1,9 +1,9 @@
 /*-- scss:defaults --*/
 
 // fonts
-@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,600&display=swap');
 
-$font-family-sans-serif: 'Jost', Helvetica, Arial, sans-serif !default;
+$font-family-sans-serif: 'IBM Plex Sans', Helvetica, Arial, sans-serif !default;
 $font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
   "Liberation Mono", "Courier New", monospace !default;
 $presentation-font-size-root: 24px !default;
@@ -13,7 +13,7 @@ $presentation-line-height: 1.05 !default;
 // main colors
 $body-bg: #fff !default;
 $body-color: #222 !default;
-$heading-color: #9B0014 !default;
+$heading-color: #b20e10 !default;
 $text-muted: lighten($body-color, 30%) !default;
 
 // link colors
