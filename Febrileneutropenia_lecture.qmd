@@ -842,13 +842,13 @@ Extended/continuous infusion of beta-lactams improves pharmacodynamic target att
 :::
 
 ::: {.column width="50%"}
-**Add vancomycin or alternative for:**
+**Add vancomycin or alternative (daptomycin) for:**
 
 - Suspected catheter-related infection
 - Skin/soft tissue infection
 - Known MRSA colonization
 - Severe sepsis with hypotension
-- Pneumonia
+- Pneumonia (or linezolid but not daptomycin)
 - Prior MRSA infection
 
 **Stop after 48-72h** if no gram-positive pathogen identified
