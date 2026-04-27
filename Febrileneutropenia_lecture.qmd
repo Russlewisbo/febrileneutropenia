@@ -167,10 +167,10 @@ $$\text{ANC} = \text{WBC} \times \frac{(\%\ \text{neutrophils} + \%\ \text{bands
 | **\<100**          | Profound           | Extremely high risk             |
 +--------------------+--------------------+---------------------------------+
 
-:::aside
-* The ANC correlates directly with risk of bacterial and fungal infections
-* Below 500/µL, endogenous flora becomes dangerous (gut, skin)
-* Below 100/µL, risk becomes very high, especially with prolonged duration
+::: aside
+- The ANC correlates directly with risk of bacterial and fungal infections
+- Below 500/µL, endogenous flora becomes dangerous (gut, skin)
+- Below 100/µL, risk becomes very high, especially with prolonged duration
 :::
 
 ## Granulocytes (neutrophils)
@@ -207,7 +207,7 @@ ALL- aculte lymphoblastic leukemia, <br> CLL- chonic lymphoblastic leukemia
 Risk correlates with intensity of antineoplastic therapy. Children generally have lower infection risk than adults.
 :::
 
-## Clinical signs of infection are muted in neutropenic patients
+## Clinical signs of infection are muted <br> in neutropenic patients
 
 <br>
 
@@ -409,21 +409,21 @@ Patients with hematologic malignancies, especially acute leukemia, have higher C
 
 <br> <br>
 
-+---------------------------------------------------------------------+-----------------------+
-| Agent                                                               | Key Infections        |
-+=====================================================================+=======================+
-| Rituximab (anti-CD20- Bcell depletion)                              | HBV reactivation, PML |
-+---------------------------------------------------------------------+-----------------------+
-| Brentuximab (anti-CD30 +lymphoma cells)                             | PCP, PML              |
-+---------------------------------------------------------------------+-----------------------+
-| Bortezomib (26s proteasome inhibitor-Mantel cell lymphoma, myeloma) | VZV reactivation      |
-+---------------------------------------------------------------------+-----------------------+
-| Ruxolitinib (JAK1/2 kinase inhibitor)                               | VZV, TB               |
-+---------------------------------------------------------------------+-----------------------+
-| Idelalisib (P13K-delta-Bcell receptor inhibitor)                    | HSV, CMV, PCP         |
-+---------------------------------------------------------------------+-----------------------+
-| Ibrutinib (Bruton's tyrosine kinase-B cell receptor)                | IFD (with steroids)   |
-+---------------------------------------------------------------------+-----------------------+
++--------------------------------------------------------------------------+-----------------------+
+| Agent                                                                    | Key Infections        |
++==========================================================================+=======================+
+| Rituximab (anti-CD20- Bcell depletion)                                   | HBV reactivation, PML |
++--------------------------------------------------------------------------+-----------------------+
+| Brentuximab (anti-CD30 +lymphoma cells)                                  | PCP, PML              |
++--------------------------------------------------------------------------+-----------------------+
+| Bortezomib <br> (26s proteasome inhibitor-Mantel cell lymphoma, myeloma) | VZV reactivation      |
++--------------------------------------------------------------------------+-----------------------+
+| Ruxolitinib (JAK1/2 kinase inhibitor)                                    | VZV, TB               |
++--------------------------------------------------------------------------+-----------------------+
+| Idelalisib (P13K-delta-Bcell receptor inhibitor)                         | HSV, CMV, PCP         |
++--------------------------------------------------------------------------+-----------------------+
+| Ibrutinib (Bruton's tyrosine kinase-B cell receptor)                     | IFD (with steroids)   |
++--------------------------------------------------------------------------+-----------------------+
 
 ::: aside
 Pneumocystis (carinii) jirovecii pneumonia (PCP); VZV varicella zooster; TB tuberculosis; HSV-herpes simplex virus; CMV- cytomegalovirus; IFD- invasive fungal disease; PML-Progressive multifocal leukoencephalopathy (PML)
