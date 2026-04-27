@@ -155,17 +155,12 @@ $$\text{ANC} = \text{WBC} \times \frac{(\%\ \text{neutrophils} + \%\ \text{bands
 
 <br> <br>
 
-+--------------------+--------------------+---------------------------------+
 | **ANC (cells/µL)** | **Interpretation** | **Clinical relevance**          |
-+====================+====================+=================================+
+|--------------------|--------------------|---------------------------------|
 | 1000–1500          | Mild neutropenia   | Usually low risk                |
-+--------------------+--------------------+---------------------------------+
 | 500–1000           | Moderate           | Increased infection risk        |
-+--------------------+--------------------+---------------------------------+
 | **\<500**          | Severe neutropenia | High risk of serious infections |
-+--------------------+--------------------+---------------------------------+
 | **\<100**          | Profound           | Extremely high risk             |
-+--------------------+--------------------+---------------------------------+
 
 ::: aside
 - The ANC correlates directly with risk of bacterial and fungal infections
@@ -391,15 +386,11 @@ image:www.biorender.com
 
 ## CVC-related infection rates
 
-+---------------------+---------------------------------------------------------------+-----------------+------------------------+
-| Catheter Type       |                                                               | Per 100 devices | Per 1000 catheter-days |
-+=====================+===============================================================+=================+========================+
-| **Hickman/Broviac** | ![](images/Screenshot%202026-02-06%20174909.png){width="100"} | 22.5            | 1.6                    |
-+---------------------+---------------------------------------------------------------+-----------------+------------------------+
-| **Port-a-cath**     | ![](images/clipboard-47554115.png)                            | 3.5-4           | 0.1                    |
-+---------------------+---------------------------------------------------------------+-----------------+------------------------+
-| **PICC**            | ![](images/PICC.png){width="153"}                             | 3.1             | 1.1                    |
-+---------------------+---------------------------------------------------------------+-----------------+------------------------+
+| Catheter Type |   | Per 100 devices | Per 1000 catheter-days |
+|----|----|----|----|
+| **Hickman/Broviac** | ![](images/Screenshot%202026-02-06%20174909.png){width="100"} | 22.5 | 1.6 |
+| **Port-a-cath** | ![](images/clipboard-47554115.png) | 3.5-4 | 0.1 |
+| **PICC** | ![](images/PICC.png){width="153"} | 3.1 | 1.1 |
 
 ::: notes
 Patients with hematologic malignancies, especially acute leukemia, have higher CVC infection rates than those with solid tumors.
@@ -409,21 +400,14 @@ Patients with hematologic malignancies, especially acute leukemia, have higher C
 
 <br> <br>
 
-+--------------------------------------------------------------------------+-----------------------+
-| Agent                                                                    | Key Infections        |
-+==========================================================================+=======================+
-| Rituximab (anti-CD20- Bcell depletion)                                   | HBV reactivation, PML |
-+--------------------------------------------------------------------------+-----------------------+
-| Brentuximab (anti-CD30 +lymphoma cells)                                  | PCP, PML              |
-+--------------------------------------------------------------------------+-----------------------+
-| Bortezomib <br> (26s proteasome inhibitor-Mantel cell lymphoma, myeloma) | VZV reactivation      |
-+--------------------------------------------------------------------------+-----------------------+
-| Ruxolitinib (JAK1/2 kinase inhibitor)                                    | VZV, TB               |
-+--------------------------------------------------------------------------+-----------------------+
-| Idelalisib (P13K-delta-Bcell receptor inhibitor)                         | HSV, CMV, PCP         |
-+--------------------------------------------------------------------------+-----------------------+
-| Ibrutinib (Bruton's tyrosine kinase-B cell receptor)                     | IFD (with steroids)   |
-+--------------------------------------------------------------------------+-----------------------+
+| Agent | Key Infections |
+|----|----|
+| Rituximab (anti-CD20- Bcell depletion) | HBV reactivation, PML |
+| Brentuximab (anti-CD30 +lymphoma cells) | PCP, PML |
+| Bortezomib <br> (26s proteasome inhibitor-Mantel cell lymphoma, myeloma) | VZV reactivation |
+| Ruxolitinib (JAK1/2 kinase inhibitor) | VZV, TB |
+| Idelalisib (P13K-delta-Bcell receptor inhibitor) | HSV, CMV, PCP |
+| Ibrutinib (Bruton's tyrosine kinase-B cell receptor) | IFD (with steroids) |
 
 ::: aside
 Pneumocystis (carinii) jirovecii pneumonia (PCP); VZV varicella zooster; TB tuberculosis; HSV-herpes simplex virus; CMV- cytomegalovirus; IFD- invasive fungal disease; PML-Progressive multifocal leukoencephalopathy (PML)
@@ -602,17 +586,12 @@ The benefit of FQ prophylaxis may no longer translate to mortality reduction bec
 
 <br>
 
-+----------------------+-------------------------------------+--------------------------------------------------------+
-| Agent                | Dose                                | Indication                                             |
-+======================+=====================================+========================================================+
-| Fluconazole          | 400 mg daily                        | Candidiasis risk only                                  |
-+----------------------+-------------------------------------+--------------------------------------------------------+
-| Posaconazole tablets | 300 mg BID day 1, then 300 mg daily | AML/MDS/ BMT                                           |
-+----------------------+-------------------------------------+--------------------------------------------------------+
-| Voriconazole         | 200 mg BID                          | Alternative <br> (TDM needed)                          |
-+----------------------+-------------------------------------+--------------------------------------------------------+
-| Isavuconazole        | 200 mg daily (after loading)        | Alternative, not "approved" for prophylaxis indication |
-+----------------------+-------------------------------------+--------------------------------------------------------+
+| Agent | Dose | Indication |
+|----|----|----|
+| Fluconazole | 400 mg daily | Candidiasis risk only |
+| Posaconazole tablets | 300 mg BID day 1, then 300 mg daily | AML/MDS/ BMT |
+| Voriconazole | 200 mg BID | Alternative <br> (TDM needed) |
+| Isavuconazole | 200 mg daily (after loading) | Alternative, not "approved" for prophylaxis indication |
 
 <br>
 
@@ -681,17 +660,12 @@ G-CSF vs FQ studies show antibiotics may be equally or more effective for preven
 
 <br> <br>
 
-+---------------------+---------------------------+------------------------------+
 | Vaccine             | Timing                    | Notes                        |
-+=====================+===========================+==============================+
+|---------------------|---------------------------|------------------------------|
 | Influenza           | Annual                    | Avoid during intensive chemo |
-+---------------------+---------------------------+------------------------------+
 | Pneumococcal (PCV)  | Before chemo if possible  | Better response than PPSV23  |
-+---------------------+---------------------------+------------------------------+
 | SARS-CoV-2          | 3-dose primary + boosters | All patients and contacts    |
-+---------------------+---------------------------+------------------------------+
 | Herpes zoster (RZV) | VZV seropositive          | Inactivated vaccine          |
-+---------------------+---------------------------+------------------------------+
 
 ::: aside
 PPSV23- 23-valent pneumococcal polysaccharide vaccin
@@ -812,19 +786,13 @@ Fever during neutropenia is a medical emergency. Any delay in antibiotic adminis
 
 <br>
 
-+-------------------------+--------------+------------------------------+--------------------------------------------+
-| Drug                    | Adult Dose   | Administration               | When                                       |
-+=========================+==============+==============================+============================================+
-| Piperacillin-tazobactam | 4.5 g q6-8h  | Extended/continuous infusion | Low risk of ESBL                           |
-+-------------------------+--------------+------------------------------+--------------------------------------------+
-| Cefepime                | 2 g q8h      | Extended infusion            | Low risk of ESBL- active at lower inoculum |
-+-------------------------+--------------+------------------------------+--------------------------------------------+
-| Meropenem               | 1-2 g q8h    | Extended infusion (3-6h)     | Higher risk of ESBL                        |
-+-------------------------+--------------+------------------------------+--------------------------------------------+
-| Ceftazidime-avibactam   | 2.5 g q8h    | 2-hour infusion              | Higher risk of KPC carbapenemase           |
-+-------------------------+--------------+------------------------------+--------------------------------------------+
-| Ceftolozane-tazobactam  | 1.5-3 g q8h  | 1-hour infusion              | Higher risk of MDR *P. aeruginosa*         |
-+-------------------------+--------------+------------------------------+--------------------------------------------+
+| Drug | Adult Dose | Administration | When |
+|----|----|----|----|
+| Piperacillin-tazobactam | 4.5 g q6-8h | Extended/continuous infusion | Low risk of ESBL |
+| Cefepime | 2 g q8h | Extended infusion | Low risk of ESBL- active at lower inoculum |
+| Meropenem | 1-2 g q8h | Extended infusion (3-6h) | Higher risk of ESBL |
+| Ceftazidime-avibactam | 2.5 g q8h | 2-hour infusion | Higher risk of KPC carbapenemase |
+| Ceftolozane-tazobactam | 1.5-3 g q8h | 1-hour infusion | Higher risk of MDR *P. aeruginosa* |
 
 ::: aside
 Extended/continuous infusion of beta-lactams improves pharmacodynamic target attainment and may improve outcomes.
