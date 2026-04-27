@@ -1,6 +1,7 @@
 name: Render Quarto Slides
 
 on:
+  workflow_dispatch:
   push:
     branches: [main]
     paths:
