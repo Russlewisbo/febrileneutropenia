@@ -31,7 +31,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 <br> <br>
 
-![](images/dmm_newlogo.png){fig-align="center" width="350"}
+![](images/DMM_newlogo.png){fig-align="center" width="350"}
 
 <br> 
 
@@ -39,9 +39,15 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 <br> <br>
 
-::: {style="position: absolute; bottom: 20px; font-size: 0.5em; color: white;"}
-Background video: Neutrophil chasing S. aureus. <br> Taken by Dr. David Rogers, University of Vanderbuilt
+
+
+::: {style="position: absolute; bottom: 20px; width: 100%; text-align: center; font-size: 0.5em; color: white;"}
+
+<br>
+Background video: Neutrophil chasing *S. aureus*. <br> Taken by Dr. David Rogers, University of Vanderbuilt 
 :::
+
+
 
 ## Objectives
 
