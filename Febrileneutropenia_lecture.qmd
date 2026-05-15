@@ -247,7 +247,7 @@ Risk correlates with intensity of antineoplastic therapy. Children generally hav
 :::
 
 ::: {.column width="50%"}
-![](images/MDR%20pseudomonas.png){width="1200"}
+![](images/MDR%20pseudomonas.png){width="1400"}
 :::
 :::::
 
@@ -520,8 +520,6 @@ Antifungal prophylaxis impacts which pathogens are encountered. Most common pres
 
 ![](images/img-230.jpg){fig-align="center"}
 
-------------------------------------------------------------------------
-
 ## Invasive aspergillosis risk
 
 <br>
@@ -707,7 +705,7 @@ PPSV23- 23-valent pneumococcal polysaccharide vaccin
 
 **Every episode of febrile neutropenia — obtain immediately:**
 
-:::::: columns
+::::: columns
 ::: {.column width="50%"}
 **Microbiology**
 
@@ -729,7 +727,7 @@ PPSV23- 23-valent pneumococcal polysaccharide vaccin
 - Chest CT (preferred over X-ray if any respiratory symptoms)
 - Additional CT/ultrasound guided by symptoms
 :::
-::::::
+:::::
 
 ::: aside
 Blood cultures should be drawn **before** antibiotic administration whenever possible, but must not delay empiric therapy.
@@ -739,17 +737,24 @@ Blood cultures should be drawn **before** antibiotic administration whenever pos
 
 <br>
 
-| Clinical Presentation | Key Additional Workup |
-|---|---|
-| Respiratory symptoms / hypoxia | HRCT chest; BAL if stable (GM, cultures, PCR panel) |
-| Abdominal pain / diarrhea | CT abdomen/pelvis; *C. difficile* toxin PCR; stool culture |
-| Skin/soft tissue lesion | Skin biopsy (histopathology + bacterial, fungal, mycobacterial cultures) |
-| Neurological signs | CT/MRI brain; LP if safe (CSF cell count, cultures, cryptococcal Ag) |
-| CVC site inflammation | CVC-drawn vs. peripheral differential time-to-positivity |
-| Persistent fever ≥4–7 days | Repeat CT chest/sinuses; serum GM ± BDG; consider bronchoscopy |
++----------------------------------+--------------------------------------------------------------------------+
+| Clinical Presentation            | Key Additional Workup                                                    |
++==================================+==========================================================================+
+| Respiratory symptoms / hypoxia   | HRCT chest; BAL if stable (GM, cultures, PCR panel)                      |
++----------------------------------+--------------------------------------------------------------------------+
+| Abdominal pain / diarrhea        | CT abdomen/pelvis; *C. difficile* toxin PCR; stool culture               |
++----------------------------------+--------------------------------------------------------------------------+
+| Skin/soft tissue lesion          | Skin biopsy (histopathology + bacterial, fungal, mycobacterial cultures) |
++----------------------------------+--------------------------------------------------------------------------+
+| Neurological signs               | CT/MRI brain; LP if safe (CSF cell count, cultures, cryptococcal Ag)     |
++----------------------------------+--------------------------------------------------------------------------+
+| CVC site inflammation            | CVC-drawn vs. peripheral differential time-to-positivity                 |
++----------------------------------+--------------------------------------------------------------------------+
+| Persistent fever ≥4–7 days       | Repeat CT chest/sinuses; serum GM ± BDG; consider bronchoscopy           |
++----------------------------------+--------------------------------------------------------------------------+
 
 ::: aside
-Diagnostic yield is limited (positive cultures in ~20–30% of episodes), but targeted workup guides de-escalation and avoids unnecessary broad-spectrum exposure.
+Diagnostic yield is limited (positive cultures in \~20–30% of episodes), but targeted workup guides de-escalation and avoids unnecessary broad-spectrum exposure.
 :::
 
 ## Definition of fever
