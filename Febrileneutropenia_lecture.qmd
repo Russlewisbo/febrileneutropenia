@@ -123,31 +123,31 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 <br>
 
-+--------------------------------+--------------------------------------------------+-------------------------------------------------+
-| Cells                          | Molecules                                        | Active against                                  |
-+================================+==================================================+=================================================+
-| **PMNs**                       | <br>                                             | Bacteria, fungi                                 |
-|                                |                                                  |                                                 |
-| - 1° granules                  | - Lysozyme, myeloperoxidase with (with H~2~O~2)~ |                                                 |
-|                                |                                                  |                                                 |
-| - Specific granules            | - Defensins, BPI, lactoferrin                    |                                                 |
-+--------------------------------+--------------------------------------------------+-------------------------------------------------+
-| **Macrophages**                | - Similar to PMN but no myeloperoxidase          | Intracellular pathogens <br>(depletes arginine) |
-|                                |                                                  |                                                 |
-|                                | - Nitric oxide                                   |                                                 |
-|                                |                                                  |                                                 |
-|                                | - Arginase                                       |                                                 |
-+--------------------------------+--------------------------------------------------+-------------------------------------------------+
-| **Eosinophils**                | - Cationic proteins                              | Worms (extracellular)                           |
-|                                |                                                  |                                                 |
-|                                | - Major basic protein                            |                                                 |
-|                                |                                                  |                                                 |
-|                                | - Peroxidase                                     |                                                 |
-+--------------------------------+--------------------------------------------------+-------------------------------------------------+
-| **Natural killing (NK) cells** | - Perforins                                      | Viral or bacterial infected cells               |
-|                                |                                                  |                                                 |
-|                                | - Granzymes                                      |                                                 |
-+--------------------------------+--------------------------------------------------+-------------------------------------------------+
++-------------------------------+--------------------------------------------------+-------------------------------------------------+
+| Cells                         | Molecules                                        | Active against                                  |
++===============================+==================================================+=================================================+
+| **PMNs**                      | <br>                                             | Bacteria, fungi                                 |
+|                               |                                                  |                                                 |
+| - 1° granules                 | - Lysozyme, myeloperoxidase with (with H~2~O~2)~ |                                                 |
+|                               |                                                  |                                                 |
+| - Specific granules           | - Defensins, BPI, lactoferrin                    |                                                 |
++-------------------------------+--------------------------------------------------+-------------------------------------------------+
+| **Macrophages**               | - Similar to PMN but no myeloperoxidase          | Intracellular pathogens <br>(depletes arginine) |
+|                               |                                                  |                                                 |
+|                               | - Nitric oxide                                   |                                                 |
+|                               |                                                  |                                                 |
+|                               | - Arginase                                       |                                                 |
++-------------------------------+--------------------------------------------------+-------------------------------------------------+
+| **Eosinophils**               | - Cationic proteins                              | Worms (extracellular)                           |
+|                               |                                                  |                                                 |
+|                               | - Major basic protein                            |                                                 |
+|                               |                                                  |                                                 |
+|                               | - Peroxidase                                     |                                                 |
++-------------------------------+--------------------------------------------------+-------------------------------------------------+
+| **Natural killer (NK) cells** | - Perforins                                      | Viral or bacterial infected cells               |
+|                               |                                                  |                                                 |
+|                               | - Granzymes                                      |                                                 |
++-------------------------------+--------------------------------------------------+-------------------------------------------------+
 
 ## Quantitative relationship of neutropenia <br> with infection risk
 
@@ -161,7 +161,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 <br>
 
-$$\text{ANC} = \text{WBC} \times \frac{(\%\ \text{neutrophils} + \%\ \text{bands})}{100}$$
+$$\text{ANC} = \text{WBC} \times \frac{(\%\ \text{segmented neutrophils} + \%\ \text{banded neutrophils})}{100}$$
 
 <br> <br>
 
@@ -195,7 +195,7 @@ $$\text{ANC} = \text{WBC} \times \frac{(\%\ \text{neutrophils} + \%\ \text{bands
   - Duration of neutropenia
   - Concurrent organ dysfunction
 
-## Risk by disease type
+## Risk of infection by disease type
 
 <br> <br>
 
@@ -239,7 +239,9 @@ Risk correlates with intensity of antineoplastic therapy. Children generally hav
 [@sickles1975]
 :::
 
-## The integument
+## The integument (skin, mucus membranes)
+
+<br>
 
 ::::: columns
 ::: {.column width="50%"}
@@ -294,7 +296,7 @@ image:www.biorender.com
 
 ![](images/mucositis.png){fig-align="center"}
 
-## Which pathogens translocate?
+## Which pathogens translocate to the bloodstream?
 
 ![](images/GI%20sourse.png){fig-align="center"}
 
@@ -325,9 +327,9 @@ image:www.biorender.com
 +=====================+===============================================================+=================+========================+
 | **Hickman/Broviac** | ![](images/Screenshot%202026-02-06%20174909.png){width="100"} | 22.5            | 1.6                    |
 +---------------------+---------------------------------------------------------------+-----------------+------------------------+
-| **Port-a-cath**     | ![](images/clipboard-47554115.png)                            | 3.5-4           | 0.1                    |
+| **Port-a-cath**     | ![](images/clipboard-47554115.png){width="200"}               | 3.5-4           | 0.1                    |
 +---------------------+---------------------------------------------------------------+-----------------+------------------------+
-| **PICC**            | ![](images/PICC.png){width="153"}                             | 3.1             | 1.1                    |
+| **PICC**            | ![](images/PICC.png){width="150"}                             | 3.1             | 1.1                    |
 +---------------------+---------------------------------------------------------------+-----------------+------------------------+
 
 ::: aside
@@ -368,7 +370,7 @@ Patients with hematologic malignancies, especially acute leukemia, have higher C
 ::: {.column width="33%"}
 **Phase II** **(10-27 days)**
 
-- Phase I pathogens *plus*
+- **Phase I pathogens *plus***
 
 - Methicillin-resistant S. aures (MRSA)
 
@@ -387,7 +389,7 @@ Patients with hematologic malignancies, especially acute leukemia, have higher C
 ::: {.column width="33%"}
 **Phase III (\> 27 days)**
 
-- Phase I&II pathogens, *plus* + Invasive molds
+- **Phase I&II pathogens, *plus*** + Invasive molds
 :::
 ::::::
 
@@ -395,7 +397,7 @@ Patients with hematologic malignancies, especially acute leukemia, have higher C
 
 <br>
 
-![](images/gerson.png){fig-align="center"}
+![](images/gerson.png){fig-align="center" width="1000"}
 
 ::: aside
 [@gerson1984]
@@ -405,11 +407,11 @@ Patients with hematologic malignancies, especially acute leukemia, have higher C
 
 <br>
 
-- **Mucositis** - Barrier disruption, translocation
+- Mucositis - Barrier disruption, translocation
 
-- **Central venous catheters** - Entry point for pathogens
+- Central venous catheters - Entry point for pathogens
 
-- **Microbiome alterations** - Chemotherapy-induced dysbiosis
+- Microbiome alterations - Chemotherapy-induced dysbiosis
 
 - **Immunosuppressive drugs** - T-cell depletion
 
@@ -487,13 +489,13 @@ Pneumocystis (carinii) jirovecii pneumonia (PCP); VZV varicella zooster; TB tube
 
 <br>
 
-![](images/cmi_pathogens.png){fig-align="center"} :
+![](images/cmi_pathogens.png){fig-align="center" width="1000"}
 
 ::: aside
-*These pathogens are not covered by typical empiric regimens used for febrile neutropenia!*
+*These pathogens **are not** covered by typical empiric regimens used for febrile neutropenia!*
 :::
 
-# Summary-Key pathogens {background-color="#b20e10"}
+# Summary-Key infection epidemiology {background-color="#b20e10"}
 
 ## Changing bacterial epidemiology
 
@@ -510,7 +512,7 @@ Pneumocystis (carinii) jirovecii pneumonia (PCP); VZV varicella zooster; TB tube
 - Gram-negative: 45%
 
 ::: notes
-This shift is accompanied by increasing antimicrobial resistance, making empirical therapy selection more challenging.
+This shift is accompanied by increasing antimicrobial resistance, making empirical therapy selection more challenging [@Averbuch2013].
 :::
 
 ## Resistant pathogens of concern
@@ -549,7 +551,7 @@ This shift is accompanied by increasing antimicrobial resistance, making empiric
 ::: {.column width="50%"}
 **Most Common:**
 
-- *Aspergillus* species (now \> *Candida* in hematology due to fluconazole prophylaxis)
+- *Aspergillus* species \> *Candida* in hematology due to fluconazole prophylaxis that covers yeast but not molds
 - *Candida* species (increasing non-albicans)
 :::
 
@@ -574,7 +576,7 @@ Antifungal prophylaxis impacts which pathogens are encountered. Most common pres
 
 ## Invasive aspergillosis risk
 
-<br>
+<br> <br>
 
 | Population                                           | Incidence |
 |------------------------------------------------------|-----------|
@@ -585,15 +587,13 @@ Antifungal prophylaxis impacts which pathogens are encountered. Most common pres
 | Autologous HSCT                                      | 0.3-2%    |
 | Allogeneic HSCT                                      | 8-15%     |
 
-------------------------------------------------------------------------
-
 ## Viral infections
 
 <br>
 
 **Herpes viruses:**
 
-- Herpes simplex 1&2 (HHV 1&2) reactivation: 60% of seropositive with acute leukemia
+- Herpes simplex 1&2 (HHV 1&2) reactivation: reactivation in up to 60% of seropositive patients with mucositis, profound neutropenia, impaired T-cell function, or high-dose corticosteroid exposure
 - Varicella zoster (HHV3) : Increased with bortezomib, ruxolitinib
 - Epsein-barr virus (HHV4): Increased with T-cell suppression, post-transplant lymphoproliferative disorder (PTLD)
 - Cytomegalovirus (HHV5): T-cell suppressing regimens- pneumonitis, colitis, hepatitis
@@ -612,7 +612,7 @@ Antifungal prophylaxis impacts which pathogens are encountered. Most common pres
 
 <br>
 
-**Fluoroquinolone prophylaxis:**
+**Fluoroquinolone (ciprofloxacin, levofloxacin) prophylaxis:**
 
 +--------------------------+----------------------------------------------------------+
 | Pros                     | Cons                                                     |
@@ -630,7 +630,7 @@ Antifungal prophylaxis impacts which pathogens are encountered. Most common pres
 
 <br> **Current status:** Controversial; some guidelines no longer recommend especially in centeres with high levels of resistance
 
-::: notes
+::: aside
 The benefit of FQ prophylaxis may no longer translate to mortality reduction because most prevented infections can be effectively treated with empirical therapy.
 :::
 
@@ -640,7 +640,7 @@ The benefit of FQ prophylaxis may no longer translate to mortality reduction bec
 
 **When to use mold-active prophylaxis:**
 
-- Anticipated IFD incidence \>8%
+- Anticipated IFD incidence in population of \>8%
 - AML/MDS induction chemotherapy
 - High-risk ALL
 - Relapsing leukemia
@@ -652,25 +652,29 @@ The benefit of FQ prophylaxis may no longer translate to mortality reduction bec
 
 ## Antifungal prophylaxis
 
-<br>
+<br> <br>
 
-+----------------------+-------------------------------------+--------------------------------------------------------+
-| Agent                | Dose                                | Indication                                             |
-+======================+=====================================+========================================================+
-| Fluconazole          | 400 mg daily                        | Candidiasis risk only                                  |
-+----------------------+-------------------------------------+--------------------------------------------------------+
-| Posaconazole tablets | 300 mg BID day 1, then 300 mg daily | AML/MDS/ BMT                                           |
-+----------------------+-------------------------------------+--------------------------------------------------------+
-| Voriconazole         | 200 mg BID                          | Alternative <br> (TDM needed)                          |
-+----------------------+-------------------------------------+--------------------------------------------------------+
-| Isavuconazole        | 200 mg daily (after loading)        | Alternative, not "approved" for prophylaxis indication |
-+----------------------+-------------------------------------+--------------------------------------------------------+
++---------------+------------------------------+--------------------------------------------------------+---------------------------------------------------------+
+|               |                              |                                                        |                                                         |
++===============+==============================+========================================================+=========================================================+
+| # Agent       | # Dose                       | # Indication                                           |                                                         |
+|               |                              |                                                        |                                                         |
+| Fluconazole   | 400 mg daily                 | Candidiasis risk only                                  |                                                         |
++---------------+------------------------------+--------------------------------------------------------+---------------------------------------------------------+
+|               |                              |                                                        |                                                         |
++---------------+------------------------------+--------------------------------------------------------+---------------------------------------------------------+
+|               |                              | Posaconazole tablets                                   | 300 mg BID day 1, <br>then 300 mg daily \| AML/MDS/ BMT |
++---------------+------------------------------+--------------------------------------------------------+---------------------------------------------------------+
+| Voriconazole  | 200 mg BID                   | Alternative <br> (TDM needed)                          |                                                         |
++---------------+------------------------------+--------------------------------------------------------+---------------------------------------------------------+
+| Isavuconazole | 200 mg daily (after loading) | Alternative, not "approved" for prophylaxis indication |                                                         |
++---------------+------------------------------+--------------------------------------------------------+---------------------------------------------------------+
 
 <br>
 
 Problem: Drug interactions with agents metabolized through CYP3A4. Interactions are less severe with fluconazole and isavuconazole (weak CYP3A4 inhibitors) vs. posaconazole and voriconazole (strong CYP3A4 inhibitors)
 
-## Pneumocystis prophylaxis
+## Pneumocystis jirovecii prophylaxis
 
 <br>
 
@@ -723,10 +727,10 @@ Problem: Drug interactions with agents metabolized through CYP3A4. Interactions 
 :::
 :::::
 
-::: notes
+::: aside
 G-CSF acts at multiple levels of neutrophil production: it promotes proliferation and differentiation of myeloid progenitor cells committed to the granulocytic lineage, accelerates maturation through the promyelocyte → myelocyte → metamyelocyte → band → mature neutrophil stages, and shortens the transit time through the bone marrow.
 
-G-CSF vs FQ studies show antibiotics may be equally or more effective for preventing febrile neutropenia.
+However, G-CSF vs fluoroquinolone studies show antibiotics may be equally or more effective for preventing febrile neutropenia.
 :::
 
 ## Vaccination recommendations
@@ -746,7 +750,7 @@ G-CSF vs FQ studies show antibiotics may be equally or more effective for preven
 +---------------------+---------------------------+------------------------------+
 
 ::: aside
-PPSV23- 23-valent pneumococcal polysaccharide vaccin
+PPSV23- 23-valent pneumococcal polysaccharide vaccine
 :::
 
 # Management of febrile neutropenia {background-color="#b20e10"}
@@ -772,7 +776,7 @@ PPSV23- 23-valent pneumococcal polysaccharide vaccin
 - CBC with differential, CRP, procalcitonin
 - Comprehensive metabolic panel (LFTs, creatinine)
 - Galactomannan (serum) if prolonged neutropenia or mold risk
-- β-D-glucan if IFD suspected
+- β-D-glucan if invasive fungal disease suspected
 
 **Imaging**
 
@@ -789,21 +793,21 @@ Blood cultures should be drawn **before** antibiotic administration whenever pos
 
 <br>
 
-+--------------------------------+--------------------------------------------------------------------------+
-| Clinical Presentation          | Key Additional Workup                                                    |
-+================================+==========================================================================+
-| Respiratory symptoms / hypoxia | HRCT chest; BAL if stable (GM, cultures, PCR panel)                      |
-+--------------------------------+--------------------------------------------------------------------------+
-| Abdominal pain / diarrhea      | CT abdomen/pelvis; *C. difficile* toxin PCR; stool culture               |
-+--------------------------------+--------------------------------------------------------------------------+
-| Skin/soft tissue lesion        | Skin biopsy (histopathology + bacterial, fungal, mycobacterial cultures) |
-+--------------------------------+--------------------------------------------------------------------------+
-| Neurological signs             | CT/MRI brain; LP if safe (CSF cell count, cultures, cryptococcal Ag)     |
-+--------------------------------+--------------------------------------------------------------------------+
-| CVC site inflammation          | CVC-drawn vs. peripheral differential time-to-positivity                 |
-+--------------------------------+--------------------------------------------------------------------------+
-| Persistent fever ≥4–7 days     | Repeat CT chest/sinuses; serum GM ± BDG; consider bronchoscopy           |
-+--------------------------------+--------------------------------------------------------------------------+
++--------------------------------+---------------------------------------------------------------------------+
+| Clinical Presentation          | Key Additional Workup                                                     |
++================================+===========================================================================+
+| Respiratory symptoms / hypoxia | Computed tomography (CT)of chest; BAL if stable (GM, cultures, PCR panel) |
++--------------------------------+---------------------------------------------------------------------------+
+| Abdominal pain / diarrhea      | CT abdomen/pelvis; *C. difficile* toxin PCR; stool culture                |
++--------------------------------+---------------------------------------------------------------------------+
+| Skin/soft tissue lesion        | Skin biopsy (histopathology + bacterial, fungal, mycobacterial cultures)  |
++--------------------------------+---------------------------------------------------------------------------+
+| Neurological signs             | CT/MRI brain; LP if safe (CSF cell count, cultures, cryptococcal Ag)      |
++--------------------------------+---------------------------------------------------------------------------+
+| CVC site inflammation          | CVC-drawn vs. peripheral differential time-to-positivity                  |
++--------------------------------+---------------------------------------------------------------------------+
+| Persistent fever ≥4–7 days     | Repeat CT chest/sinuses; serum GM ± BDG; consider bronchoscopy            |
++--------------------------------+---------------------------------------------------------------------------+
 
 ::: aside
 Diagnostic yield is limited (positive cultures in \~20–30% of episodes), but targeted workup guides de-escalation and avoids unnecessary broad-spectrum exposure.
@@ -813,7 +817,7 @@ Diagnostic yield is limited (positive cultures in \~20–30% of episodes), but t
 
 <br>
 
-For starting empirical antibiotics:
+**Trigger for starting empirical antibiotics:**
 
 - **Single temperature** ≥38.5°C (oral/axillary), OR
 - **Two measurements** ≥38.0°C separated by ≥1 hour
@@ -880,6 +884,8 @@ Fever during neutropenia is a medical emergency. Any delay in antibiotic adminis
 
 **Two main approaches:**
 
+<br>
+
 **Escalation:**
 
 - Start narrow, broaden if needed
@@ -902,7 +908,8 @@ Fever during neutropenia is a medical emergency. Any delay in antibiotic adminis
 **Day 2-4 (if needed):**
 
 - Add vancomycin if skin/catheter infection
-- Add aminoglycoside and/or change to anti-pseudomonal carbapenem if septic
+- Change to anti-pseudomonal carbapenem if septic
+- Some clinicians may just add aminoglycoside (I do not recommended)
 - Add antifungal if persistent fever
 
 ## De-escalation strategy
@@ -986,6 +993,7 @@ Extended/continuous infusion of beta-lactams improves pharmacodynamic target att
 **Empirical:**
 
 - Start antifungal after 4-7 days persistent fever
+  - Rationale: INnthe past, up to one-third of patients with prolonged neutropenia had evidence of fungal infections at autopsy- not diagnosed antemortem
 - Traditional approach; high antifungal exposure-overtreatment of patients
 
 **Diagnostic-driven:**
@@ -1026,7 +1034,7 @@ GM -galactomannan ELISA test, BDG- β-D-glucan
 | Candidemia             | Echinocandin                            |
 | Empirical therapy      | Liposomal amphotericin B or caspofungin |
 
-# Specific infections {background-color="#b20e10"}
+# Specific clinical infections {background-color="#b20e10"}
 
 ## Central venous catheter (CVC) infections
 
